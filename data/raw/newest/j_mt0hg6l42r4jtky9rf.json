@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T19:26:57.091Z",
+    "stories": [
+      {
+        "story_id": "49366057",
+        "title": "Show HN: LLM-as-a-Verifier Plugin for DeepSeek Harness",
+        "story_url": "https://github.com/uson1x/dsh-plugin-llm-verifier",
+        "author": "gazebushka",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49366053",
+        "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+        "story_url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+        "author": "forthwall",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366021",
+        "title": "The Case for Chilling Out About Birth Rates",
+        "story_url": "https://www.theatlantic.com/ideas/2026/08/birth-rate-panic-overblown/688320/",
+        "author": "paulpauper",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366018",
+        "title": "The Home Slopping Network",
+        "story_url": "https://www.theatlantic.com/technology/2026/08/fairground-ai-roku-channel/688318/",
+        "author": "paulpauper",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366017",
+        "title": "Reproducible, AI-driven large scale changes",
+        "story_url": "https://jeanbza.github.io/ai/infrastructure/2026/08/08/ai-det-stoch.html",
+        "author": "jeanbza",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366011",
+        "title": "Declining Occupations and Career Outcomes in the United States",
+        "story_url": "https://www.nber.org/papers/w35614",
+        "author": "paulpauper",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366006",
+        "title": "Why Saudi Arabia's Neom Megacity Failed",
+        "story_url": "https://www.wsj.com/world/middle-east/how-saudi-arabias-neom-megacity-dream-collapsed-67bd4df4",
+        "author": "neom",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366002",
+        "title": "The Animator Who Inspired Cartoon Network",
+        "story_url": "https://animationobsessive.substack.com/p/the-animator-who-inspired-cartoon",
+        "author": "bookofjoe",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365986",
+        "title": "Roblox to face external audits to prove it's safe for Australian children",
+        "story_url": "https://www.abc.net.au/news/2026-08-20/roblox-esafety-court-enforceable-undertaking/107056294",
+        "author": "asdefghyk",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365980",
+        "title": "Show HN: Notula – where humans edit the Markdown your AI agents read",
+        "story_url": "https://notula.org/",
+        "author": "anetrebskii",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365961",
+        "title": "Prefill and Decode Want Different Computers",
+        "story_url": "https://hiraditya.github.io/posts/prefill-and-decode-want-different-computers/",
+        "author": "speckx",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365958",
+        "title": "Show HN: TurnLeft – a one-button stock car racing game in the browser",
+        "story_url": "https://turnleft.app/",
+        "author": "dberube",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365929",
+        "title": "Growing pains: An update on the ListenBrainz service status",
+        "story_url": "https://blog.metabrainz.org/2026/08/19/growing-pains-an-update-on-the-listenbrainz-service-status/",
+        "author": "rhabarba",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365926",
+        "title": "Show HN: Invoicing and Tax for UK Tradespeople",
+        "story_url": "https://tradetally.co.uk/",
+        "author": "wowinter15",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365924",
+        "title": "X's algorithm feeds off ragebait and impacts Democrats more, study finds",
+        "story_url": "https://www.404media.co/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds/",
+        "author": "madihaa",
+        "publication_time": "12 minutes ago",
+        "points": 9,
+        "comment_count": 1,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365918",
+        "title": "Would you eat fish raised in wastewater ponds?",
+        "story_url": "https://reasonstobecheerful.world/east-kolkata-wetlands/",
+        "author": "heavybiscotti",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365900",
+        "title": "Internal memo: Eight execs out at Expedia Group in AI-driven shakeup",
+        "story_url": "https://www.geekwire.com/2026/internal-memo-eight-execs-out-at-expedia-group-in-ai-driven-shakeup/",
+        "author": "NewGoblin",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365858",
+        "title": "You Underestimate How Much People Want to Hear from You",
+        "story_url": "https://julienreszka.com/blog/you-underestimate-how-much-people-want-to-hear-from-you/",
+        "author": "julienreszka",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365845",
+        "title": "Australia secures court-enforceable child safety undertaking from Roblox",
+        "story_url": "https://www.reuters.com/legal/government/australia-secures-court-enforceable-child-safety-undertaking-roblox-2026-08-19/",
+        "author": "tartoran",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365841",
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "story_url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "author": "1e1a",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365839",
+        "title": "Debugging Postgres Performance Under Row-Level Security",
+        "story_url": "https://engineering.myhoai.com/posts/debugging-postgres-performance-under-row-level-security/",
+        "author": "zhixuan",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365831",
+        "title": "Mark Zuckerberg's AI Manifesto Shows How Little the AI Future Offers",
+        "story_url": "https://illegal.solutions/posts/meta_future",
+        "author": "totallygeeky",
+        "publication_time": "20 minutes ago",
+        "points": 4,
+        "comment_count": 1,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365796",
+        "title": "Help port Thorium Reader to mobile to fight freemium accessibility",
+        "story_url": "https://github.com/edrlab/thorium-reader",
+        "author": "mous_tik",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365783",
+        "title": "Home batteries are suddenly cheap and everywhere. Here's why",
+        "story_url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
+        "author": "toomuchtodo",
+        "publication_time": "23 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365769",
+        "title": "Google Phishing Quiz",
+        "story_url": "https://phishingquiz.withgoogle.com/",
+        "author": "saikatsg",
+        "publication_time": "25 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365752",
+        "title": "Democrats Lost Men",
+        "story_url": "https://www.thefp.com/p/how-democrats-lost-men",
+        "author": "makerdiety",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365749",
+        "title": "One line of JavaScript disabled server rendering on 190 pages",
+        "story_url": "https://watchnext.leyu.studio/blog/one-line-that-disabled-server-rendering",
+        "author": "oujan",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365748",
+        "title": "Show HN: Bewertix – Get More Google Reviews and Win More Customers",
+        "story_url": "https://bewertix.eu/",
+        "author": "not_wowinter13",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365733",
+        "title": "Police officer used Flock cameras to track estranged wife 717 times",
+        "story_url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+        "author": "speckx",
+        "publication_time": "27 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365721",
+        "title": "Show HN: CopyLasso, a free local screen OCR app for macOS",
+        "story_url": "https://copylasso.com/",
+        "author": "bennetthilberg",
+        "publication_time": "29 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

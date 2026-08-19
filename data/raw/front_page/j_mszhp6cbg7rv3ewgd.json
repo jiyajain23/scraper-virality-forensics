@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-19T02:46:05.180Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49355142",
+        "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+        "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+        "points": 145,
+        "time": "1 hour ago",
+        "comments": 64,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49354949",
+        "title": "Cerebras CS-4",
+        "url": "https://www.cerebras.ai/cs4",
+        "points": 83,
+        "time": "2 hours ago",
+        "comments": 56,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49353221",
+        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+        "url": "https://github.com/DenisSergeevitch/desktop-fly",
+        "points": 175,
+        "time": "4 hours ago",
+        "comments": 46,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49345263",
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "points": 962,
+        "time": "13 hours ago",
+        "comments": 556,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49354613",
+        "title": "Solo – a .so loader for static Linux binaries",
+        "url": "https://github.com/pg83/solo",
+        "points": 54,
+        "time": "2 hours ago",
+        "comments": 63,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49349984",
+        "title": "How does IKEA come up with names for its products?",
+        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "points": 245,
+        "time": "8 hours ago",
+        "comments": 145,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49355360",
+        "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
+        "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+        "points": 11,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49349898",
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "points": 212,
+        "time": "8 hours ago",
+        "comments": 28,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49353432",
+        "title": "AI usage patterns in software teams",
+        "url": "https://linear.app/data",
+        "points": 50,
+        "time": "4 hours ago",
+        "comments": 23,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49344825",
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "points": 410,
+        "time": "14 hours ago",
+        "comments": 66,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49334209",
+        "title": "Cursor launches Origin, GitHub alternative",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "points": 486,
+        "time": "13 hours ago",
+        "comments": 379,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49354664",
+        "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+        "url": "https://modelmap.cc/",
+        "points": 35,
+        "time": "2 hours ago",
+        "comments": 5,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 13,
+        "story_id": "49345220",
+        "title": "Fixing a bricked Framework laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "points": 367,
+        "time": "13 hours ago",
+        "comments": 256,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49311814",
+        "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+        "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+        "points": 106,
+        "time": "8 hours ago",
+        "comments": 33,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49348912",
+        "title": "And then the men with guns tell you to do it anyway",
+        "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "points": 180,
+        "time": "9 hours ago",
+        "comments": 104,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49321298",
+        "title": "Being ambitious and being a dad",
+        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+        "points": 320,
+        "time": "6 hours ago",
+        "comments": 189,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49353854",
+        "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+        "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+        "points": 30,
+        "time": "3 hours ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49355105",
+        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+        "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+        "points": 35,
+        "time": "1 hour ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49334960",
+        "title": "Memory prices climb 500% in 12 months",
+        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+        "points": 503,
+        "time": "18 hours ago",
+        "comments": 404,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49355232",
+        "title": "Tiny satellite will use the dark side of the Moon as a shield",
+        "url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+        "points": 13,
+        "time": "1 hour ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49351324",
+        "title": "Beware Management Consultants",
+        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+        "points": 454,
+        "time": "7 hours ago",
+        "comments": 123,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49355368",
+        "title": "The Integer",
+        "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+        "points": 17,
+        "time": "1 hour ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49353407",
+        "title": "GLM-5.3 Artificial Analysis Benchmarks",
+        "url": "https://artificialanalysis.ai/models/glm-5-3",
+        "points": 88,
+        "time": "4 hours ago",
+        "comments": 39,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49279352",
+        "title": "I stopped caring about programming terms",
+        "url": "https://teadriven.com/blog/why-i-stopped-caring-about-terminology/",
+        "points": 11,
+        "time": "1 hour ago",
+        "comments": 10,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49348055",
+        "title": "Apple announces changes for apps in the European Union",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+        "points": 119,
+        "time": "10 hours ago",
+        "comments": 182,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49332981",
+        "title": "Universal health coverage could save $1T and 114k lives a year: study",
+        "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+        "points": 739,
+        "time": "1 day ago",
+        "comments": 808,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49295369",
+        "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
+        "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+        "points": 20,
+        "time": "4 hours ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49348136",
+        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+        "url": "https://machine0.io/",
+        "points": 64,
+        "time": "10 hours ago",
+        "comments": 37,
+        "story_type": "Launch HN"
+      },
+      {
+        "rank": 29,
+        "story_id": "49287463",
+        "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+        "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+        "points": 80,
+        "time": "8 hours ago",
+        "comments": 23,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49354778",
+        "title": "Why crypto's best infrastructure companies stopped looking like crypto?",
+        "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+        "points": 25,
+        "time": "2 hours ago",
+        "comments": 4,
+        "story_type": "external"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

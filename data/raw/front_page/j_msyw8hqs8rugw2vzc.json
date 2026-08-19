@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-18T16:45:21.662Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49348163",
+        "title": "Claude: Degraded Performance for Multiple Models",
+        "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+        "points": 29,
+        "time": "16 minutes ago",
+        "comments": 14,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49348055",
+        "title": "Apple announces changes for apps in the European Union",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+        "points": 28,
+        "time": "22 minutes ago",
+        "comments": 18,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49344825",
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "points": 237,
+        "time": "4 hours ago",
+        "comments": 41,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49345263",
+        "title": "The Amazon Tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "points": 390,
+        "time": "3 hours ago",
+        "comments": 278,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49345220",
+        "title": "Fixing a Bricked Framework Laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "points": 175,
+        "time": "3 hours ago",
+        "comments": 96,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49336392",
+        "title": "How I Under-Engineered My Book",
+        "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
+        "points": 39,
+        "time": "2 hours ago",
+        "comments": 9,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "points": 400,
+        "time": "8 hours ago",
+        "comments": 158,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49345476",
+        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+        "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+        "points": 70,
+        "time": "3 hours ago",
+        "comments": 12,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49348136",
+        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+        "url": "https://machine0.io/",
+        "points": 5,
+        "time": "17 minutes ago",
+        "comments": 1,
+        "story_type": "Launch HN"
+      },
+      {
+        "rank": 10,
+        "story_id": "49272631",
+        "title": "Teaching my kid to code with a modern MUD",
+        "url": "https://tau.dev/2026/08/07/canon",
+        "points": 142,
+        "time": "6 hours ago",
+        "comments": 46,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49334209",
+        "title": "Cursor launches Origin, GitHub alternative",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "points": 133,
+        "time": "3 hours ago",
+        "comments": 87,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49344811",
+        "title": "Fairphone is now officially available in the United States",
+        "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "points": 215,
+        "time": "4 hours ago",
+        "comments": 111,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49345094",
+        "title": "Composable Tests",
+        "url": "https://newsletter.kentbeck.com/p/composable-tests",
+        "points": 39,
+        "time": "3 hours ago",
+        "comments": 33,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49345843",
+        "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+        "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+        "points": 99,
+        "time": "2 hours ago",
+        "comments": 26,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49346538",
+        "title": "Code-native generation of highly programmable 3D assets (2026)",
+        "url": "https://arxiv.org/abs/2607.22738",
+        "points": 18,
+        "time": "1 hour ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49343559",
+        "title": "Google has acquired the data of failed US airline Spirit",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 436,
+        "time": "6 hours ago",
+        "comments": 311,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49310602",
+        "title": "Splitting a Git Commit",
+        "url": "https://blog.gnoack.org/post/git-history-split",
+        "points": 33,
+        "time": "2 hours ago",
+        "comments": 15,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49334960",
+        "title": "Memory prices climb 500% in 12 months",
+        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+        "points": 118,
+        "time": "8 hours ago",
+        "comments": 88,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49344654",
+        "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+        "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+        "points": 167,
+        "time": "4 hours ago",
+        "comments": 113,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49346135",
+        "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+        "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+        "points": 15,
+        "time": "2 hours ago",
+        "comments": 2,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 21,
+        "story_id": "49338459",
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "points": 658,
+        "time": "18 hours ago",
+        "comments": 414,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49347178",
+        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+        "url": "https://github.com/therepanic/openleetcode",
+        "points": 5,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 23,
+        "story_id": "49313346",
+        "title": "Ask HN: Ive quit six systems for tracking my illness. What works?",
+        "url": "https://news.ycombinator.com/item?id=49313346",
+        "points": 8,
+        "time": "1 hour ago",
+        "comments": 3,
+        "story_type": "Ask HN"
+      },
+      {
+        "rank": 24,
+        "story_id": "49342530",
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "points": 175,
+        "time": "9 hours ago",
+        "comments": 91,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49346444",
+        "title": "The coolest anti-surveillance tools at Defcon [video]",
+        "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+        "points": 43,
+        "time": "1 hour ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49305969",
+        "title": "Baking a Model: A Metaphor for LLM Training",
+        "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+        "points": 26,
+        "time": "4 hours ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49340710",
+        "title": "California's new tire efficiency rules could save drivers $1B a year",
+        "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+        "points": 46,
+        "time": "9 hours ago",
+        "comments": 50,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49342472",
+        "title": "Finger: Social network that never died",
+        "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+        "points": 125,
+        "time": "9 hours ago",
+        "comments": 39,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49338328",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "points": 452,
+        "time": "18 hours ago",
+        "comments": 193,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49331551",
+        "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+        "url": "https://saggar.marginalutility.dev/",
+        "points": 42,
+        "time": "10 hours ago",
+        "comments": 46,
+        "story_type": "Show HN"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

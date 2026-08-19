@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-18T11:45:50.633Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "points": 212,
+        "time": "3 hours ago",
+        "comments": 54,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49342530",
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "points": 85,
+        "time": "4 hours ago",
+        "comments": 34,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49338459",
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "points": 560,
+        "time": "13 hours ago",
+        "comments": 365,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49337602",
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "points": 490,
+        "time": "14 hours ago",
+        "comments": 306,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49343559",
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 86,
+        "time": "1 hour ago",
+        "comments": 44,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49338328",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "points": 375,
+        "time": "13 hours ago",
+        "comments": 159,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49338285",
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "points": 226,
+        "time": "13 hours ago",
+        "comments": 49,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49313360",
+        "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+        "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+        "points": 44,
+        "time": "6 hours ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49279208",
+        "title": "I built a golf career management SIM (like Basketball GM, but golf)",
+        "url": "https://www.rainydaygc.com/",
+        "points": 14,
+        "time": "3 hours ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49311115",
+        "title": "Ranking the Most Brilliantly Colored Birds with Data",
+        "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+        "points": 36,
+        "time": "6 hours ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49330781",
+        "title": "A Preview of DuckDB v2.0",
+        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "points": 656,
+        "time": "21 hours ago",
+        "comments": 116,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49341411",
+        "title": "Exercise intensity modulates interorgan communication and is associated with",
+        "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+        "points": 48,
+        "time": "6 hours ago",
+        "comments": 14,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49340299",
+        "title": "The Benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "points": 126,
+        "time": "9 hours ago",
+        "comments": 35,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49337392",
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "points": 608,
+        "time": "14 hours ago",
+        "comments": 379,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49270194",
+        "title": "Olo (Color)",
+        "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+        "points": 468,
+        "time": "23 hours ago",
+        "comments": 84,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49331423",
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "points": 383,
+        "time": "21 hours ago",
+        "comments": 147,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49334991",
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "points": 223,
+        "time": "16 hours ago",
+        "comments": 45,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49344114",
+        "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+        "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+        "points": 8,
+        "time": "16 minutes ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49285139",
+        "title": "Shattered skeleton is first confirmed death from trebuchet",
+        "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+        "points": 79,
+        "time": "10 hours ago",
+        "comments": 51,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49334409",
+        "title": "An update on leaving Gmail for Fastmail",
+        "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+        "points": 258,
+        "time": "18 hours ago",
+        "comments": 161,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49269966",
+        "title": "The Road to MS-DOS 2.0",
+        "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+        "points": 83,
+        "time": "12 hours ago",
+        "comments": 35,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49339097",
+        "title": "Repair Cafe – Fix Your Broken Items",
+        "url": "https://www.repaircafe.org/",
+        "points": 131,
+        "time": "12 hours ago",
+        "comments": 24,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49329575",
+        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+        "points": 343,
+        "time": "23 hours ago",
+        "comments": 163,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49331220",
+        "title": "How to disable or avoid intrusive AI",
+        "url": "https://www.librarian.net/notoai/",
+        "points": 308,
+        "time": "21 hours ago",
+        "comments": 182,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49333824",
+        "title": "Sun Clock",
+        "url": "https://sunclock.net/",
+        "points": 242,
+        "time": "19 hours ago",
+        "comments": 81,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49318607",
+        "title": "Climbing Guide as a Shared Infrastructure",
+        "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+        "points": 24,
+        "time": "6 hours ago",
+        "comments": 10,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49333344",
+        "title": "Judge sets framework for Nine PBS to retrieve archival data",
+        "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+        "points": 172,
+        "time": "19 hours ago",
+        "comments": 65,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49342472",
+        "title": "Finger: Social network that never died",
+        "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+        "points": 16,
+        "time": "4 hours ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49336573",
+        "title": "AI;DR (AI; Didn't Read)",
+        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "points": 923,
+        "time": "15 hours ago",
+        "comments": 562,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49335600",
+        "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+        "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+        "points": 153,
+        "time": "17 hours ago",
+        "comments": 55,
+        "story_type": "external"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

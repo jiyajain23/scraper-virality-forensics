@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T15:10:16.294Z",
+    "stories": [
+      {
+        "story_id": "49362655",
+        "title": "Show HN: Windrose – Fan Control for Apple Silicon Macs",
+        "story_url": "https://index9.dev/windrose",
+        "author": "johnwils",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362654",
+        "title": "The Rise of Fake Polls and the Case for Criminal Liability (2020)",
+        "story_url": "https://scholarship.law.missouri.edu/cgi/viewcontent.cgi?article=4418&context=mlr",
+        "author": "shagie",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362652",
+        "title": "How to Play Golf in North Korea",
+        "story_url": "https://mydiplomaticlife.com/how-to-play-golf-in-north-korea/",
+        "author": "chipndale",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362615",
+        "title": "Living full time as a zero bagger",
+        "story_url": "https://old.reddit.com/r/zerobags/comments/162lk4m/i_am_a_full_time_zerobagger_with_a_shelter_ask_me/jy1ynix/",
+        "author": "MrJagil",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362611",
+        "title": "Ask HN: What is the firejail alternative for macOS",
+        "story_url": "https://news.ycombinator.com/item?id=49362611",
+        "author": "Kushvinth",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49362608",
+        "title": "Eli Lilly files 6 lawsuits against businesses selling black market retatrutide",
+        "story_url": "https://www.npr.org/2026/08/13/g-s1-138594/eli-lilly-files-6-lawsuits-against-businesses-selling-black-market-obesity-drug",
+        "author": "brandonb",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362604",
+        "title": "I Built a Tiny Atari 2600",
+        "story_url": "https://www.hackster.io/nickbild/i-built-a-tiny-atari-2600-8b1a57",
+        "author": "nickbild",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362602",
+        "title": "Amazon seemingly leaked Jason Statham's Mutiny movie",
+        "story_url": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
+        "author": "thm",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362593",
+        "title": "Enshitification Comes for Cursor",
+        "story_url": "https://news.ycombinator.com/item?id=49362593",
+        "author": "jmuguy",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49362588",
+        "title": "Running Doom on Canon EOS 550D",
+        "story_url": "https://www.tomshardware.com/video-games/retro-gaming/github-programmer-ports-doom-to-dslr-camera-with-3-inch-tft-lcd-display-canon-eos-550d-with-open-source-magic-lantern-firmware-uses-cameras-button-as-controls-even-plays-sound",
+        "author": "zdkaster",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362575",
+        "title": "We Like Things",
+        "story_url": "https://asteriskmag.com/issues/15/why-we-like-things",
+        "author": "surprisetalk",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362568",
+        "title": "IBM builds a better fridge for its quantum computers",
+        "story_url": "https://thenewstack.io/ibm-modular-quantum-refrigerator/",
+        "author": "Brajeshwar",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362556",
+        "title": "Show HN: A design skill that turn your feelings into UI and remembers it",
+        "story_url": "https://github.com/MonkeyUI-dev/vibe-to-ui",
+        "author": "LeonTung",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362555",
+        "title": "Show HN: Synchroize, control, and orachstrate any angets on any device",
+        "story_url": "https://github.com/cosyncing/cosyncing",
+        "author": "howardme1",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362526",
+        "title": "Alexander Vampilov",
+        "story_url": "https://en.wikipedia.org/wiki/Alexander_Vampilov",
+        "author": "petethomas",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362524",
+        "title": "Prediction Market Cheating Gets Creative",
+        "story_url": "https://www.wsj.com/opinion/prediction-market-cheating-gets-creative-3068365e",
+        "author": "Anon84",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362523",
+        "title": "Show HN: MandarinClips – Learn conversational Chinese from 130k+ TV drama clips",
+        "story_url": "https://www.mandarinclips.com/en",
+        "author": "mandarinclips",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362512",
+        "title": "The science behind Pixel Watch's insulin resistance feature",
+        "story_url": "https://www.empirical.health/blog/wearable-insulin-resistance/",
+        "author": "brandonb",
+        "publication_time": "12 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362501",
+        "title": "Study Finds Narwhal Tusks Have 2 Spirals – Not 1–Twisting in Opposite Directions",
+        "story_url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+        "author": "bookofjoe",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362499",
+        "title": "A Doctor Who Became Afraid of Death",
+        "story_url": "https://drped.substack.com/p/a-doctor-who-became-afraid-of-death",
+        "author": "jamarna",
+        "publication_time": "13 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362497",
+        "title": "I built a courtroom for the internet. Verdicts stay sealed until you vote",
+        "story_url": "https://courtofstrangers.com/",
+        "author": "briancohen",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362485",
+        "title": "Old-School Electronics Repair Man Vows to Be the Last in Chicago",
+        "story_url": "https://blockclubchicago.org/2026/08/19/old-school-electronics-repair-man-vows-to-be-the-last-in-chicago-a-dying-breed/",
+        "author": "toomuchtodo",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362463",
+        "title": "Mojo is now open source",
+        "story_url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+        "author": "jonathandeamer",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362461",
+        "title": "Show HN: Tech / AI / Product super aggregator – SudoReport",
+        "story_url": "https://sudoreport.com/",
+        "author": "ataturkle",
+        "publication_time": "16 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362447",
+        "title": "Testtospeech.com – New leaderboard adds balance and removes bias",
+        "story_url": "https://texttospeech.com/",
+        "author": "imemily",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362442",
+        "title": "Show HN: Zmina – clipboard with per-app paste transforms",
+        "story_url": "https://zmina.app/",
+        "author": "0-3",
+        "publication_time": "18 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362439",
+        "title": "Product.now",
+        "story_url": "https://product.now/",
+        "author": "luispa",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362437",
+        "title": "Life finds a way OpenAI claims partial pause and rolls out ChatGPT for Teens",
+        "story_url": "https://aistop.watch/p/life-finds-a-way",
+        "author": "Bluestein",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362432",
+        "title": "Landing the Plane",
+        "story_url": "https://www.theengineeringmanager.com/growth/landing-the-plane/",
+        "author": "LaSombra",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362429",
+        "title": "Show HN: Store Front For Vibe coded apps",
+        "story_url": "https://yaadops.com/explore",
+        "author": "ShamarWebster",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

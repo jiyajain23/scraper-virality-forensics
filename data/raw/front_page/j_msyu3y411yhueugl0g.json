@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-18T15:45:40.735Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49344825",
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "points": 186,
+        "time": "3 hours ago",
+        "comments": 37,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49345220",
+        "title": "Fixing a Bricked Framework Laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "points": 124,
+        "time": "2 hours ago",
+        "comments": 52,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49347055",
+        "title": "One Oakland police officer made $490k in overtime",
+        "url": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
+        "points": 26,
+        "time": "19 minutes ago",
+        "comments": 9,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49345263",
+        "title": "The Amazon Tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "points": 291,
+        "time": "2 hours ago",
+        "comments": 218,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "points": 383,
+        "time": "7 hours ago",
+        "comments": 150,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49345476",
+        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+        "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+        "points": 53,
+        "time": "2 hours ago",
+        "comments": 8,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49346404",
+        "title": "JPEG XL converter and .jxl viewer",
+        "url": "https://jpegxlconvert.com/en/",
+        "points": 8,
+        "time": "57 minutes ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49272631",
+        "title": "Teaching my kid to code with a modern MUD",
+        "url": "https://tau.dev/2026/08/07/canon",
+        "points": 121,
+        "time": "5 hours ago",
+        "comments": 39,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49346312",
+        "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
+        "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
+        "points": 26,
+        "time": "1 hour ago",
+        "comments": 16,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49345094",
+        "title": "Composable Tests",
+        "url": "https://newsletter.kentbeck.com/p/composable-tests",
+        "points": 32,
+        "time": "2 hours ago",
+        "comments": 21,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49345843",
+        "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+        "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+        "points": 57,
+        "time": "1 hour ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49344811",
+        "title": "Fairphone is now officially available in the United States",
+        "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "points": 172,
+        "time": "3 hours ago",
+        "comments": 80,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49310602",
+        "title": "Splitting a Git Commit",
+        "url": "https://blog.gnoack.org/post/git-history-split",
+        "points": 14,
+        "time": "1 hour ago",
+        "comments": 6,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49343559",
+        "title": "Google buys crashed airline Spirit's data at auction",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 399,
+        "time": "5 hours ago",
+        "comments": 269,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49344654",
+        "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+        "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+        "points": 136,
+        "time": "3 hours ago",
+        "comments": 90,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49338459",
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "points": 640,
+        "time": "17 hours ago",
+        "comments": 401,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49345091",
+        "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+        "url": "https://github.com/ytkoka/impersonate-proxy",
+        "points": 15,
+        "time": "2 hours ago",
+        "comments": 2,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 18,
+        "story_id": "49345070",
+        "title": "Deus Ex creator Warren Spector is retiring from game development",
+        "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+        "points": 80,
+        "time": "2 hours ago",
+        "comments": 51,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49305969",
+        "title": "Baking a Model: A Metaphor for LLM Training",
+        "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+        "points": 21,
+        "time": "3 hours ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49346538",
+        "title": "Code-native generation of highly programmable 3D assets (2026)",
+        "url": "https://arxiv.org/abs/2607.22738",
+        "points": 5,
+        "time": "49 minutes ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49338328",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "points": 443,
+        "time": "17 hours ago",
+        "comments": 189,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49342530",
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "points": 163,
+        "time": "8 hours ago",
+        "comments": 78,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49337392",
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "points": 893,
+        "time": "18 hours ago",
+        "comments": 514,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49337602",
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "points": 578,
+        "time": "18 hours ago",
+        "comments": 379,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49342472",
+        "title": "Finger: Social network that never died",
+        "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+        "points": 108,
+        "time": "8 hours ago",
+        "comments": 34,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49344643",
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "points": 91,
+        "time": "3 hours ago",
+        "comments": 28,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49333557",
+        "title": "The Size of the World Wide Web",
+        "url": "https://www.worldwidewebsize.com/",
+        "points": 3,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49336392",
+        "title": "How I Under-Engineered My Book",
+        "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
+        "points": 6,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49346135",
+        "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+        "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+        "points": 5,
+        "time": "1 hour ago",
+        "comments": 1,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 30,
+        "story_id": "49338285",
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "points": 267,
+        "time": "17 hours ago",
+        "comments": 66,
+        "story_type": "external"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

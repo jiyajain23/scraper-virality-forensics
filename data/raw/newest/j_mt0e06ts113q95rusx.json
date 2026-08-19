@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T17:50:33.077Z",
+    "stories": [
+      {
+        "story_id": "49364778",
+        "title": "AirTag appears to confirm suspicions about illicit AI book scanning",
+        "story_url": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
+        "author": "kristianpaul",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364771",
+        "title": "Cursor increases usage limits but switches auto from flat to model rate",
+        "story_url": "https://www.reddit.com/r/cursor/comments/1vsqshp/anyone_got_this_email/",
+        "author": "mellosouls",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364758",
+        "title": "3D-printing enthusiast creates 'Flock Sock' to blind controversial cameras",
+        "story_url": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-creates-flock-sock-camera-blind-slip-on-cover-attaches-to-broom-handle-to-make-it-easy-to-put-on-devices-placed-on-traffic-and-streetlights",
+        "author": "Bluestein",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364749",
+        "title": "What If Maintainer Burnout Isn't Burnout",
+        "story_url": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
+        "author": "speckx",
+        "publication_time": "2 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364745",
+        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "story_url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "author": "Animux",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364721",
+        "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+        "story_url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+        "author": "albertpedersen",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364693",
+        "title": "Employers are ghosting college grads and rescinding offers",
+        "story_url": "https://www.sfgate.com/bayarea/article/employers-ghosting-college-grads-22393277.php",
+        "author": "bryan0",
+        "publication_time": "7 minutes ago",
+        "points": 9,
+        "comment_count": 1,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364681",
+        "title": "The Mark of the Machine",
+        "story_url": "https://www.newyorker.com/culture/infinite-scroll/the-mark-of-the-machine",
+        "author": "samizdis",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364658",
+        "title": "Opus 5.0 drives incoherence into the stratosphere",
+        "story_url": "https://github.com/anthropics/claude-code/issues/77136",
+        "author": "Bluestein",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364633",
+        "title": "People Are Cutting Down Flock Cameras En Masse",
+        "story_url": "https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock",
+        "author": "cdrnsf",
+        "publication_time": "11 minutes ago",
+        "points": 7,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364623",
+        "title": "Stripe Agrees to Acquire OpenRouter",
+        "story_url": "https://stripe.com/en-at/newsroom/news/stripe-agrees-to-acquire-openrouter",
+        "author": "tosh",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364611",
+        "title": "New zero-knowledge cryptography SaaS coming soon",
+        "story_url": "https://www.patreon.com/cw/evalocker",
+        "author": "chipergdc",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364597",
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "story_url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "author": "madihaa",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364594",
+        "title": "Show HN: HRAG – Hybrid RAG on €116/month of Hetzner, officially benchmarked",
+        "story_url": "https://hrag.app/",
+        "author": "victor_edka",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364592",
+        "title": "Show HN: Wholly.to helps you send people money with no/low fees",
+        "story_url": "https://wholly.to/",
+        "author": "8by3",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364590",
+        "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+        "story_url": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
+        "author": "flyingfishisme",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364587",
+        "title": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial",
+        "story_url": "https://www.cnn.com/2026/08/19/health/moderna-merck-mrna-melanoma-vaccine",
+        "author": "jamarna",
+        "publication_time": "14 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364567",
+        "title": "Data breach at shipping giant Ceva Logistics",
+        "story_url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+        "author": "awalGarg",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364564",
+        "title": "How Claude's Watermark Works",
+        "story_url": "https://instavm.io/blog/how-claudes-watermark-works",
+        "author": "mkagenius",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364559",
+        "title": "OpenRouter Is Joining Stripe",
+        "story_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "author": "rvz",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364544",
+        "title": "$Tripe, the Singualrity Has Begun",
+        "story_url": "https://www.axios.com/2026/08/19/stripe-payments-openrouter-singularity",
+        "author": "Taikhoom10",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364522",
+        "title": "Mana Hempcrete Walls",
+        "story_url": "https://tasteofselfsufficiency.co.uk/2026/08/17/mana-hempcrete-walls/",
+        "author": "speckx",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364518",
+        "title": "Expired credit cards revived by researchers to make unauthorized payments",
+        "story_url": "https://www.theregister.com/security/2026/08/18/expired-credit-cards-revived-by-researchers-to-make-unauthorized-payments/5289229",
+        "author": "joebuckwilliams",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364500",
+        "title": "Show HN: Virtual Panoramas of the Cambrian",
+        "story_url": "https://flyingspringrol.github.io/BloomEducation/palezoic/",
+        "author": "aronowb14",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364494",
+        "title": "The Intrinsic Valuation of Biodiversity Loss [pdf]",
+        "story_url": "https://static1.squarespace.com/static/5b4b997eda02bc592b5131cd/t/6a6d97b71fab6c1175baf018/1785567159499/growth_animal_welfare.pdf",
+        "author": "marojejian",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364489",
+        "title": "Stripe Agrees to Acquire OpenRouter",
+        "story_url": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter",
+        "author": "mmcclure",
+        "publication_time": "23 minutes ago",
+        "points": 5,
+        "comment_count": 1,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364488",
+        "title": "The Open Source Maintenance Fee for Polly",
+        "story_url": "https://thepollyproject.org/2026/07/14/polly-osmf-announcement.html",
+        "author": "ngetchell",
+        "publication_time": "23 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364464",
+        "title": "Show HN: Headless Terminal: skill for agents to use interactive TUI/CLI programs",
+        "story_url": "https://www.skills.sh/montanaflynn/headless-terminal/headless-terminal",
+        "author": "anonfunction",
+        "publication_time": "25 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364444",
+        "title": "MX Records: The Untold Story of Email",
+        "story_url": "https://blog.lacnic.net/en/story-of-email/",
+        "author": "alvis",
+        "publication_time": "27 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364423",
+        "title": "Analysis of 3,602 ChatGPT ads: advertisers appeared in answers 8% of the time",
+        "story_url": "https://nile.app/blog/chatgpt-ads-paid-vs-recommended/",
+        "author": "zhaoAI",
+        "publication_time": "28 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

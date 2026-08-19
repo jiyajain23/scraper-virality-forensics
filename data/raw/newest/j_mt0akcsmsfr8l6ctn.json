@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T16:14:11.102Z",
+    "stories": [
+      {
+        "story_id": "49363480",
+        "title": "If this algorithm runs too long, you can compress randomness",
+        "story_url": "https://www.sidhantbansal.com/2026/Entropy-Stops-This-Algorithm/",
+        "author": "sidhantbansal",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363473",
+        "title": "What it felt like to hit the Hacker News front page",
+        "story_url": "https://heyjonny.dev/posts/hitting-the-hacker-news-front-page/",
+        "author": "heyjonny",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363466",
+        "title": "AWS new AZ in eu-west-2 - beware of unexpected results",
+        "story_url": "https://news.ycombinator.com/item?id=49363466",
+        "author": "eddie_catflap",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49363460",
+        "title": "How Much Memory Does Your Agent Actually Need?",
+        "story_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "author": "Brajeshwar",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363458",
+        "title": "Most Code Edits Don't Need an IDE",
+        "story_url": "https://medium.com/@chris.ahrweiler/most-code-edits-dont-need-an-ide-163ec4ef299f",
+        "author": "docjojo",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363440",
+        "title": "Show HN: LongTerMemory, an AI EdTech Platform",
+        "story_url": "https://wired.business/longtermemory",
+        "author": "aledevv",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49363433",
+        "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+        "story_url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+        "author": "felineflock",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363430",
+        "title": "MicroSD torture test: 133PB written, SanDisk fails 6 of 7 cards tested",
+        "story_url": "https://www.tomshardware.com/pc-components/microsd-cards/microsd-card-testing-database-celebrates-third-anniversary-with-133-petabytes-of-data-written-across-4-6-million-cycles-hundreds-of-cards-tested-to-failure-reveal-sandisk-as-the-outlier-with-6-failures-of-the-7-tested",
+        "author": "sbulaev",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363358",
+        "title": "Why compiling Rust to WebAssembly is slow",
+        "story_url": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
+        "author": "jedisct1",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363339",
+        "title": "What a Time to Be an Agent",
+        "story_url": "https://hollisrobbinsanecdotal.substack.com/p/what-a-time-to-be-an-agent",
+        "author": "HR01",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363334",
+        "title": "Moderna shares double on melanoma vaccine trial success",
+        "story_url": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f",
+        "author": "marvel_boy",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363306",
+        "title": "Create Perfect Icons for macOS, iOS, Android, and the Web",
+        "story_url": "https://medium.com/@chris.ahrweiler/create-perfect-icons-for-macos-ios-android-and-the-web-a1e05ed8c3bf",
+        "author": "docjojo",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363299",
+        "title": "Liquid Death runs ad campaign focused on mailing urine to data centers",
+        "story_url": "https://twitter.com/drinkgaragebeer/status/2089699138946408699",
+        "author": "newspaper1",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363296",
+        "title": "The Case Against Kanji",
+        "story_url": "https://circuitscribbles.substack.com/p/the-case-against-kanji",
+        "author": "paulpauper",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363275",
+        "title": "Bill Atkinson and Dithering Algorithms",
+        "story_url": "https://landonswartz.github.io/blog/dithering-algorithms/",
+        "author": "BestBunsInTown_",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363263",
+        "title": "H3 Video – MiniMax H3 AI Video Generator",
+        "story_url": "https://www.h3vid.com/",
+        "author": "Follow_Cloud",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363233",
+        "title": "Play the air A theremin in the browser using hand tracking and a webcam",
+        "story_url": "https://termenvox.vercel.app/",
+        "author": "linesofcode",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 2,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363228",
+        "title": "Show HN: Leaflight – A Reader for Project Gutenberg",
+        "story_url": "https://chromewebstore.google.com/detail/leaflight-%C3%A2%C2%80%C2%94-reader-for-pr/ndobcikjemlpmcbjkokmlclfoekgllgc",
+        "author": "samcgraw",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49363227",
+        "title": "Hetzner Inference Experiment: Open-weights SLMs free of charge",
+        "story_url": "https://www.hetzner.com/blog/inference-experiment/",
+        "author": "ignoramous",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363200",
+        "title": "Language has two parameters (ArXiv preprint)",
+        "story_url": "https://arxiv.org/abs/2608.18041",
+        "author": "HR01",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363173",
+        "title": "Nvidia's new financial strategy does not compute",
+        "story_url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+        "author": "Brajeshwar",
+        "publication_time": "21 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363166",
+        "title": "I escaped the WebAssembly sandbox and got arbitrary shell execution on the host",
+        "story_url": "https://trustsig.eu/blog/wasm2c-tableflip-unchecked-calloc/",
+        "author": "TrustSig",
+        "publication_time": "22 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363160",
+        "title": "$1M hacker challenge for Vercel Sandbox",
+        "story_url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+        "author": "rafaelc",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363159",
+        "title": "Show HN: Helena – API client with no Electron and no accounts, in Go+Fyne",
+        "story_url": "https://github.com/ideaconnect/helena",
+        "author": "bpacholek",
+        "publication_time": "22 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49363155",
+        "title": "XWayland 26.1 RC1 Released with Many New Features",
+        "story_url": "https://www.phoronix.com/news/XWayland-26.1-RC1",
+        "author": "DemiGuru",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363148",
+        "title": "Skill_vault: Parallel plan phase implementation and plan formal verification",
+        "story_url": "https://github.com/metacircu1ar/skill_vault",
+        "author": "metacircu1ar",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363141",
+        "title": "Israeli military admits to firing on car carrying 5-year-old Hind Rajab",
+        "story_url": "https://www.cnn.com/2026/08/19/middleeast/israel-military-idf-hind-rajab-firing-intl",
+        "author": "lr0",
+        "publication_time": "24 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363138",
+        "title": "Show HN: Flow – Claude Code CLI for feature planning → review/testing → merge",
+        "story_url": "https://github.com/gavingolden/flow/",
+        "author": "gavinegolden",
+        "publication_time": "24 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49363134",
+        "title": "We Must Build – Recovering Catholic Geography",
+        "story_url": "https://aedificemus.com/we-must-build/",
+        "author": "geneticdrifts",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363128",
+        "title": "Spared execution eight times, oldest inmate in US dies at 101",
+        "story_url": "https://www.bbc.com/news/articles/c98vr7ql2vdo",
+        "author": "jamarna",
+        "publication_time": "25 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

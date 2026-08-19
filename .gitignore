@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Sensitive credentials — NEVER commit these
+.env
+*.env
+
+# Bright Data collector state — contains collection IDs but no tokens.
+# You MAY commit this if you want state to persist across machines;
+# leave it gitignored if you want a fresh state per clone.
+data/.collector_state.json
+data/.collector_state.tmp
+
+# Processed outputs (derived from raw — reproducible)
+data/processed/
+
+# Figures (reproducible from src/eda.py)
+figures/
+
+# Reports (reproducible)
+reports/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

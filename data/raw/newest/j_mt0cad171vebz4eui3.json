@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T17:02:23.390Z",
+    "stories": [
+      {
+        "story_id": "49364142",
+        "title": "Etched AI valuation doubles to $21B in a month",
+        "story_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "author": "bookofjoe",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364138",
+        "title": "Study links long-term Cialis use and blindness",
+        "story_url": "https://gizmodo.com/scientists-uncover-worrying-link-between-this-popular-erection-drug-and-blindness-2000800309",
+        "author": "giuliomagnifico",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364117",
+        "title": "A Society That Runs on Stimulants Is Badly Broken",
+        "story_url": "https://www.currentaffairs.org/news/a-society-that-runs-on-stimulants-is-badly-broken",
+        "author": "florisuga",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364107",
+        "title": "How the Internet Works",
+        "story_url": "https://curiositas.alanjego.com/en/internet",
+        "author": "Alannnn",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364088",
+        "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
+        "story_url": "https://github.com/OnPoint-Dev-Tools/crewcode",
+        "author": "CjLogix",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364083",
+        "title": "Evaluating digital cognitive tests for clinical use in Alzheimer's disease",
+        "story_url": "https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.71559",
+        "author": "debo_",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364082",
+        "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
+        "story_url": "https://intelix.dev/",
+        "author": "ved_p05",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364065",
+        "title": "Columbia House is shutting down after 71 years",
+        "story_url": "https://www.nbclosangeles.com/news/business/columbia-house-shutting-down-after-71-years/3931211/",
+        "author": "pudgywalsh",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364063",
+        "title": "Zuckerberg lied about concern for child safety",
+        "story_url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+        "author": "jamarna",
+        "publication_time": "6 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364048",
+        "title": "Thunder Compute raises $13M Series A to squeeze more work out of idle GPUs",
+        "story_url": "https://siliconangle.com/2026/08/19/thunder-compute-raises-13m-squeeze-work-idle-gpus/",
+        "author": "cpeterson42",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364019",
+        "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+        "story_url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+        "author": "binyu",
+        "publication_time": "9 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364014",
+        "title": "How I Use AI to Help Me Write",
+        "story_url": "https://tombedor.dev/how-i-use-ai-to-help-me-write/",
+        "author": "jjfoooo4",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363992",
+        "title": "OpenAI halts frontier RL training after Astra crosses Critical cyber threshold",
+        "story_url": "https://www.forbes.com/sites/ashishbhatia/2026/08/19/openai-paused-ai-training-for-two-weeks-heres-what-that-means/",
+        "author": "DarenWatson",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363991",
+        "title": "A Constitution for One: 7 months governing a personal AI agent fleet",
+        "story_url": "https://github.com/Chong169/a-constitution-for-one",
+        "author": "sucong178899",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363978",
+        "title": "The Zarfian Cruelty Scale, Revisited",
+        "story_url": "https://eblong.com/zarf/essays/cruelty-revisited.html",
+        "author": "JoshTriplett",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363970",
+        "title": "Show HN: RelArena-α – open-source releases for Relational Learning",
+        "story_url": "https://github.com/PriorLabs/relarena",
+        "author": "onasta",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49363959",
+        "title": "People vs. the AI Overlords",
+        "story_url": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/",
+        "author": "meetpateltech",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363916",
+        "title": "ZKP's Aren't Age Verification Silver Bullets",
+        "story_url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
+        "author": "speckx",
+        "publication_time": "17 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363911",
+        "title": "FTC Warns Retailers on Using Private Consumer Data to Raise Prices",
+        "story_url": "https://www.wsj.com/business/ftc-warns-retailers-on-using-private-consumer-data-to-raise-prices-4467ecc3",
+        "author": "impish9208",
+        "publication_time": "17 minutes ago",
+        "points": 4,
+        "comment_count": 1,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363909",
+        "title": "A Million and One Random Digits by Douglas Crockford",
+        "story_url": "https://www.amazon.com/Million-Random-Digits-Millionplex-Library/dp/1949815048",
+        "author": "gregsadetsky",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363889",
+        "title": "Thoughts on dance music today informed by the Instagram perspective",
+        "story_url": "http://energyflashbysimonreynolds.blogspot.com/2026/06/had-instagram-for-ages-but-never-got.html",
+        "author": "mosiuerbarso",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363869",
+        "title": "Eraser Diagrams: An open-source headless diagramming framework",
+        "story_url": "https://github.com/eraserlabs/eraser-diagrams",
+        "author": "jtadmor",
+        "publication_time": "20 minutes ago",
+        "points": 7,
+        "comment_count": 1,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363839",
+        "title": "Can you tell which AI-generated text is watermarked?",
+        "story_url": "https://watermark-quiz.krishmatta.net/",
+        "author": "nathan-barry",
+        "publication_time": "23 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363822",
+        "title": "Meteoric origins of Egypt's first ironwork",
+        "story_url": "https://blogs.ucl.ac.uk/museums/2013/09/01/23856/",
+        "author": "Bluestein",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363811",
+        "title": "WTF Are You Loading?",
+        "story_url": "https://x-x.codes/posts/wtf-are-you-loading",
+        "author": "abnercoimbre",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363804",
+        "title": "Send a SAFE",
+        "story_url": "https://www.ycombinator.com/safe",
+        "author": "Finbarr",
+        "publication_time": "25 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363778",
+        "title": "Show HN: Naeos – an engineering system for AI coding agents",
+        "story_url": "https://github.com/NAEOS-foundation/naeos",
+        "author": "bayu911",
+        "publication_time": "27 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49363753",
+        "title": "AiFi on AWS",
+        "story_url": "https://www.coinbase.com/fr-fr/developer-platform/discover/launches/agentcore-ga",
+        "author": "AnhTho_FR",
+        "publication_time": "29 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363736",
+        "title": "WikiFM – Encyclopedia Radio",
+        "story_url": "https://apps.apple.com/us/app/wikifm-encyclopedia-radio/id6800855289",
+        "author": "t4t",
+        "publication_time": "30 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49363710",
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "story_url": "https://github.com/onecli/onecli",
+        "author": "guyb3",
+        "publication_time": "32 minutes ago",
+        "points": 11,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-18T19:46:06.769Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49351330",
+        "title": "Norway Should Buy OpenAI",
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "points": 38,
+        "time": "15 minutes ago",
+        "comments": 20,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49349898",
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "points": 89,
+        "time": "1 hour ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49345263",
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "points": 616,
+        "time": "6 hours ago",
+        "comments": 418,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49344825",
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "points": 320,
+        "time": "7 hours ago",
+        "comments": 52,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49345220",
+        "title": "Fixing a bricked Framework laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "points": 272,
+        "time": "6 hours ago",
+        "comments": 178,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49349984",
+        "title": "How does IKEA come up with names for its products?",
+        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "points": 98,
+        "time": "1 hour ago",
+        "comments": 67,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49349147",
+        "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+        "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+        "points": 198,
+        "time": "2 hours ago",
+        "comments": 222,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49334209",
+        "title": "Cursor launches Origin, GitHub alternative",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "points": 300,
+        "time": "6 hours ago",
+        "comments": 239,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "points": 455,
+        "time": "11 hours ago",
+        "comments": 207,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49345476",
+        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+        "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+        "points": 118,
+        "time": "6 hours ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49348136",
+        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+        "url": "https://machine0.io/",
+        "points": 31,
+        "time": "3 hours ago",
+        "comments": 29,
+        "story_type": "Launch HN"
+      },
+      {
+        "rank": 12,
+        "story_id": "49309248",
+        "title": "Evolve: An incremental game about evolving a civilization",
+        "url": "https://pmotschmann.github.io/Evolve/",
+        "points": 22,
+        "time": "2 hours ago",
+        "comments": 8,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49351020",
+        "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
+        "url": "https://github.com/argus-testing/argus",
+        "points": 7,
+        "time": "35 minutes ago",
+        "comments": 1,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 14,
+        "story_id": "49287463",
+        "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+        "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+        "points": 9,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49310602",
+        "title": "Splitting a Git Commit",
+        "url": "https://blog.gnoack.org/post/git-history-split",
+        "points": 87,
+        "time": "5 hours ago",
+        "comments": 44,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49334960",
+        "title": "Memory prices climb 500% in 12 months",
+        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+        "points": 265,
+        "time": "11 hours ago",
+        "comments": 199,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49272631",
+        "title": "Teaching my kid to code with a modern MUD",
+        "url": "https://tau.dev/2026/08/07/canon",
+        "points": 187,
+        "time": "9 hours ago",
+        "comments": 55,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49350955",
+        "title": "US announces new sanctions on top ICC figures",
+        "url": "https://www.bbc.com/news/articles/cnvnl0elz47o",
+        "points": 66,
+        "time": "39 minutes ago",
+        "comments": 27,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49350031",
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+        "points": 11,
+        "time": "1 hour ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49297150",
+        "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+        "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+        "points": 39,
+        "time": "3 hours ago",
+        "comments": 19,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49348152",
+        "title": "Superpowers, Not Superintelligence",
+        "url": "https://bond.now/news/superpowers-not-superintelligence",
+        "points": 26,
+        "time": "3 hours ago",
+        "comments": 37,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49350980",
+        "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+        "url": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
+        "points": 3,
+        "time": "38 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49347178",
+        "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+        "url": "https://github.com/therepanic/openleetcode",
+        "points": 27,
+        "time": "4 hours ago",
+        "comments": 12,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 24,
+        "story_id": "49332981",
+        "title": "Universal health coverage could save $1T and 114k lives a year: study",
+        "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+        "points": 539,
+        "time": "22 hours ago",
+        "comments": 638,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49345843",
+        "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+        "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+        "points": 190,
+        "time": "5 hours ago",
+        "comments": 40,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49348751",
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "points": 227,
+        "time": "2 hours ago",
+        "comments": 181,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49349159",
+        "title": "Show HN: macOS data protection keychain for Electron apps",
+        "url": "https://github.com/biw/keychain-store",
+        "points": 11,
+        "time": "2 hours ago",
+        "comments": 0,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 28,
+        "story_id": "49340710",
+        "title": "California's new tire efficiency rules could save drivers $1B a year",
+        "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+        "points": 99,
+        "time": "12 hours ago",
+        "comments": 128,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49344811",
+        "title": "Fairphone is now officially available in the United States",
+        "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "points": 301,
+        "time": "7 hours ago",
+        "comments": 154,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49350637",
+        "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+        "url": "https://pantheongpu.com/",
+        "points": 7,
+        "time": "58 minutes ago",
+        "comments": 0,
+        "story_type": "Show HN"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

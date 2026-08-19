@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T15:34:28.524Z",
+    "stories": [
+      {
+        "story_id": "49362945",
+        "title": "How Claude's Text Watermarking Works [video]",
+        "story_url": "https://www.youtube.com/watch?v=tLv7qRWFMlw",
+        "author": "ModelForge",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362934",
+        "title": "Remote workers report the highest well-being in study of 7,700 employees",
+        "story_url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+        "author": "downbad_",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362928",
+        "title": "IBM's new modular architecture for cryogenic systems",
+        "story_url": "https://www.ibm.com/quantum/blog/modular-cryogenics",
+        "author": "rbanffy",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362926",
+        "title": "Six Ways an Eval Lies: structural defects that survive preregistration",
+        "story_url": "https://github.com/Threadborne/eval-integrity",
+        "author": "Threadborne",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362909",
+        "title": "A pocketable AI agent – Tokens free to use now",
+        "story_url": "https://plugos.net/plugclaw/",
+        "author": "Nut_",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362906",
+        "title": "Changes for Apps in the European Union – Support Developer",
+        "story_url": "https://developer.apple.com/support/apps-in-the-eu/",
+        "author": "OptionOfT",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362898",
+        "title": "An echo of Einstein: Unexpected link between whale calls and special relativity",
+        "story_url": "https://phys.org/news/2026-08-echo-einstein-unexpected-link-whale.html",
+        "author": "tiahura",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362895",
+        "title": "100% RHAE on ARC-AGI-3 public with Claude Code, Opus 5, and one skill",
+        "story_url": "https://arc-skill.vercel.app/",
+        "author": "pbshgthm",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362887",
+        "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+        "story_url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "author": "__fst__",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362877",
+        "title": "Extreme evolution: The animals evolving at super speed to survive",
+        "story_url": "https://www.bbc.com/future/article/20260805-the-animals-evolving-at-super-speed-to-survive",
+        "author": "jazali",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362874",
+        "title": "Show HN: Boomkat - a lightweight JavaScript engine written from scratch",
+        "story_url": "https://github.com/ricardobeat/boomkat",
+        "author": "ricardobeat",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362873",
+        "title": "Rod Liddle loathed me on sight. He was a genius",
+        "story_url": "https://www.damianreilly.co.uk/p/no-mate-thats-not-it",
+        "author": "myrtlehinch",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362857",
+        "title": "Claude 529 Errors Again Today",
+        "story_url": "https://news.ycombinator.com/item?id=49362857",
+        "author": "connortyndall",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49362854",
+        "title": "Teaching AI with Quantum Data",
+        "story_url": "https://www.quantinuum.com/blog/teaching-ai-with-quantum-data",
+        "author": "jonbaer",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362840",
+        "title": "Financial work is a systems problem",
+        "story_url": "https://trysecondstate.com/blog/financial-work-is-a-systems-problem",
+        "author": "ELAmrani",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362823",
+        "title": "Moderna cancer vaccine succeeds in historic Phase 3 trial, stock soars over 115%",
+        "story_url": "https://thecoinheadlines.com/tech-and-ai/modernas-cancer-vaccine-succeeds-in-historic-phase-3-trial-stock-soars-115-percent/article-29654/",
+        "author": "ar_writer",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362820",
+        "title": "What Do Students Lose When They Stop Writing?",
+        "story_url": "https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html",
+        "author": "cyndunlop",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362811",
+        "title": "Alvarez vs. Apple, Inc. (N.D. Cal., July 15, 2026) [pdf]",
+        "story_url": "https://ia803202.us.archive.org/25/items/gov.uscourts.cand.474371/gov.uscourts.cand.474371.1.0.pdf",
+        "author": "1vuio0pswjnm7",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362806",
+        "title": "There are two kinds of theorems",
+        "story_url": "https://blog.plover.com/2026/08/11/",
+        "author": "surprisetalk",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362805",
+        "title": "How to build a cancer vaccine, and whether they will work this time",
+        "story_url": "https://www.owlposting.com/p/how-to-build-a-cancer-vaccine-and",
+        "author": "abhishaike",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362790",
+        "title": "ShellRisk-Bench – a benchmark for evaluating the cyber risk of agent tool calls",
+        "story_url": "https://twitter.com/0xSerious/status/2090087196598452721",
+        "author": "mc-serious",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362786",
+        "title": "Show HN: Grove, a formal workflow protocol for long-running AI coding agents",
+        "story_url": "https://github.com/alxshelepenok/grove",
+        "author": "alxshelepenok",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362780",
+        "title": "I gave frontier LLMs a canvas and told them to draw a self-portrait",
+        "story_url": "https://ismaelroblesrazzaq.github.io/blog/llm-self-portraits/",
+        "author": "ismael_rr",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362763",
+        "title": "Show HN: Clibo – A privacy-first, Vim inspired clipboard manager written in Rust",
+        "story_url": "https://clibo.app/",
+        "author": "pawelborkar",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362752",
+        "title": "Hands-on with Raspberry Pi's CM5 Programming Jig",
+        "story_url": "https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/",
+        "author": "Brajeshwar",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362751",
+        "title": "Orienteering",
+        "story_url": "https://en.wikipedia.org/wiki/Orienteering",
+        "author": "num42",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362728",
+        "title": "Mathematics in the Age of AI",
+        "story_url": "https://arxiv.org/abs/2608.16753",
+        "author": "jonbaer",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362721",
+        "title": "Show HN: A deterministic rehab engine for BJJ injuries",
+        "story_url": "https://www.bjjrehab.com/",
+        "author": "osamet67",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362712",
+        "title": "Building Without Predicting",
+        "story_url": "https://sive.rs/fit",
+        "author": "luispa",
+        "publication_time": "20 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362702",
+        "title": "Lightning safety of animals – International Journal of Biometeorology (2012) [pdf]",
+        "story_url": "https://link.springer.com/article/10.1007/s00484-011-0515-5",
+        "author": "thunderbong",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

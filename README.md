@@ -70,3 +70,97 @@ each run), the next step is defining the high-growth label from the
 *distribution* of outcomes actually observed, then training a baseline
 model on `temporal_features.csv` restricted to each story's early
 observations only.
+
+---
+
+## Automated Future Collection (`src/collector_sync.py`)
+
+### Setup
+
+```bash
+pip install -r requirements.txt
+
+# Copy the example env file and add your token
+cp .env.example .env
+
+# Export for the current shell (do NOT commit .env)
+# macOS / Linux:
+export BRIGHTDATA_API_TOKEN=your_token_here
+# Windows PowerShell:
+$env:BRIGHTDATA_API_TOKEN = "your_token_here"
+```
+
+### Run one /newest collection
+
+```bash
+python -m src.collector_sync --once --collector newest
+```
+
+### Run one front-page collection
+
+```bash
+python -m src.collector_sync --once --collector front_page
+```
+
+### Run both collectors once
+
+```bash
+python -m src.collector_sync --once
+```
+
+### Run with automatic ingestion
+
+```bash
+python -m src.collector_sync --once --ingest
+```
+
+Triggers the collector, downloads results to `data/raw/`, then immediately
+runs `python -m src.ingest` to update `data/processed/`.
+
+### 8-minute /newest polling
+
+```bash
+python -m src.collector_sync --poll --interval 480 --collector newest
+```
+
+### Hourly front-page polling
+
+```bash
+python -m src.collector_sync --poll --interval 3600 --collector front_page
+```
+
+Press **Ctrl+C** to stop gracefully (finishes the current cycle first).
+
+### State and deduplication
+
+`data/.collector_state.json` tracks every triggered collection ID.
+
+- Each collection is downloaded **exactly once** — safe to restart.
+- Failed jobs are marked but not auto-retried; re-run the command.
+- The token is **never** stored in the state file.
+
+### Raw output format
+
+```
+data/raw/newest/api_<collection_id>.json
+data/raw/front_page/api_<collection_id>.json
+```
+
+Files are ingest-compatible: `scraped_at` + `stories` at the top level,
+matching the existing historical snapshot format.
+Historical files (no `api_` prefix) are **never modified or deleted**.
+
+### Tests
+
+```bash
+python -m pytest tests/test_collector_sync.py -v
+```
+
+All tests use mocked HTTP responses — no Bright Data credits consumed.
+
+### Collector IDs
+
+| Collector | ID | Target URL |
+|---|---|---|
+| newest | `c_msxgknap1ptjrrcetr` | `https://news.ycombinator.com/newest` |
+| front_page | `c_msxfwz2h1v0fxwlu83` | `https://news.ycombinator.com/` |

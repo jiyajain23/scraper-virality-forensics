@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-18T13:45:41.616Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49344825",
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "points": 62,
+        "time": "1 hour ago",
+        "comments": 10,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "points": 314,
+        "time": "5 hours ago",
+        "comments": 101,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49345220",
+        "title": "Fixing a Bricked Framework Laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "points": 6,
+        "time": "26 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49345448",
+        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+        "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
+        "points": 4,
+        "time": "8 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49272631",
+        "title": "Teaching my kid to code with a modern MUD",
+        "url": "https://tau.dev/2026/08/07/canon",
+        "points": 61,
+        "time": "3 hours ago",
+        "comments": 21,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49343559",
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 269,
+        "time": "3 hours ago",
+        "comments": 164,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49305969",
+        "title": "Baking a Model: A Metaphor for LLM Training",
+        "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+        "points": 14,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49344811",
+        "title": "Fairphone is now officially available in the United States",
+        "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "points": 41,
+        "time": "1 hour ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49338459",
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "points": 614,
+        "time": "15 hours ago",
+        "comments": 385,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49345320",
+        "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+        "url": "https://github.com/pitiflautico/neobrowser",
+        "points": 3,
+        "time": "19 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49344654",
+        "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+        "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+        "points": 49,
+        "time": "1 hour ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49345154",
+        "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+        "url": "https://github.com/mukundzha/avouch",
+        "points": 4,
+        "time": "31 minutes ago",
+        "comments": 2,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 13,
+        "story_id": "49342530",
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "points": 133,
+        "time": "6 hours ago",
+        "comments": 61,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49345070",
+        "title": "Deus Ex creator Warren Spector is retiring from game development",
+        "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+        "points": 27,
+        "time": "38 minutes ago",
+        "comments": 7,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49345094",
+        "title": "Kent Beck: Composable Tests",
+        "url": "https://newsletter.kentbeck.com/p/composable-tests",
+        "points": 4,
+        "time": "36 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49337602",
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "points": 540,
+        "time": "16 hours ago",
+        "comments": 353,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49342472",
+        "title": "Finger: Social network that never died",
+        "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+        "points": 72,
+        "time": "6 hours ago",
+        "comments": 27,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49338328",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "points": 414,
+        "time": "15 hours ago",
+        "comments": 177,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49345013",
+        "title": "Things That Used to Be Normal and Are Now a Luxury",
+        "url": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
+        "points": 4,
+        "time": "43 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49344643",
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "points": 44,
+        "time": "1 hour ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49337392",
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "points": 776,
+        "time": "16 hours ago",
+        "comments": 446,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49341411",
+        "title": "Exercise intensity modulates interorgan communication and is associated with",
+        "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+        "points": 69,
+        "time": "8 hours ago",
+        "comments": 34,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49338285",
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "points": 250,
+        "time": "15 hours ago",
+        "comments": 59,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49313360",
+        "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+        "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+        "points": 60,
+        "time": "8 hours ago",
+        "comments": 28,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49330781",
+        "title": "A Preview of DuckDB v2.0",
+        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "points": 674,
+        "time": "23 hours ago",
+        "comments": 118,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49270194",
+        "title": "Olo (Color)",
+        "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+        "points": 498,
+        "time": "1 day ago",
+        "comments": 91,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49340299",
+        "title": "The Benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "points": 142,
+        "time": "11 hours ago",
+        "comments": 43,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49331423",
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "points": 401,
+        "time": "23 hours ago",
+        "comments": 150,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49311115",
+        "title": "Ranking the Most Brilliantly Colored Birds with Data",
+        "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+        "points": 47,
+        "time": "8 hours ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49334991",
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "points": 229,
+        "time": "18 hours ago",
+        "comments": 48,
+        "story_type": "external"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

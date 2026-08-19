@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T14:54:30.265Z",
+    "stories": [
+      {
+        "story_id": "49362463",
+        "title": "Mojo is now open source",
+        "story_url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+        "author": "jonathandeamer",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362461",
+        "title": "Show HN: Tech / AI / Product super aggregator – SudoReport",
+        "story_url": "https://sudoreport.com/",
+        "author": "ataturkle",
+        "publication_time": "0 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362447",
+        "title": "Testtospeech.com – New leaderboard adds balance and removes bias",
+        "story_url": "https://texttospeech.com/",
+        "author": "imemily",
+        "publication_time": "1 minute ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362442",
+        "title": "Show HN: Zmina – clipboard with per-app paste transforms",
+        "story_url": "https://zmina.app/",
+        "author": "0-3",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362439",
+        "title": "Product.now",
+        "story_url": "https://product.now/",
+        "author": "luispa",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362437",
+        "title": "Life finds a way OpenAI claims partial pause and rolls out ChatGPT for Teens",
+        "story_url": "https://aistop.watch/p/life-finds-a-way",
+        "author": "Bluestein",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362432",
+        "title": "Landing the Plane",
+        "story_url": "https://www.theengineeringmanager.com/growth/landing-the-plane/",
+        "author": "LaSombra",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362429",
+        "title": "Show HN: Store Front For Vibe coded apps",
+        "story_url": "https://yaadops.com/explore",
+        "author": "ShamarWebster",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362426",
+        "title": "Algorithms + Data Structures = Programs",
+        "story_url": "https://en.wikipedia.org/wiki/Algorithms_%2B_Data_Structures_%3D_Programs",
+        "author": "tosh",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362422",
+        "title": "The Data Center Capital of the World [video]",
+        "story_url": "https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html",
+        "author": "donohoe",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362413",
+        "title": "Ask HN: Calorie Trackers",
+        "story_url": "https://news.ycombinator.com/item?id=49362413",
+        "author": "solsane",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49362412",
+        "title": "What is inference engineering? Deepdive",
+        "story_url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering",
+        "author": "luispa",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362411",
+        "title": "The Hermès heist: how an heir to the dynasty was swindled out of $15B of shares",
+        "story_url": "https://www.economist.com/1843/2025/12/11/the-hermes-heist-how-an-heir-to-the-luxury-dynasty-was-swindled-out-of-15bn-of-shares",
+        "author": "geneticdrifts",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362401",
+        "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+        "story_url": "https://ornith.ai/ornith_1_5.html",
+        "author": "CommonGuy",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362396",
+        "title": "X262: X264 with MPEG-2 Support",
+        "story_url": "https://github.com/kierank/x262",
+        "author": "ksec",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362385",
+        "title": "The two largest reservoirs in the US have hit record-low levels",
+        "story_url": "https://www.carbonbrief.org/analysis-the-two-largest-reservoirs-in-the-us-have-hit-record-low-levels",
+        "author": "speckx",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362359",
+        "title": "Does daycare damage children's brains?",
+        "story_url": "https://www.worksinprogress.news/p/daycare-barely-matters",
+        "author": "momentmaker",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362342",
+        "title": "Zeno: A local AI tool that runs Qwen3.5-35B-A3B on MacBooks",
+        "story_url": "https://icosa.co/zeno",
+        "author": "baranmelik",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362339",
+        "title": "China mission aims for the Moon's hidden water with 'hopping' probe",
+        "story_url": "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
+        "author": "Brajeshwar",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362337",
+        "title": "Impolite Spiders",
+        "story_url": "https://sheep.horse/2026/8/impolite_spiders.html",
+        "author": "surprisetalk",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362322",
+        "title": "Prompt caching makes self-consistency cheap for long-context LLMs",
+        "story_url": "https://medium.com/@mohitsinghchauhan/prompt-caching-makes-self-consistency-cheap-for-long-context-llms-c611ba4f5237",
+        "author": "mohitcek",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362317",
+        "title": "Google, Apple, Samsung integrating data from wearables into healthcare",
+        "story_url": "https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html",
+        "author": "brandonb",
+        "publication_time": "11 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362313",
+        "title": "Gonewatch – get emailed if a backup or cron never ran",
+        "story_url": "https://www.gonewatch.com/",
+        "author": "makgabri",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362305",
+        "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+        "story_url": "https://news.ycombinator.com/item?id=49362305",
+        "author": "elar_verole",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 24,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49362294",
+        "title": "Field Notes from an AI Society",
+        "story_url": "https://asteriskmag.substack.com/p/field-notes-from-an-ai-society",
+        "author": "theptip",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362280",
+        "title": "Find jobs with Claude Code CLI",
+        "story_url": "https://github.com/AdanRott/magnificent-jobs-plugin",
+        "author": "DamiandeGroot",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362275",
+        "title": "Vertical Rhythm in Web Design",
+        "story_url": "https://rijks.website/blog/260818a-vertical-rhythm/",
+        "author": "haynesben",
+        "publication_time": "13 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362268",
+        "title": "Show HN: Flatbias – A Polyhedral Puzzle",
+        "story_url": "https://flatbias.com/",
+        "author": "tk6879",
+        "publication_time": "14 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49362263",
+        "title": "AI Agents that are Portable",
+        "story_url": "https://nexusrun.dev/",
+        "author": "lseidman1104",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49362213",
+        "title": "The Wisdom of the Galaxy by Will McMahon",
+        "story_url": "https://strangehorizons.com/wordpress/fiction/the-wisdom-of-the-galaxy/",
+        "author": "speckx",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

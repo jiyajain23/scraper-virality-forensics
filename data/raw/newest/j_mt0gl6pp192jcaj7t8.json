@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T19:02:42.032Z",
+    "stories": [
+      {
+        "story_id": "49365769",
+        "title": "Google Phishing Quiz",
+        "story_url": "https://phishingquiz.withgoogle.com/",
+        "author": "saikatsg",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365752",
+        "title": "Democrats Lost Men",
+        "story_url": "https://www.thefp.com/p/how-democrats-lost-men",
+        "author": "makerdiety",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365749",
+        "title": "One line of JavaScript disabled server rendering on 190 pages",
+        "story_url": "https://watchnext.leyu.studio/blog/one-line-that-disabled-server-rendering",
+        "author": "oujan",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365748",
+        "title": "Show HN: Bewertix – Get More Google Reviews and Win More Customers",
+        "story_url": "https://bewertix.eu/",
+        "author": "not_wowinter13",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365733",
+        "title": "Police officer used Flock cameras to track estranged wife 717 times",
+        "story_url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+        "author": "speckx",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365721",
+        "title": "Show HN: CopyLasso, a free local screen OCR app for macOS",
+        "story_url": "https://copylasso.com/",
+        "author": "bennetthilberg",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365717",
+        "title": "Smartphone imaging technology and its applications (2021)",
+        "story_url": "https://www.degruyterbrill.com/document/doi/10.1515/aot-2021-0023/html",
+        "author": "kawera",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365712",
+        "title": "From Legacy Bedrock Agents to Strands Agents on Bedrock AgentCore Runtime",
+        "story_url": "https://hypertrail.ai/blog/migrating-from-legacy-bedrock-agents-to-strands-agents-powered-by-amazon-bedrock-agentcore-runtime",
+        "author": "grollat",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365683",
+        "title": "Climate Change Tracker",
+        "story_url": "https://climatechangetracker.org/",
+        "author": "a2x",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365673",
+        "title": "New term in AI search: On-site live agents",
+        "story_url": "https://embassia.com/",
+        "author": "ramazanaliakdas",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365670",
+        "title": "US treasury doubles debt buyback to steady bond market amid inflation fears",
+        "story_url": "https://www.theguardian.com/business/2026/aug/19/us-treasury-doubles-debt-buyback-bond-market",
+        "author": "almog",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365664",
+        "title": "CFTC Requests Comment on the Listing of Compute Derivatives Contracts",
+        "story_url": "https://www.cftc.gov/PressRoom/PressReleases/9286-26",
+        "author": "petethomas",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365659",
+        "title": "Show HN: APISign – E-signature API, templates are Markdown files in your repo",
+        "story_url": "https://apisign.io/",
+        "author": "wunl",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365653",
+        "title": "Book Review: Kakistocracy",
+        "story_url": "https://benthams.substack.com/p/review-kakistocracy",
+        "author": "paulpauper",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365646",
+        "title": "UC Berkeley professor admits to using AI in op-ed",
+        "story_url": "https://www.dailycal.org/news/campus/uc-berkeley-professor-admits-to-using-ai-in-op-ed-calling-out-students-lack-of/article_be1360f7-6e2a-42f6-ae76-f05d8cee74c4.html",
+        "author": "paulpauper",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365636",
+        "title": "French Constitutional Council Blocks Under-15 Social Media Ban",
+        "story_url": "https://www.techdirt.com/2026/08/19/french-constitutional-council-blocks-under-15-social-media-ban-in-a-ruling-that-should-concern-every-other-eu-country/",
+        "author": "cdrnsf",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365625",
+        "title": "Run GLM-OCR, DeepSeek-OCR-2, Dots.mocr with an OpenAI Compatible API",
+        "story_url": "https://www.vlm.run/product/gateway",
+        "author": "fzysingularity",
+        "publication_time": "12 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365614",
+        "title": "Computational Life Reactor (Based on Brainfuck)",
+        "story_url": "https://alexborger.com/clr-computational-life-reactor",
+        "author": "a2x",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365610",
+        "title": "Reconciling global tipping point theories: Insight from magnetic experiments",
+        "story_url": "https://www.cell.com/one-earth/fulltext/S2590-3322(25)00184-8",
+        "author": "jambalaya8",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365608",
+        "title": "Everything is muscle training (even more than you think)",
+        "story_url": "https://suboptimization.substack.com/p/everything-is-muscle-training-even",
+        "author": "bricee98",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365607",
+        "title": "I ran 539 regex patterns on 16 real engines – 264 disagree",
+        "story_url": "https://github.com/Kristofp/regex-engine-divergences",
+        "author": "stofke72",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365606",
+        "title": "BookHive – Open-source alternative to Goodreads on ATProto",
+        "story_url": "https://bookhive.buzz/",
+        "author": "ksymph",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365594",
+        "title": "Stripe to investors: the singularity has begun [pdf]",
+        "story_url": "https://s3.documentcloud.org/documents/28565866/stripes-august-2026-investor-letter.pdf",
+        "author": "reasonableklout",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365575",
+        "title": "Show HN: Open Bot – an open-source Grok Bot that works with any agent harness",
+        "story_url": "https://github.com/copilotkit/openbot",
+        "author": "mikeryan52",
+        "publication_time": "15 minutes ago",
+        "points": 10,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49365570",
+        "title": "What the $20 Burrito Debate Gets Wrong About Affordability",
+        "story_url": "https://newsletter.platypuseconomics.com/p/burrito-gate-and-the-affordability",
+        "author": "mooreds",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365568",
+        "title": "Self-Service Analytics Is Not Self-Service. But Don't Tell Anyone",
+        "story_url": "https://dataanalysis.substack.com/p/self-service-analytics-is-not",
+        "author": "dijksterhuis",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365562",
+        "title": "ASD-STE100 Simplified Technical English",
+        "story_url": "https://www.asd-ste100.org/",
+        "author": "Bluestein",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365537",
+        "title": "FTC Proposed Policy on Personalized Pricing",
+        "story_url": "https://www.ftc.gov/legal-library/browse/federal-trade-commissions-proposed-enforcement-policy-statement-regarding-personalized-pricing",
+        "author": "tedggh",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365530",
+        "title": "The most common questions about developer marketing, answered",
+        "story_url": "https://posthog.com/blog/developer-marketing-questions",
+        "author": "cyndunlop",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49365491",
+        "title": "Curvature Beziers – Improving on a timeless recipe",
+        "story_url": "https://acko.net/blog/curvature-beziers/",
+        "author": "thunderbong",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

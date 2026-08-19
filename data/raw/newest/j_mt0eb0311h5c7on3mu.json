@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T17:58:47.492Z",
+    "stories": [
+      {
+        "story_id": "49364883",
+        "title": "IBM Connects Its First Modular Cryogenic Systems",
+        "story_url": "https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
+        "author": "EvgeniyZh",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364872",
+        "title": "Unitree's humanoid robot jumps 2 meters, hits 12.66M/s to break human records",
+        "story_url": "https://www.globaltimes.cn/page/202608/1368390.shtml",
+        "author": "wslh",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364871",
+        "title": "Pragma, a Claude Code pipeline for iOS (94 merged PRs)",
+        "story_url": "https://github.com/akshaypimprikar/pragma",
+        "author": "akshaypimprikar",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364868",
+        "title": "How to Use Harness Engineering to Remove AI Tells",
+        "story_url": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
+        "author": "meshintel",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364863",
+        "title": "What's New with Monitoring in PostgreSQL 19",
+        "story_url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
+        "author": "samaysharma",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364861",
+        "title": "Inside A Living Cell [video]",
+        "story_url": "https://www.youtube.com/watch?v=0QN8_8lQj3A",
+        "author": "janemanos",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364842",
+        "title": "Rivian OS 2",
+        "story_url": "https://xcancel.com/antibot/captcha",
+        "author": "1970-01-01",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364841",
+        "title": "Stop Mapping Stuff in Your Middleware. Use SQL's XML or JSON Operators Instead",
+        "story_url": "https://blog.jooq.org/stop-mapping-stuff-in-your-middleware-use-sqls-xml-or-json-operators-instead/",
+        "author": "theanonymousone",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364834",
+        "title": "T3rnel Browser – the most advanced cross browser web development tool ever built",
+        "story_url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+        "author": "tsungaikaviya",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364815",
+        "title": "The Tecnetron: Competitor to the Transistor? (1958)",
+        "story_url": "https://www.rfcafe.com/references/radio-electronics/tecnetron-competitor-transistor-may-1958-radio-electronics.htm",
+        "author": "peter_d_sherman",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364799",
+        "title": "OpenHistory – Open-source, local automatic work tracking for Mac",
+        "story_url": "https://openhistory.sh/",
+        "author": "ztratar",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364789",
+        "title": "Cop Explains Why He Used License Plate Reader to Stalk Woman",
+        "story_url": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+        "author": "cdrnsf",
+        "publication_time": "7 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364783",
+        "title": "Meme.Center – Meme merch and internet T-shirts",
+        "story_url": "https://shop.meme.center/",
+        "author": "PostTrack",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364771",
+        "title": "Cursor increases usage limits and auto mode costs",
+        "story_url": "https://www.reddit.com/r/cursor/comments/1vsqshp/anyone_got_this_email/",
+        "author": "mellosouls",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364758",
+        "title": "3D-printing enthusiast creates 'Flock Sock' to blind controversial cameras",
+        "story_url": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-creates-flock-sock-camera-blind-slip-on-cover-attaches-to-broom-handle-to-make-it-easy-to-put-on-devices-placed-on-traffic-and-streetlights",
+        "author": "Bluestein",
+        "publication_time": "9 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364749",
+        "title": "What If Maintainer Burnout Isn't Burnout",
+        "story_url": "https://ryancheley.com/2026/08/17/what-if-maintainer-burnout-isn-t-burnout/",
+        "author": "speckx",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364745",
+        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "story_url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "author": "Animux",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364721",
+        "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+        "story_url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+        "author": "albertpedersen",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364693",
+        "title": "Employers are ghosting college grads and rescinding offers",
+        "story_url": "https://www.sfgate.com/bayarea/article/employers-ghosting-college-grads-22393277.php",
+        "author": "bryan0",
+        "publication_time": "15 minutes ago",
+        "points": 10,
+        "comment_count": 1,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364681",
+        "title": "The Mark of the Machine",
+        "story_url": "https://www.newyorker.com/culture/infinite-scroll/the-mark-of-the-machine",
+        "author": "samizdis",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364658",
+        "title": "Opus 5.0 drives incoherence into the stratosphere",
+        "story_url": "https://github.com/anthropics/claude-code/issues/77136",
+        "author": "Bluestein",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364633",
+        "title": "People Are Cutting Down Flock Cameras En Masse",
+        "story_url": "https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock",
+        "author": "cdrnsf",
+        "publication_time": "19 minutes ago",
+        "points": 11,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364623",
+        "title": "Stripe Agrees to Acquire OpenRouter",
+        "story_url": "https://stripe.com/en-at/newsroom/news/stripe-agrees-to-acquire-openrouter",
+        "author": "tosh",
+        "publication_time": "20 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364611",
+        "title": "New zero-knowledge cryptography SaaS coming soon",
+        "story_url": "https://www.patreon.com/cw/evalocker",
+        "author": "chipergdc",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364597",
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "story_url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "author": "madihaa",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364594",
+        "title": "Show HN: HRAG – Hybrid RAG on €116/month of Hetzner, officially benchmarked",
+        "story_url": "https://hrag.app/",
+        "author": "victor_edka",
+        "publication_time": "22 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364592",
+        "title": "Show HN: Wholly.to helps you send people money with no/low fees",
+        "story_url": "https://wholly.to/",
+        "author": "8by3",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364590",
+        "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+        "story_url": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
+        "author": "flyingfishisme",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364587",
+        "title": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial",
+        "story_url": "https://www.cnn.com/2026/08/19/health/moderna-merck-mrna-melanoma-vaccine",
+        "author": "jamarna",
+        "publication_time": "22 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364567",
+        "title": "Data breach at shipping giant Ceva Logistics",
+        "story_url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+        "author": "awalGarg",
+        "publication_time": "24 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

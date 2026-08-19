@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-19T00:45:18.093Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49353221",
+        "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+        "url": "https://github.com/DenisSergeevitch/desktop-fly",
+        "points": 115,
+        "time": "2 hours ago",
+        "comments": 30,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49354613",
+        "title": "Solo – a .so loader for static Linux binaries",
+        "url": "https://github.com/pg83/solo",
+        "points": 18,
+        "time": "52 minutes ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49345263",
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "points": 886,
+        "time": "11 hours ago",
+        "comments": 525,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49349984",
+        "title": "How does IKEA come up with names for its products?",
+        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "points": 215,
+        "time": "6 hours ago",
+        "comments": 131,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49354664",
+        "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+        "url": "https://modelmap.cc/",
+        "points": 14,
+        "time": "46 minutes ago",
+        "comments": 0,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 6,
+        "story_id": "49321298",
+        "title": "Being ambitious and being a dad",
+        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+        "points": 233,
+        "time": "4 hours ago",
+        "comments": 121,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49349898",
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "points": 196,
+        "time": "6 hours ago",
+        "comments": 27,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49353432",
+        "title": "AI usage patterns in software teams",
+        "url": "https://linear.app/data",
+        "points": 26,
+        "time": "2 hours ago",
+        "comments": 16,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49344825",
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "points": 390,
+        "time": "12 hours ago",
+        "comments": 62,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49351324",
+        "title": "Beware Management Consultants",
+        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+        "points": 428,
+        "time": "5 hours ago",
+        "comments": 118,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49334209",
+        "title": "Cursor launches Origin, GitHub alternative",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "points": 448,
+        "time": "11 hours ago",
+        "comments": 355,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49345220",
+        "title": "Fixing a bricked Framework laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "points": 345,
+        "time": "11 hours ago",
+        "comments": 237,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49352806",
+        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+        "points": 105,
+        "time": "3 hours ago",
+        "comments": 68,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49353407",
+        "title": "GLM-5.3 Artificial Analysis Benchmarks",
+        "url": "https://artificialanalysis.ai/models/glm-5-3",
+        "points": 65,
+        "time": "2 hours ago",
+        "comments": 29,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49311814",
+        "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+        "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+        "points": 68,
+        "time": "6 hours ago",
+        "comments": 20,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49334960",
+        "title": "Memory prices climb 500% in 12 months",
+        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+        "points": 460,
+        "time": "16 hours ago",
+        "comments": 377,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49348912",
+        "title": "And then the men with guns tell you to do it anyway",
+        "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "points": 144,
+        "time": "7 hours ago",
+        "comments": 72,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49343029",
+        "title": "Show HN: Loft Day – a wedding invitation turned point-and-click game",
+        "url": "https://marketa.behdad.org/loft-day",
+        "points": 4,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 19,
+        "story_id": "49353618",
+        "title": "Programmable Property-Based Testing",
+        "url": "https://dl.acm.org/doi/10.1145/3828685",
+        "points": 13,
+        "time": "2 hours ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49272694",
+        "title": "Simulated red blood cells and microscopy",
+        "url": "https://lucasamoudruz.com/blog/red-blood-cells.html",
+        "points": 5,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49353854",
+        "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+        "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+        "points": 12,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49351330",
+        "title": "Norway should buy OpenAI",
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "points": 203,
+        "time": "5 hours ago",
+        "comments": 223,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49287463",
+        "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+        "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+        "points": 69,
+        "time": "6 hours ago",
+        "comments": 22,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49348055",
+        "title": "Apple announces changes for apps in the European Union",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+        "points": 104,
+        "time": "8 hours ago",
+        "comments": 163,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49295369",
+        "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
+        "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+        "points": 12,
+        "time": "2 hours ago",
+        "comments": 7,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49348751",
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "points": 255,
+        "time": "7 hours ago",
+        "comments": 223,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49332981",
+        "title": "Universal health coverage could save $1T and 114k lives a year: study",
+        "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+        "points": 687,
+        "time": "1 day ago",
+        "comments": 777,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49309248",
+        "title": "Evolve: An incremental game about evolving a civilization",
+        "url": "https://pmotschmann.github.io/Evolve/",
+        "points": 74,
+        "time": "7 hours ago",
+        "comments": 22,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49345476",
+        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+        "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+        "points": 158,
+        "time": "11 hours ago",
+        "comments": 33,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49348136",
+        "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+        "url": "https://machine0.io/",
+        "points": 58,
+        "time": "8 hours ago",
+        "comments": 36,
+        "story_type": "Launch HN"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

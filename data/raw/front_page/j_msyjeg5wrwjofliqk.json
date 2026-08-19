@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-18T10:45:56.763Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "points": 155,
+        "time": "2 hours ago",
+        "comments": 25,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49342530",
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "points": 61,
+        "time": "3 hours ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49338459",
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "points": 538,
+        "time": "12 hours ago",
+        "comments": 355,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49337602",
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "points": 462,
+        "time": "13 hours ago",
+        "comments": 286,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49338328",
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "points": 360,
+        "time": "12 hours ago",
+        "comments": 152,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49343559",
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 20,
+        "time": "32 minutes ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49338285",
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "points": 209,
+        "time": "12 hours ago",
+        "comments": 48,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49311115",
+        "title": "Ranking the Most Brilliantly Colored Birds with Data",
+        "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+        "points": 26,
+        "time": "5 hours ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49340299",
+        "title": "The Benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "points": 116,
+        "time": "8 hours ago",
+        "comments": 31,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49330781",
+        "title": "A Preview of DuckDB v2.0",
+        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "points": 640,
+        "time": "20 hours ago",
+        "comments": 113,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49313360",
+        "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+        "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+        "points": 33,
+        "time": "5 hours ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49279208",
+        "title": "I built a golf career management SIM (like Basketball GM, but golf)",
+        "url": "https://www.rainydaygc.com/",
+        "points": 6,
+        "time": "2 hours ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49337392",
+        "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+        "points": 542,
+        "time": "13 hours ago",
+        "comments": 331,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49331423",
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "points": 376,
+        "time": "20 hours ago",
+        "comments": 144,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49270194",
+        "title": "Olo (Color)",
+        "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+        "points": 453,
+        "time": "22 hours ago",
+        "comments": 83,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49341411",
+        "title": "Exercise intensity modulates interorgan communication and is associated with",
+        "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+        "points": 33,
+        "time": "5 hours ago",
+        "comments": 6,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49334991",
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "points": 220,
+        "time": "15 hours ago",
+        "comments": 44,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49334409",
+        "title": "An update on leaving Gmail for Fastmail",
+        "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+        "points": 244,
+        "time": "17 hours ago",
+        "comments": 150,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49269966",
+        "title": "The Road to MS-DOS 2.0",
+        "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+        "points": 76,
+        "time": "11 hours ago",
+        "comments": 31,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49339097",
+        "title": "Repair Cafe – Fix Your Broken Items",
+        "url": "https://www.repaircafe.org/",
+        "points": 118,
+        "time": "11 hours ago",
+        "comments": 19,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49329575",
+        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+        "points": 340,
+        "time": "22 hours ago",
+        "comments": 162,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49285139",
+        "title": "Shattered skeleton is first confirmed death from trebuchet",
+        "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+        "points": 71,
+        "time": "9 hours ago",
+        "comments": 51,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49331220",
+        "title": "How to disable or avoid intrusive AI",
+        "url": "https://www.librarian.net/notoai/",
+        "points": 304,
+        "time": "20 hours ago",
+        "comments": 180,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49333344",
+        "title": "Judge sets framework for Nine PBS to retrieve archival data",
+        "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+        "points": 169,
+        "time": "18 hours ago",
+        "comments": 64,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49333824",
+        "title": "Sun Clock",
+        "url": "https://sunclock.net/",
+        "points": 235,
+        "time": "18 hours ago",
+        "comments": 77,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49336573",
+        "title": "AI;DR (AI; Didn't Read)",
+        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "points": 897,
+        "time": "14 hours ago",
+        "comments": 547,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49335600",
+        "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+        "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+        "points": 148,
+        "time": "16 hours ago",
+        "comments": 53,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49336304",
+        "title": "India has paved the way for charging merchants a fee on UPI transactions",
+        "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+        "points": 157,
+        "time": "15 hours ago",
+        "comments": 190,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49318607",
+        "title": "Climbing Guide as a Shared Infrastructure",
+        "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+        "points": 18,
+        "time": "5 hours ago",
+        "comments": 9,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49332751",
+        "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+        "url": "https://speko.ai/",
+        "points": 108,
+        "time": "19 hours ago",
+        "comments": 58,
+        "story_type": "Launch HN"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

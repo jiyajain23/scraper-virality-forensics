@@ -1,0 +1,340 @@
+[
+  {
+    "scraped_at": "2026-08-19T17:18:57.704Z",
+    "stories": [
+      {
+        "story_id": "49364339",
+        "title": "\"Why should you ever log into Salesforce again?\"",
+        "story_url": "https://www.fuse.is/blog/never-log-into-salesforce-again",
+        "author": "rkovashikawa",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364327",
+        "title": "Go 1.27 Released",
+        "story_url": "https://go.dev/doc/devel/release",
+        "author": "fero14041",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364311",
+        "title": "A Lawyer for AI Agents",
+        "story_url": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
+        "author": "speckx",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364298",
+        "title": "Psychopathic Sims: Testing the Cheater-Hawk Hypothesis in a Video Game",
+        "story_url": "https://link.springer.com/article/10.1007/s40806-020-00231-3",
+        "author": "jambalaya8",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364296",
+        "title": "Show HN: terminal-code – VS Code inside the terminal",
+        "story_url": "https://terminal-code.com/",
+        "author": "robpruzan",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364294",
+        "title": "We built a 3D underground explorer on 13M standardized well logs",
+        "story_url": "https://drillerdb.com/underground/driftless",
+        "author": "craig_vg",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364280",
+        "title": "The Truth Is in the Detail",
+        "story_url": "https://www.poetryfoundation.org/articles/1820031/the-truth-is-in-the-detail",
+        "author": "paulpauper",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364274",
+        "title": "The detectives preparing to solve murders in space",
+        "story_url": "https://www.sciencefocus.com/space/heres-how-astronauts-will-soon-solve-murders-in-space-2",
+        "author": "paulpauper",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364268",
+        "title": "Health and productivity tips from top performers",
+        "story_url": "https://www.aescle.com/blog/17-health-and-productivity-tips/",
+        "author": "richhwang",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364254",
+        "title": "Reverse-Lookup Service Exposed Photos of People's Faces",
+        "story_url": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+        "author": "rndsignals",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364226",
+        "title": "OpenAI previews zero-retention safety system as Anthropic requires data logs",
+        "story_url": "https://www.axios.com/2026/08/19/openai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs",
+        "author": "tmp10423288442",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364223",
+        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+        "story_url": "https://demo.frugaltokens.com/",
+        "author": "dpc94",
+        "publication_time": "9 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364196",
+        "title": "Exploting a printer to run a Minecraft server",
+        "story_url": "https://www.youtube.com/watch?v=1LXoEscyOO4",
+        "author": "vimpo",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364186",
+        "title": "Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts",
+        "story_url": "https://pingularity.dev/",
+        "author": "cansofgrease",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364176",
+        "title": "SQLite for Everything",
+        "story_url": "https://joecode.com/2026-08-19-sqlite3/",
+        "author": "yomismoaqui",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364158",
+        "title": "Blood Boy for All – Young blood is a human right",
+        "story_url": "https://www.onethousandmeans.com/p/blood-boy-for-all",
+        "author": "alexeigannon",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364151",
+        "title": "From DOS Binary to Playdate",
+        "story_url": "https://bstar.github.io/lemmings-playdate/blog/decompiling-lemmings/",
+        "author": "bstar77",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364149",
+        "title": "The Download: AI's self-improvement problem, and what's driving the heat",
+        "story_url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+        "author": "joozio",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364142",
+        "title": "Etched AI valuation doubles to $21B in a month",
+        "story_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "author": "bookofjoe",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364138",
+        "title": "Study links long-term Cialis use and blindness",
+        "story_url": "https://gizmodo.com/scientists-uncover-worrying-link-between-this-popular-erection-drug-and-blindness-2000800309",
+        "author": "giuliomagnifico",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364117",
+        "title": "A Society That Runs on Stimulants Is Badly Broken",
+        "story_url": "https://www.currentaffairs.org/news/a-society-that-runs-on-stimulants-is-badly-broken",
+        "author": "florisuga",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364107",
+        "title": "How the Internet Works",
+        "story_url": "https://curiositas.alanjego.com/en/internet",
+        "author": "Alannnn",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364088",
+        "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
+        "story_url": "https://github.com/OnPoint-Dev-Tools/crewcode",
+        "author": "CjLogix",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364083",
+        "title": "Evaluating digital cognitive tests for clinical use in Alzheimer's disease",
+        "story_url": "https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.71559",
+        "author": "debo_",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364082",
+        "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
+        "story_url": "https://intelix.dev/",
+        "author": "ved_p05",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49364065",
+        "title": "Columbia House is shutting down after 71 years",
+        "story_url": "https://www.nbclosangeles.com/news/business/columbia-house-shutting-down-after-71-years/3931211/",
+        "author": "pudgywalsh",
+        "publication_time": "22 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364063",
+        "title": "Zuckerberg lied about concern for child safety",
+        "story_url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+        "author": "jamarna",
+        "publication_time": "23 minutes ago",
+        "points": 5,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364048",
+        "title": "Thunder Compute raises $13M Series A to squeeze more work out of idle GPUs",
+        "story_url": "https://siliconangle.com/2026/08/19/thunder-compute-raises-13m-squeeze-work-idle-gpus/",
+        "author": "cpeterson42",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364019",
+        "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+        "story_url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+        "author": "binyu",
+        "publication_time": "25 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49364014",
+        "title": "How I Use AI to Help Me Write",
+        "story_url": "https://tombedor.dev/how-i-use-ai-to-help-me-write/",
+        "author": "jjfoooo4",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
