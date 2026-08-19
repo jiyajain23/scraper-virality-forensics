@@ -1,0 +1,349 @@
+[
+  {
+    "scraped_at": "2026-08-18T08:45:06.836Z",
+    "stories": [
+      {
+        "story_id": "bigbox",
+        "title": "Show HN: Vianta Connect – file transfer and clipboard sync for Android and Mac",
+        "story_url": "https://play.google.com/store/apps/details?id=com.vianta.android&hl=en_US",
+        "points": 0,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49343039",
+        "title": "Show HN: Vianta Connect – file transfer and clipboard sync for Android and Mac",
+        "story_url": "https://play.google.com/store/apps/details?id=com.vianta.android&hl=en_US",
+        "author": "SUSHANTH_21",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49343034",
+        "title": "The defense revolving-door, Silicon Valley edition",
+        "story_url": "https://thebulletin.org/2026/08/the-defense-revolving-door-silicon-valley-edition/",
+        "author": "jonbaer",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49343024",
+        "title": "RL-based robot arm manipulation with Isaac Lab",
+        "story_url": "https://www.hackster.io/agilexrobotics/sim2real-deployment-rl-based-grasping-using-piper-arm-8ae8bb",
+        "author": "AGX_NERO",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49343017",
+        "title": "Elm for PostgreSQL",
+        "story_url": "https://twitter.com/evancz/status/2089617868694421564",
+        "author": "garyclarke27",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342987",
+        "title": "Show HN: There are many factories, but this one's *yours",
+        "story_url": "https://github.com/mikaelweiss/penguin",
+        "author": "mikaelweiss",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49342984",
+        "title": "Decentralized Universal Computer",
+        "story_url": "https://github.com/Skills03/c9",
+        "author": "RIshabh235",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342983",
+        "title": "What if the AI capex bubble may not be a bubble after all?",
+        "story_url": "https://www.afr.com/technology/sam-altman-is-being-proved-right-about-the-economics-of-ai-20260817-p60p1k",
+        "author": "mnoorani",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342968",
+        "title": "NASA's Starling Mission Opens New Frontiers in Space Navigation",
+        "story_url": "https://www.nasa.gov/blogs/smallsatellites/2026/08/17/nasas-starling-mission-opens-new-frontiers-in-space-navigation/",
+        "author": "rbanffy",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342966",
+        "title": "Paperwing",
+        "story_url": "https://paperwing.dev/",
+        "author": "tosh",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342947",
+        "title": "Zotero 10",
+        "story_url": "https://www.zotero.org/blog/zotero-10/",
+        "author": "pretext",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342898",
+        "title": "CartLens",
+        "story_url": "https://www.cartlens.co/",
+        "author": "watat83",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342894",
+        "title": "Nvidia CMP170HX driver 64GB RAM unlocking patch",
+        "story_url": "https://github.com/amoghmunikote/cmpunlocker",
+        "author": "ValdikSS",
+        "publication_time": "26 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342884",
+        "title": "Forced System",
+        "story_url": "https://news.ycombinator.com/item?id=49342884",
+        "author": "shencry",
+        "publication_time": "27 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49342872",
+        "title": "Max 20x upgrade not reflected in weekly limits, depleting at Max 5x rate",
+        "story_url": "https://github.com/anthropics/claude-code/issues/79773",
+        "author": "qwertox",
+        "publication_time": "29 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342865",
+        "title": "10000 Classic Movie Posters Digitized and Put Online Free to Browse and Download",
+        "story_url": "https://www.openculture.com/2026/08/5000-classic-movie-posters-digitized-put-online-free-to-browse-download.html",
+        "author": "mdp2021",
+        "publication_time": "30 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342848",
+        "title": "Reddit begins testing a new audio and video experience, similar to TikTok videos",
+        "story_url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
+        "author": "HelloUsername",
+        "publication_time": "32 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342824",
+        "title": "Measuring Obedience to Authority Across LLMs with the Milgram Paradigm",
+        "story_url": "https://arxiv.org/abs/2608.16177",
+        "author": "sbulaev",
+        "publication_time": "36 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342823",
+        "title": "OpenAI disbanded the team that assessed catastrophic model risks",
+        "story_url": "https://thenextweb.com/news/openai-preparedness-team-disbanded-ipo-streamlining",
+        "author": "nyku",
+        "publication_time": "36 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342808",
+        "title": "Four Levels of In-Place Initialization",
+        "story_url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+        "author": "birdculture",
+        "publication_time": "39 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342807",
+        "title": "Europe's heatwave boosted solar by up to 17% on hot days",
+        "story_url": "https://www.euronews.com/2026/08/14/the-real-challenge-starts-after-sundown-europes-heatwave-boosted-solar-by-up-to-17-on-hot-",
+        "author": "benkan",
+        "publication_time": "39 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342805",
+        "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
+        "story_url": "https://www.lemonde.fr/en/france/article/2026/08/11/jellyfish-force-shutdown-of-three-reactors-at-french-nuclear-plant_6756372_7.html",
+        "author": "benkan",
+        "publication_time": "39 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342802",
+        "title": "qwen3.8-27B likes bash",
+        "story_url": "https://twitter.com/hxiao/status/2089483485547544959",
+        "author": "tosh",
+        "publication_time": "39 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342799",
+        "title": "Meta faces a $1.4T reckoning in latest trial over social media addiction",
+        "story_url": "https://www.engadget.com/2237547/meta-faces-a-1-4-trillion-reckoning-in-latest-trial-over-social-media-addiction/",
+        "author": "benkan",
+        "publication_time": "39 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342791",
+        "title": "The End-State Fallacy: Where Is AI Security Headed?",
+        "story_url": "https://endstatefallacy.com/",
+        "author": "mp3il",
+        "publication_time": "42 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342785",
+        "title": "Show HN: Amz-CLI – A command line for Amazon",
+        "story_url": "https://github.com/tamnd/amz-cli",
+        "author": "tamnd",
+        "publication_time": "43 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49342748",
+        "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+        "story_url": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+        "author": "tosh",
+        "publication_time": "48 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342719",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "story_url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "author": "flaburgan",
+        "publication_time": "52 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342707",
+        "title": "YouTube: A view counts from the first frame",
+        "story_url": "https://www.heise.de/en/news/YouTube-A-view-counts-from-the-first-frame-11416784.html",
+        "author": "Topfi",
+        "publication_time": "54 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49342690",
+        "title": "AI is like farming. (and the purpose behind what I'm building)",
+        "story_url": "https://news.ycombinator.com/item?id=49342690",
+        "author": "Ozzie-D",
+        "publication_time": "55 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49342689",
+        "title": "Show HN: Lilo – a lightweight Markdown notes app built with Rust and egui",
+        "story_url": "https://github.com/HellterEnjoy/Lilo",
+        "author": "HellterEnjoy",
+        "publication_time": "56 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
