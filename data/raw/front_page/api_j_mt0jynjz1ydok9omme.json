@@ -1,0 +1,312 @@
+[
+  {
+    "scraped_at": "2026-08-19T20:37:11.290Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49364559",
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "points": 345,
+        "time": "3 hours ago",
+        "comments": 214,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49365405",
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "points": 237,
+        "time": "2 hours ago",
+        "comments": 38,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49365443",
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "points": 70,
+        "time": "1 hour ago",
+        "comments": 16,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49366264",
+        "title": "Pixel 11 Pro Fold feels like the end of an era",
+        "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+        "points": 25,
+        "time": "52 minutes ago",
+        "comments": 35,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49365841",
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "points": 31,
+        "time": "1 hour ago",
+        "comments": 7,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49360015",
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "points": 596,
+        "time": "9 hours ago",
+        "comments": 77,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49366067",
+        "title": "Ramp Launches a Model Router",
+        "url": "https://router.com/",
+        "points": 31,
+        "time": "1 hour ago",
+        "comments": 10,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49362887",
+        "title": "Casio F-B100W-1A",
+        "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "points": 175,
+        "time": "5 hours ago",
+        "comments": 143,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49360545",
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
+        "points": 347,
+        "time": "8 hours ago",
+        "comments": 60,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49364745",
+        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "points": 65,
+        "time": "2 hours ago",
+        "comments": 12,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49362401",
+        "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+        "url": "https://ornith.ai/ornith_1_5.html",
+        "points": 134,
+        "time": "5 hours ago",
+        "comments": 35,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49363668",
+        "title": "Extensible Software in the age of LLMs",
+        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+        "points": 74,
+        "time": "4 hours ago",
+        "comments": 33,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49363665",
+        "title": "How Kubernetes Probes Work",
+        "url": "https://ngrok.com/blog/probes",
+        "points": 83,
+        "time": "4 hours ago",
+        "comments": 15,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49366704",
+        "title": "Copper Shortage Threatens the Green Transition",
+        "url": "https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html",
+        "points": 4,
+        "time": "13 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49362728",
+        "title": "Mathematics in the age of AI",
+        "url": "https://arxiv.org/abs/2608.16753",
+        "points": 66,
+        "time": "5 hours ago",
+        "comments": 45,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49314109",
+        "title": "The little-known winstart.bat batch file",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+        "points": 14,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49366115",
+        "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+        "url": "https://arxiv.org/abs/2510.24491",
+        "points": 10,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49362934",
+        "title": "Remote workers report the highest well-being in study of 7,700 employees",
+        "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+        "points": 360,
+        "time": "5 hours ago",
+        "comments": 167,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49353339",
+        "title": "fx :Tiny, open, native coding agent.",
+        "url": "https://fx.sh/",
+        "points": 109,
+        "time": "9 hours ago",
+        "comments": 59,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49363710",
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "url": "https://github.com/onecli/onecli",
+        "points": 38,
+        "time": "4 hours ago",
+        "comments": 12,
+        "story_type": "Launch HN"
+      },
+      {
+        "rank": 21,
+        "story_id": "49365419",
+        "title": "Rules of Good Social Skills (2025)",
+        "url": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+        "points": 29,
+        "time": "2 hours ago",
+        "comments": 6,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49365326",
+        "title": "Introducing MicroLighter",
+        "url": "https://daverupert.com/2026/08/microlighter/",
+        "points": 28,
+        "time": "2 hours ago",
+        "comments": 6,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49350031",
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+        "points": 91,
+        "time": "11 hours ago",
+        "comments": 84,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49359425",
+        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+        "url": "https://theremin.bizibah.com/",
+        "points": 209,
+        "time": "10 hours ago",
+        "comments": 75,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49361279",
+        "title": "PostgreSQL for Everything",
+        "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+        "points": 243,
+        "time": "7 hours ago",
+        "comments": 165,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49361395",
+        "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+        "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+        "points": 443,
+        "time": "7 hours ago",
+        "comments": 202,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49347477",
+        "title": "Microgpt in pure C hits 10M tps on Apple m5",
+        "url": "https://github.com/vixhal-baraiya/microgpt-c",
+        "points": 104,
+        "time": "6 hours ago",
+        "comments": 32,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49360242",
+        "title": "Devices with GrapheneOS support should be available in 2027",
+        "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+        "points": 543,
+        "time": "8 hours ago",
+        "comments": 345,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49363587",
+        "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+        "url": "https://arxiv.org/abs/2503.08679",
+        "points": 48,
+        "time": "4 hours ago",
+        "comments": 30,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49302127",
+        "title": "Turning molecules into reliable electronic devices",
+        "url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
+        "points": 22,
+        "time": "3 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt0jynjz1ydok9omme",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

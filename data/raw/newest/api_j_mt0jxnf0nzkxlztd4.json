@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-19T20:36:23.563Z",
+    "stories": [
+      {
+        "story_id": "49366862",
+        "title": "Woman dies, comes back to life, gets parking ticket",
+        "story_url": "https://www.stuff.co.nz/nz-news/361021333/woman-dies-comes-back-life-gets-parking-ticket",
+        "author": "lattefa",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366859",
+        "title": "Understanding ASCII",
+        "story_url": "https://hardenedvault.com/articles/FILL-SLUG.html",
+        "author": "nalaginrut",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366847",
+        "title": "We Stopped Counting Tokens",
+        "story_url": "https://medium.com/super/we-stopped-counting-tokens-9278fbccadbc",
+        "author": "keeda",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366836",
+        "title": "Majority of Americans say corruption influences decisions of federal government",
+        "story_url": "https://www.ipsos.com/en-us/majority-americans-say-corruption-influences-decisions-federal-government",
+        "author": "kotoon",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366812",
+        "title": "Why Obsidian and Claude Code is such a good match",
+        "story_url": "https://lukasvonkunhardt.com/obsidian-claude-code-setup/",
+        "author": "lukasvk",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366811",
+        "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+        "story_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+        "author": "ColinWright",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366807",
+        "title": "Show HN: Rust Doctor, a code health scanner for Cargo workspaces",
+        "story_url": "https://github.com/arthjean/rust-doctor",
+        "author": "arthurjean",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49366792",
+        "title": "DFlash 2: Keep Drafting Parallel",
+        "story_url": "https://inco.ai/blog/dflash2/",
+        "author": "mike-the-brain",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366784",
+        "title": "A website to undo caps lock",
+        "story_url": "https://convertcase.net/",
+        "author": "Velocifyer",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366743",
+        "title": "U.S. Debt Hits $40T as America's Borrowing Binge Continues",
+        "story_url": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
+        "author": "latchkey",
+        "publication_time": "10 minutes ago",
+        "points": 5,
+        "comment_count": 3,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366733",
+        "title": "Meta is launching a new Mac app dedicated to its AI chatbot",
+        "story_url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "author": "bogdiyan",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366725",
+        "title": "GitHub-to-GitLab migration the easy way",
+        "story_url": "https://about.gitlab.com/blog/github-to-gitlab-migration-made-easy/",
+        "author": "iamspoilt",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366714",
+        "title": "Claude Opus 5's Anti-Verbosity Policy",
+        "story_url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1vf70wx/workflow_verify_claude_opus_5s_antiverbosity/",
+        "author": "Bluestein",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366704",
+        "title": "Copper Shortage Threatens the Green Transition",
+        "story_url": "https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html",
+        "author": "measurablefunc",
+        "publication_time": "12 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366691",
+        "title": "Ask HN: Any Curated Forum Directories?",
+        "story_url": "https://news.ycombinator.com/item?id=49366691",
+        "author": "catuscubitus",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49366670",
+        "title": "\"Two 2030 AMD racks are expected to deliver same compute as 570 racks in 2024\"",
+        "story_url": "https://newsroom.amd.com/news/amd-tracks-ahead-of-rack-scale-ai-energy-efficiency-goal/",
+        "author": "lossolo",
+        "publication_time": "14 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366664",
+        "title": "Squid – I built an AI meeting participant that knows when not to speak",
+        "story_url": "https://meet.squidhub.ai/",
+        "author": "amadyazdaev",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366658",
+        "title": "TokenBlast: Tune Claude Code's environment flags",
+        "story_url": "https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=",
+        "author": "Bluestein",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366654",
+        "title": "How to Engineer Dissent",
+        "story_url": "https://growthwiseteams.substack.com/p/how-to-engineer-dissent",
+        "author": "adunk",
+        "publication_time": "15 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366650",
+        "title": "Perplexity's free AI offer left it with millions more users in India",
+        "story_url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+        "author": "twapi",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366648",
+        "title": "Show HN: Jobs extracted from company career pages, before they reach job boards",
+        "story_url": "https://news.ycombinator.com/item?id=49366648",
+        "author": "omar_bouaziz",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49366635",
+        "title": "Value misalignments in X's feed algorithm",
+        "story_url": "https://www.pnas.org/doi/10.1073/pnas.2610388123",
+        "author": "GolfPopper",
+        "publication_time": "17 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366613",
+        "title": "UI Pipeline Internals on iOS",
+        "story_url": "https://blog.jacobstechtavern.com/p/ui-pipeline-internals",
+        "author": "jakey_bakey",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366600",
+        "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+        "story_url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+        "author": "toomuchtodo",
+        "publication_time": "20 minutes ago",
+        "points": 3,
+        "comment_count": 2,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366597",
+        "title": "Pressed Penny Machine Map",
+        "story_url": "https://pennypresses.net/home/map.php",
+        "author": "willmeyers",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366596",
+        "title": "Comptroller Gould Discusses Digital Asset Innovation, Genius Next Steps",
+        "story_url": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-69.html",
+        "author": "petethomas",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366594",
+        "title": "How to avoid frustration for Open-Source contributors?",
+        "story_url": "https://github.com/flutter/flutter/pull/190918",
+        "author": "lostbanana4",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366550",
+        "title": "JupyterLite",
+        "story_url": "https://jupyterlite.readthedocs.io/en/stable/",
+        "author": "andrewstetsenko",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366535",
+        "title": "We Can't Agree on What Counts as \"AI-Written\"",
+        "story_url": "https://bookriot.com/what-counts-as-ai-survey-results/",
+        "author": "theanonymousone",
+        "publication_time": "26 minutes ago",
+        "points": 5,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49366528",
+        "title": "Show HN: HyperSAE – Sparse Autoencoders, reimagined in hyperbolic space",
+        "story_url": "https://github.com/vishal-dehurdle/hypersae",
+        "author": "visha1v",
+        "publication_time": "27 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "_api_collection_id": "j_mt0jxnf0nzkxlztd4",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

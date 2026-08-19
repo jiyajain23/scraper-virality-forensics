@@ -30,8 +30,6 @@ Run examples:
   python -m src.collector_sync --poll --interval 480
   python -m src.collector_sync --poll --interval 3600 --collector front_page
 
-SECURITY: API token is read exclusively from the BRIGHTDATA_API_TOKEN
-environment variable. It is never logged, stored, or printed.
 """
 
 from __future__ import annotations
@@ -51,9 +49,7 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# ---------------------------------------------------------------------------
 # Logging
-# ---------------------------------------------------------------------------
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -61,15 +57,11 @@ logging.basicConfig(
 )
 log = logging.getLogger("collector_sync")
 
-# ---------------------------------------------------------------------------
 # Bright Data API constants  (confirmed from official documentation)
-# ---------------------------------------------------------------------------
 TRIGGER_URL = "https://api.brightdata.com/dca/trigger"
 DATASET_URL = "https://api.brightdata.com/dca/dataset"
 
-# ---------------------------------------------------------------------------
 # Collector configuration
-# ---------------------------------------------------------------------------
 COLLECTORS: dict[str, dict[str, str]] = {
     "newest": {
         "collector": "c_msxgknap1ptjrrcetr",
@@ -83,14 +75,10 @@ COLLECTORS: dict[str, dict[str, str]] = {
     },
 }
 
-# ---------------------------------------------------------------------------
 # Paths
-# ---------------------------------------------------------------------------
 STATE_FILE = Path("data/.collector_state.json")
 
-# ---------------------------------------------------------------------------
 # Retry / timeout configuration
-# ---------------------------------------------------------------------------
 REQUEST_TIMEOUT = 30          # seconds per HTTP request
 MAX_RETRIES     = 3           # total retries on transient failures
 BACKOFF_FACTOR  = 2.0         # exponential backoff multiplier
@@ -244,10 +232,35 @@ def trigger_collection(
 # API: Poll for completion and download
 # ---------------------------------------------------------------------------
 
+# Statuses returned by the BrightData /dca/dataset API while a job is still
+# in progress.  Any status in this set is treated as a normal "not ready yet"
+# condition and causes the poller to wait and retry.
+_IN_PROGRESS_STATUSES: frozenset[str] = frozenset({
+    "collecting",   # job is actively scraping
+    "building",     # dataset is being assembled
+    "pending",      # job is queued but not yet started
+    "initializing", # job is starting up
+    "running",      # generic in-progress state used by some API versions
+})
+
+
 def _is_building(data: Any) -> bool:
-    """Return True if the /dca/dataset response indicates the job is still running."""
-    if isinstance(data, dict) and data.get("status") == "building":
-        return True
+    """Return True if the /dca/dataset response indicates the job is still running.
+
+    Handles all known BrightData in-progress status values:
+      - ``collecting``  – the scraper is actively fetching pages
+      - ``building``    – the dataset is being assembled post-collection
+      - ``pending``     – the job is queued but has not started yet
+      - ``initializing``– the job is spinning up
+      - ``running``     – generic in-progress marker in some API versions
+
+    Also treats an empty JSON list as an implicit "not ready" signal, which
+    some older API versions return while the dataset is still building.
+    """
+    if isinstance(data, dict):
+        status = data.get("status", "")
+        if status in _IN_PROGRESS_STATUSES:
+            return True
     # Some API versions return an empty list while building
     if isinstance(data, list) and len(data) == 0:
         return True
@@ -258,13 +271,26 @@ def fetch_result(
     session: requests.Session,
     collector_name: str,
     collection_id: str,
-    max_wait_seconds: int = 1800,
-) -> Optional[list[dict]]:
+    max_wait_seconds: int = 3600,
+) -> Optional[tuple[list[dict], str]]:
     """
     Poll /dca/dataset until results are ready or timeout.
 
-    Returns the list of story records on success, None on failure/timeout.
-    The poll interval uses exponential backoff up to POLL_WAIT_MAX seconds.
+    Returns ``(records, scraped_at)`` on success where ``scraped_at`` is the
+    ISO-8601 timestamp supplied by the API (or a local fallback).  Returns
+    ``None`` on failure or timeout.
+
+    The BrightData /dca/dataset endpoint may return the completed dataset in
+    two different shapes:
+
+    1. A **dict** with ``scraped_at`` (str) and ``stories`` (list) keys -- the
+       primary success shape used by the Scraper Studio API.
+    2. A **non-empty list** of story records -- returned by some older API
+       versions that do not wrap the payload.
+
+    Both shapes are recognised as success.  In-progress states (``collecting``,
+    ``building``, etc.) are handled by ``_is_building`` and cause the poller to
+    wait and retry with exponential back-off.
     """
     wait = POLL_WAIT_BASE
     elapsed = 0
@@ -319,13 +345,32 @@ def fetch_result(
             wait = min(wait * 2, POLL_WAIT_MAX)
             continue
 
-        # If it's a non-empty list: results are ready
-        if isinstance(data, list) and len(data) > 0:
-            log.info("[%s] Results ready. %d records received.", collector_name, len(data))
-            return data
+        # Success shape 1: dict with 'scraped_at' and 'stories' keys.
+        # The Scraper Studio API wraps the completed dataset in a single object
+        # rather than returning a bare list.
+        if (
+            isinstance(data, dict)
+            and "scraped_at" in data
+            and isinstance(data.get("stories"), list)
+        ):
+            stories = data["stories"]
+            scraped_at = data["scraped_at"]
+            log.info(
+                "[%s] Results ready (dict shape). %d records received (scraped_at=%s).",
+                collector_name, len(stories), scraped_at,
+            )
+            return stories, scraped_at
 
-        # Unexpected response shape
-        log.error("[%s] Unexpected response from /dca/dataset: %s", collector_name, str(data)[:300])
+        # Success shape 2: non-empty list of story records (older API versions).
+        if isinstance(data, list) and len(data) > 0:
+            scraped_at = datetime.now(timezone.utc).isoformat()
+            log.info("[%s] Results ready (list shape). %d records received.",
+                     collector_name, len(data))
+            return data, scraped_at
+
+        # Truly unexpected response -- not an in-progress state, not a success.
+        log.error("[%s] Unexpected response from /dca/dataset: %s",
+                  collector_name, str(data)[:300])
         return None
 
     log.error("[%s] Timed out waiting for collection_id=%s after %ds.",
@@ -408,13 +453,14 @@ def run_once(
     _mark_triggered(state, collector_name, collection_id)
 
     # 3. Poll for results
-    records = fetch_result(session, collector_name, collection_id)
-    if records is None:
+    fetch = fetch_result(session, collector_name, collection_id)
+    if fetch is None:
         _mark_failed(state, collector_name, collection_id, "fetch_result returned None")
         return False
+    records, scraped_at = fetch
 
-    # 4. Save
-    scraped_at = datetime.now(timezone.utc).isoformat()
+    # 4. Save -- use the scraped_at timestamp from the API response so the
+    #    saved file faithfully reflects when BrightData actually collected the data.
     out_path = save_raw_result(collector_name, collection_id, records, scraped_at)
     _mark_downloaded(state, collector_name, collection_id, str(out_path))
 
