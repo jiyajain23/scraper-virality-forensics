@@ -182,7 +182,7 @@ All endpoints are prefixed with `/api/v1` and support optional `X-API-Key` authe
 - **`POST /api/v1/batch_predict`**
   - Batch score up to 500 stories in a single request.
 - **`POST /api/v1/collect`**
-  - Trigger an on-demand Bright Data scraper run.
+  - Trigger an on-demand Bright Data scraper run. This triggers the scrape asynchronously and automatically queues a background task in FastAPI to poll, download, save, and ingest the scraped data into your local folders when ready.
 - **`GET /health`**
   - Liveness check, model artifact verification, and auth status.
 
@@ -225,12 +225,19 @@ uvicorn api.main:app --reload --port 8000
 - **Interactive Swagger UI:** [http://localhost:8000/docs](http://localhost:8000/docs)
 - **ReDoc Documentation:** [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
-### Run the Background Data Collector
+### Automated Background Scraper
+The background scraper is **fully integrated into the FastAPI backend lifecycle**. 
+When you start the FastAPI server, it automatically spawns a background thread that polls Bright Data for `/newest` (every 8 minutes) and `/front_page` (every 1 hour), downloading and ingesting the data automatically. 
+
+*(Make sure your `BRIGHTDATA_API_TOKEN` is set in your `.env` or system environment for this to run).*
+
+### Run the Background Data Collector Manually (Optional CLI)
+If you want to run the collector or ingestion manually from the CLI without running the API server:
 ```bash
 # Run one-off collection for newest
 python -m src.collector_sync --once --collector newest
 
-# Run continuous 8-minute polling with automatic dataset ingestion
+# Run continuous 8-minute polling manually
 python -m src.collector_sync --poll --interval 480 --collector newest --ingest
 ```
 

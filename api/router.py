@@ -17,7 +17,7 @@ import logging
 import os
 from typing import Optional  # noqa: F401 — used in _verify_api_key signature
 
-from fastapi import APIRouter, Depends, HTTPException, Security
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Security
 from fastapi.security.api_key import APIKeyHeader
 
 from .model import ViralityModel, get_model
@@ -152,12 +152,47 @@ collect_router = APIRouter(
 VALID_COLLECTORS = {"newest", "front_page"}
 
 
+def _poll_and_download_task(collector: str, collection_id: str):
+    try:
+        from src.collector_sync import (
+            fetch_result,
+            save_raw_result,
+            _load_state,
+            _mark_triggered,
+            _mark_downloaded,
+            _mark_failed,
+            _build_session,
+            _run_ingestion,
+        )
+        token = os.environ.get("BRIGHTDATA_API_TOKEN", "").strip()
+        if not token:
+            return
+        session = _build_session(token)
+        state = _load_state()
+        _mark_triggered(state, collector, collection_id)
+        
+        fetch = fetch_result(session, collector, collection_id)
+        if fetch is None:
+            _mark_failed(state, collector, collection_id, "fetch_result returned None")
+            return
+            
+        records, scraped_at = fetch
+        out_path = save_raw_result(collector, collection_id, records, scraped_at)
+        _mark_downloaded(state, collector, collection_id, str(out_path))
+        _run_ingestion()
+    except Exception:
+        log.exception("Background poll and download failed for collection_id=%s", collection_id)
+
+
 @collect_router.post(
     "/collect",
     response_model=CollectResponse,
     summary="Trigger a BrightData collector to scrape fresh HN data",
 )
-def trigger_collect(body: CollectRequest) -> CollectResponse:
+def trigger_collect(
+    body: CollectRequest,
+    background_tasks: BackgroundTasks,
+) -> CollectResponse:
     """
     Fires a single collection cycle for the requested collector and returns
     the collection_id immediately.  The collection runs asynchronously on
@@ -188,21 +223,25 @@ def trigger_collect(body: CollectRequest) -> CollectResponse:
                 detail="BRIGHTDATA_API_TOKEN environment variable is not set."
             )
         session = _build_session(token)
-        collector_id = COLLECTORS[body.collector]["collector_id"]
+        collector_id = COLLECTORS[body.collector]["collector"]
+        collector_url = COLLECTORS[body.collector]["url"]
         resp = session.post(
             TRIGGER_URL,
             params={"collector": collector_id, "queue_next": 1},
+            json=[{"url": collector_url}],
             timeout=REQUEST_TIMEOUT,
         )
         resp.raise_for_status()
         data = resp.json()
         collection_id = data.get("collection_id") or data.get("id", "unknown")
 
+        background_tasks.add_task(_poll_and_download_task, body.collector, collection_id)
+
         return CollectResponse(
             collector=body.collector,
             collection_id=collection_id,
             status="triggered",
-            message=f"Collection started. Poll /dca/dataset?id={collection_id} for results.",
+            message=f"Collection started and queued for background save/ingest. Poll /dca/dataset?id={collection_id} if checking progress manually.",
         )
 
     except Exception as exc:
