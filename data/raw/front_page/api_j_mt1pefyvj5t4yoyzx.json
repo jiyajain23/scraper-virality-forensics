@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-20T15:57:20.644Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49372583",
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "points": 488,
+        "time": "5 hours ago",
+        "comments": 155,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49374269",
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "points": 212,
+        "time": "2 hours ago",
+        "comments": 152,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49373456",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "points": 251,
+        "time": "3 hours ago",
+        "comments": 66,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 4,
+        "story_id": "49347543",
+        "title": "I like 'em thick: an apology to my English teachers",
+        "url": "https://www.experimental-history.com/p/i-like-em-thick",
+        "points": 34,
+        "time": "1 hour ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49362689",
+        "title": "HTML Can Do That",
+        "url": "https://chrisburnell.com/html-can-do-that/",
+        "points": 113,
+        "time": "3 hours ago",
+        "comments": 22,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49374287",
+        "title": "DiffusionGemma Technical Report",
+        "url": "https://arxiv.org/abs/2608.00146",
+        "points": 60,
+        "time": "2 hours ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49374772",
+        "title": "Hacking with Claude on a $27 Smart Watch",
+        "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+        "points": 34,
+        "time": "1 hour ago",
+        "comments": 20,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49368886",
+        "title": "CIA funding helped keep NeXT afloat in the 80s",
+        "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+        "points": 63,
+        "time": "2 hours ago",
+        "comments": 16,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49376287",
+        "title": "I Am Morally Opposed to Updating My Claude.md",
+        "url": "https://alex-jacobs.com/posts/claudemd/",
+        "points": 5,
+        "time": "8 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49373932",
+        "title": "Xorg-Server 26.0.99.901",
+        "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+        "points": 36,
+        "time": "3 hours ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49374635",
+        "title": "Every Model Cheats",
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+        "points": 22,
+        "time": "1 hour ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49322868",
+        "title": "Double-double: 31 digits of precision without leaving the FPU",
+        "url": "https://marekfiser.com/blog/double-double-arithmetic/",
+        "points": 13,
+        "time": "1 hour ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49348079",
+        "title": "Mojo is now open source",
+        "url": "https://www.modular.com/blog/mojo-open-source",
+        "points": 197,
+        "time": "9 hours ago",
+        "comments": 51,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49373423",
+        "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+        "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+        "time": "3 hours ago",
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49374873",
+        "title": "An elliptic curve of rank ≥ 30",
+        "url": "https://elliptic-rank.icarm.cloud/curve/273",
+        "points": 24,
+        "time": "1 hour ago",
+        "comments": 9,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49371006",
+        "title": "Windows brings out the Rorschach test in everyone (2003)",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "points": 302,
+        "time": "9 hours ago",
+        "comments": 107,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49348141",
+        "title": "Git at any scale",
+        "url": "https://cursor.com/blog/git-at-any-scale",
+        "points": 101,
+        "time": "8 hours ago",
+        "comments": 7,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49376038",
+        "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+        "url": "https://github.com/runvendo/vendo",
+        "points": 6,
+        "time": "26 minutes ago",
+        "comments": 1,
+        "story_type": "Launch HN"
+      },
+      {
+        "rank": 19,
+        "story_id": "49374036",
+        "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
+        "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+        "points": 44,
+        "time": "2 hours ago",
+        "comments": 37,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49376332",
+        "title": "How to compromise your system with a job interview",
+        "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+        "points": 4,
+        "time": "4 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49375996",
+        "title": "Clean up Claude 5's token vomit with a separate LLM",
+        "url": "https://github.com/zachahn/vomit",
+        "points": 17,
+        "time": "29 minutes ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49374797",
+        "title": "Bun 1.4",
+        "url": "https://bun.com/blog/bun-v1.4",
+        "points": 106,
+        "time": "1 hour ago",
+        "comments": 44,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49336772",
+        "title": "Nearly 1,400 live streams from Japan",
+        "url": "https://tomarigi.me/",
+        "points": 45,
+        "time": "2 hours ago",
+        "comments": 8,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49333091",
+        "title": "Theory of Fluids Enters the 21st Century",
+        "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+        "points": 36,
+        "time": "3 hours ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49375719",
+        "title": "Anti-AI fonts are useless and harmful",
+        "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+        "points": 8,
+        "time": "49 minutes ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49360140",
+        "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+        "url": "https://arxiv.org/abs/2504.09762",
+        "points": 103,
+        "time": "17 hours ago",
+        "comments": 23,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49321515",
+        "title": "An American Mosaic (interactive map of ancestry census data)",
+        "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+        "points": 21,
+        "time": "2 hours ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49375244",
+        "title": "Show HN: Open-source Stripe Connect alternative",
+        "url": "https://zoneless.com/",
+        "points": 19,
+        "time": "1 hour ago",
+        "comments": 7,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 29,
+        "story_id": "49375237",
+        "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+        "url": "https://pub.doub.ly/",
+        "points": 14,
+        "time": "1 hour ago",
+        "comments": 4,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 30,
+        "story_id": "49374738",
+        "title": "Stwipe Acquires OpenWouter",
+        "url": "https://stwipe.com/",
+        "points": 146,
+        "time": "1 hour ago",
+        "comments": 18,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt1pefyvj5t4yoyzx",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

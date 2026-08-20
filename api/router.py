@@ -179,9 +179,13 @@ def trigger_collect(body: CollectRequest) -> CollectResponse:
             TRIGGER_URL,
             REQUEST_TIMEOUT,
             _build_session,
-        )
-
-        session = _build_session()
+        token = os.environ.get("BRIGHTDATA_API_TOKEN", "").strip()
+        if not token:
+            raise HTTPException(
+                status_code=400,
+                detail="BRIGHTDATA_API_TOKEN environment variable is not set."
+            )
+        session = _build_session(token)
         collector_id = COLLECTORS[body.collector]["collector_id"]
         resp = session.post(
             TRIGGER_URL,

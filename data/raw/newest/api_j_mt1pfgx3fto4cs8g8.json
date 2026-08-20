@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T15:57:58.286Z",
+    "stories": [
+      {
+        "story_id": "49376397",
+        "title": "DripSharp: Building a Java-to-C# source converter with AI",
+        "story_url": "https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/",
+        "author": "i_s",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376395",
+        "title": "Analog Cognition and Consciousness",
+        "story_url": "https://doi.org/10.1523/JNEUROSCI.0711-26.2026",
+        "author": "rochansinha",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376376",
+        "title": "Show HN: Excuse My French – a French-learning exercise generator",
+        "story_url": "https://excusemyfrench.org/",
+        "author": "onurcel",
+        "publication_time": "2 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49376349",
+        "title": "The machine never raises its voice",
+        "story_url": "https://shivanshuag.com/blog/the-machine-never-raises-its-voice/",
+        "author": "shivanshuag",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376346",
+        "title": "Project management with schedule aware AI copilot",
+        "story_url": "https://www.criticalschedule.com/",
+        "author": "astralithos_ai",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376337",
+        "title": "The Teens Taking on Data Centers",
+        "story_url": "https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html",
+        "author": "bcaulfield",
+        "publication_time": "5 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376334",
+        "title": "Curvature Beziers: Improving a Timeless Recipie",
+        "story_url": "https://acko.net/blog/curvature-beziers/",
+        "author": "signa11",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376332",
+        "title": "How to compromise your system with a job interview",
+        "story_url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+        "author": "codedge",
+        "publication_time": "5 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376330",
+        "title": "Show HN: Paymug – Self-host LemonSqueezy / Polar alternative",
+        "story_url": "https://github.com/Paymug/paymug",
+        "author": "docuru",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49376328",
+        "title": "What Makes Art Great?",
+        "story_url": "https://nabeelqu.co/what-makes-art-great",
+        "author": "eig",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376325",
+        "title": "Writing Tickets for Software Engineers",
+        "story_url": "https://nickhayden.com/blog/writing-tickets-for-software-engineers/",
+        "author": "speckx",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376304",
+        "title": "Tach",
+        "story_url": "https://github.com/tach-org/tach",
+        "author": "bognition",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376287",
+        "title": "I Am Morally Opposed to Updating My Claude.md",
+        "story_url": "https://alex-jacobs.com/posts/claudemd/",
+        "author": "tacoooooooo",
+        "publication_time": "9 minutes ago",
+        "points": 9,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376282",
+        "title": "Show HN: Compute.cx is simple (modal.com like) interface for on-demand GPUs",
+        "story_url": "https://compute.cx/",
+        "author": "hargup",
+        "publication_time": "9 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49376273",
+        "title": "Rickman v. Apple, Inc. (N.D. Cal., Aug. 6, 2026)",
+        "story_url": "https://www.bloomberglaw.com/api/v1/public/download/X2K9PC2CAT8OPAH7MV2P5QMI0B?public_link=RICKMANvAppleIncDocketNo526cv08218NDCalAug062026CourtDocket",
+        "author": "1vuio0pswjnm7",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376270",
+        "title": "Outbid – A Million Dollar Homepage for 2026?",
+        "story_url": "https://outbid.lol/",
+        "author": "whyleyc",
+        "publication_time": "10 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376269",
+        "title": "Morrolinux: The Rocky Road to Open Hardware – ARMSoM and Rockchip",
+        "story_url": "https://www.lpi.org/blog/2026/08/11/morrolinux-the-rocky-road-to-open-hardware-armsom-and-rockchip/",
+        "author": "evolve2k",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376265",
+        "title": "Linux 7.2 Released",
+        "story_url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+        "author": "mariuz",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376261",
+        "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
+        "story_url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
+        "author": "iwhalen",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376256",
+        "title": "Show HN: Epho – run Claude Code with a curl",
+        "story_url": "https://epho.io/",
+        "author": "karakanb",
+        "publication_time": "11 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49376254",
+        "title": "An MCP server for cameras that signs a receipt for every agent action",
+        "story_url": "https://github.com/oneshot2001/onvif-mcp",
+        "author": "mkvisher",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376251",
+        "title": "(LLM Cluster) I spent all my money on broken Steam Decks [video]",
+        "story_url": "https://www.youtube.com/watch?v=P0GXwKlg3pU",
+        "author": "throwaway1492",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376242",
+        "title": "Show HN: Orion - A Self-hosted torrent client and media server",
+        "story_url": "https://github.com/guyavrhm/orion",
+        "author": "flarbooga",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49376239",
+        "title": "What a dead salmon reminds us about fMRI analysis (2009)",
+        "story_url": "https://law.stanford.edu/2009/09/18/what-a-dead-salmon-reminds-us-about-fmri-analysis/",
+        "author": "speckx",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376229",
+        "title": "Approximation Game",
+        "story_url": "https://blog.coredump.cx/p/approximation-game",
+        "author": "surprisetalk",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376211",
+        "title": "Generic Methods in Go 1.27",
+        "story_url": "https://dominik.info/blog/go-generic-methods",
+        "author": "EspressoGPT",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376199",
+        "title": "VulnGym: Benchmarking Coding Agents for Repository-Level Vulnerability Detection",
+        "story_url": "https://arxiv.org/abs/2608.02001",
+        "author": "wslh",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376197",
+        "title": "Autolith: A programming agent with a live runtime",
+        "story_url": "https://www.lambda-symbolics.com/autolith",
+        "author": "vismit2000",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49376185",
+        "title": "Show HN: okfctl",
+        "story_url": "https://github.com/cwest/okfctl",
+        "author": "caseywest",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49376177",
+        "title": "Remember every word. Keep it yours",
+        "story_url": "https://livetranscriber.chengqili.com/",
+        "author": "moatmoat",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1pfgx3fto4cs8g8",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
