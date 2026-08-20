@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-20T15:01:43.231Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49374269",
+        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "points": 147,
+        "time": "1 hour ago",
+        "comments": 98,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49372583",
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "points": 385,
+        "time": "4 hours ago",
+        "comments": 124,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49374920",
+        "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+        "url": "https://www.bbc.com/news/articles/clyq011414eo",
+        "points": 47,
+        "time": "43 minutes ago",
+        "comments": 25,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49373456",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "points": 197,
+        "time": "2 hours ago",
+        "comments": 45,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 5,
+        "story_id": "49374738",
+        "title": "Stwipe Acquires OpenWouter",
+        "url": "https://stwipe.com/",
+        "points": 96,
+        "time": "56 minutes ago",
+        "comments": 13,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49374287",
+        "title": "DiffusionGemma Technical Report",
+        "url": "https://arxiv.org/abs/2608.00146",
+        "points": 41,
+        "time": "1 hour ago",
+        "comments": 6,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49374772",
+        "title": "Hacking with Claude on a $27 Smart Watch",
+        "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+        "points": 21,
+        "time": "53 minutes ago",
+        "comments": 9,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49374036",
+        "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+        "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+        "points": 23,
+        "time": "2 hours ago",
+        "comments": 12,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49371006",
+        "title": "Windows brings out the Rorschach test in everyone (2003)",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "points": 293,
+        "time": "8 hours ago",
+        "comments": 106,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49374965",
+        "title": "Slack Code",
+        "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+        "points": 5,
+        "time": "40 minutes ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49348079",
+        "title": "Mojo is now open source",
+        "url": "https://www.modular.com/blog/mojo-open-source",
+        "points": 165,
+        "time": "8 hours ago",
+        "comments": 48,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49373423",
+        "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+        "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+        "time": "3 hours ago",
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49321515",
+        "title": "An American Mosaic (interactive map of ancestry census data)",
+        "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+        "points": 18,
+        "time": "1 hour ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49374873",
+        "title": "An elliptic curve of rank ≥ 30",
+        "url": "https://elliptic-rank.icarm.cloud/curve/273",
+        "points": 10,
+        "time": "46 minutes ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49373932",
+        "title": "Xorg-Server 26.0.99.901",
+        "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+        "points": 15,
+        "time": "2 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49374635",
+        "title": "Every Model Cheats",
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+        "points": 9,
+        "time": "1 hour ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49372994",
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "points": 39,
+        "time": "3 hours ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49372661",
+        "title": "Risk Engineering",
+        "url": "https://risk-engineering.org/",
+        "points": 46,
+        "time": "4 hours ago",
+        "comments": 7,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49374503",
+        "title": "CI jobs artifacts should not be difficult",
+        "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+        "points": 10,
+        "time": "1 hour ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49366067",
+        "title": "Router by Ramp",
+        "url": "https://router.com/",
+        "points": 87,
+        "time": "4 hours ago",
+        "comments": 52,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49369408",
+        "title": "Turns are Better than Radians (2022)",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "points": 295,
+        "time": "13 hours ago",
+        "comments": 156,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49375164",
+        "title": "Grok.bot – the epic domain lottery ticket",
+        "url": "https://grok.bot/",
+        "points": 6,
+        "time": "27 minutes ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49374797",
+        "title": "Bun 1.4",
+        "url": "https://bun.com/blog/bun-v1.4",
+        "points": 50,
+        "time": "51 minutes ago",
+        "comments": 16,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49373269",
+        "title": "AI didn't erase the junior engineer's value, it increased it it",
+        "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+        "points": 51,
+        "time": "3 hours ago",
+        "comments": 80,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49323795",
+        "title": "A faster way to calculate the day of the week",
+        "url": "https://www.benjoffe.com/fast-day-of-week",
+        "points": 223,
+        "time": "13 hours ago",
+        "comments": 61,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49332754",
+        "title": "Bufo pulls the andon cord",
+        "url": "https://hatchet.run/blog/andon-cord",
+        "points": 7,
+        "time": "1 hour ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49371857",
+        "title": "Don't paste the AI, please",
+        "url": "https://dontpastetheai.com/",
+        "points": 901,
+        "time": "6 hours ago",
+        "comments": 470,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49373884",
+        "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+        "url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+        "points": 12,
+        "time": "2 hours ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49374162",
+        "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+        "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+        "points": 28,
+        "time": "1 hour ago",
+        "comments": 20,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49348189",
+        "title": "Sol loves to cheat",
+        "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+        "points": 217,
+        "time": "17 hours ago",
+        "comments": 177,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt1nf3jl1jucvxnqva",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

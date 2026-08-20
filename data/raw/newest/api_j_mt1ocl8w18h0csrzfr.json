@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T15:27:46.602Z",
+    "stories": [
+      {
+        "story_id": "49375999",
+        "title": "Aovancy – Sell digital products from your own storefront (7.5% fee)",
+        "story_url": "https://aovancy.com/",
+        "author": "felipeeeewee",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375996",
+        "title": "Clean up Claude 5's token vomit with a separate LLM",
+        "story_url": "https://github.com/zachahn/vomit",
+        "author": "Bluestein",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375974",
+        "title": "Silent data corruption in blockchain indexing: 8 times it looked like success",
+        "story_url": "https://github.com/yaojin0609/erc-8004-liveness/blob/main/docs/silent-data-corruption.en.md",
+        "author": "yaojin0609",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375970",
+        "title": "How I Became a Subaru Socialist",
+        "story_url": "https://www.newyorker.com/news/fault-lines/how-i-became-a-subaru-socialist",
+        "author": "rbanffy",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375942",
+        "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
+        "story_url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+        "author": "Brajeshwar",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375920",
+        "title": "Liquid Death X Garage Beer X Jason Kelce Want Your Pee [video]",
+        "story_url": "https://www.youtube.com/watch?v=r9OhekhlZ9Y",
+        "author": "cdrnsf",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375904",
+        "title": "A Planet Position Widget",
+        "story_url": "https://leancrew.com/all-this/2026/08/a-planet-position-widget/",
+        "author": "surprisetalk",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375887",
+        "title": "What Is a Harness?",
+        "story_url": "https://earendil.com/posts/what-is-a-harness/",
+        "author": "agentdev001",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375885",
+        "title": "TypeScript: Migrate Repo to TypeScript 7",
+        "story_url": "https://bsky.app/profile/jakebailey.dev/post/3mthxo7mfqc24",
+        "author": "mariuz",
+        "publication_time": "7 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375878",
+        "title": "How to build fast and responsive agentic (coding) UIs",
+        "story_url": "https://medium.com/@polyglot_factotum/how-to-build-fast-and-responsive-agentic-coding-uis-8fd37f389cdf",
+        "author": "polyglotfacto",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375872",
+        "title": "Great Tech Has to Be Scary, by Oscar Oro",
+        "story_url": "https://docs.google.com/document/d/1uLznZWY_pf6Z-NfYU0dNivZ7f_wZZtky5SJZp7KY_A4/edit?tab=t.0",
+        "author": "OSCAR-ORO",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375871",
+        "title": "My Graphene OS Phone Is Now Also a Laptop",
+        "story_url": "https://reddit.com/r/GrapheneOS/comments/1stlayj/my_graphene_os_phone_is_now_also_a_laptop/",
+        "author": "Cider9986",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375869",
+        "title": "Ask HN: Do you automate your prospection or doing hand made?",
+        "story_url": "https://news.ycombinator.com/item?id=49375869",
+        "author": "mathieu_aithos",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49375837",
+        "title": "Deterministic, tenant-scoped resolution of company jargon to canonical entities",
+        "story_url": "https://github.com/bmeunier1974/lexiqr",
+        "author": "bmeunier1974",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375794",
+        "title": "Hunting a delayed deadlock that hid for two years in a tiered Bazel cache",
+        "story_url": "https://namespace.so/blog/hunting-a-two-year-old-deadlock",
+        "author": "guergabo",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375788",
+        "title": "There are two kinds of theorems",
+        "story_url": "https://blog.plover.com/2026/08/11/#two-kinds-of-theorems",
+        "author": "ColinWright",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375780",
+        "title": "How to fix Claude 5's token vomit",
+        "story_url": "https://zachahn.com/posts/1787191554",
+        "author": "speckx",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375775",
+        "title": "Ways Research Teams Fail",
+        "story_url": "https://antithesis.com/blog/2026/ways-research-teams-fail/",
+        "author": "wwilson",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375764",
+        "title": "Beautiful, Irrelevant Things: The Efficiency Era Ends the Way ZIRP Began",
+        "story_url": "https://jamesjboyer.substack.com/p/beautiful-irrelevant-things",
+        "author": "aesthetics1",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375763",
+        "title": "Salmonella Is Everywhere",
+        "story_url": "https://www.wired.com/story/salmonella-is-everywhere/",
+        "author": "Brajeshwar",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375760",
+        "title": "SanDisk Tapes Out Its First HBF Memory Die, Targets 2027 for Product Samples",
+        "story_url": "https://www.storagereview.com/news/sandisk-tapes-out-its-first-hbf-memory-die-targets-2027-for-inference-product-samples",
+        "author": "rbanffy",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375757",
+        "title": "Show HN: Sci-Trust – Compare trust among researchers based on their citations",
+        "story_url": "https://science.uptrusthq.com/",
+        "author": "folktheory",
+        "publication_time": "16 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 22,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375726",
+        "title": "Meta's Trial Adds a Trillion-Dollar Risk to Its Struggling Stock",
+        "story_url": "https://news.bloomberglaw.com/litigation/metas-trial-adds-a-trillion-dollar-risk-to-its-struggling-stock",
+        "author": "1vuio0pswjnm7",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375719",
+        "title": "Anti-AI fonts are useless and harmful",
+        "story_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+        "author": "speckx",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375678",
+        "title": "If You Weren't Worried About A.I., You Should Be After the Past Few Weeks",
+        "story_url": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
+        "author": "thunderbong",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375661",
+        "title": "Show HN: ISLP textbook rebuilt from PDF into ePub, using Claude Code",
+        "story_url": "https://github.com/govarthenan/islp-epub",
+        "author": "govarthenan",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375623",
+        "title": "Math Academy Success Stories",
+        "story_url": "https://www.justinmath.com/math-academy-success-stories/",
+        "author": "surprisetalk",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375568",
+        "title": "Open Source Is Not a Virtue: It's an Ownership Model",
+        "story_url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model/",
+        "author": "angpt",
+        "publication_time": "28 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375554",
+        "title": "R2 Autonomy+ Roadmap",
+        "story_url": "https://stories.rivian.com/r2-autonomy-roadmap-software",
+        "author": "whicks",
+        "publication_time": "28 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375513",
+        "title": "Show HN: LLM-enabled large data analysis",
+        "story_url": "https://app.verbagpt.com/",
+        "author": "symuz",
+        "publication_time": "30 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "_api_collection_id": "j_mt1ocl8w18h0csrzfr",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

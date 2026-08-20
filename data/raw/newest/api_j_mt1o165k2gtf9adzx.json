@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T15:18:58.178Z",
+    "stories": [
+      {
+        "story_id": "49375872",
+        "title": "Great Tech Has to Be Scary, by Oscar Oro",
+        "story_url": "https://docs.google.com/document/d/1uLznZWY_pf6Z-NfYU0dNivZ7f_wZZtky5SJZp7KY_A4/edit?tab=t.0",
+        "author": "OSCAR-ORO",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375871",
+        "title": "My Graphene OS Phone Is Now Also a Laptop",
+        "story_url": "https://reddit.com/r/GrapheneOS/comments/1stlayj/my_graphene_os_phone_is_now_also_a_laptop/",
+        "author": "Cider9986",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375869",
+        "title": "Do you automate your prospection or doing hand made",
+        "story_url": "https://news.ycombinator.com/item?id=49375869",
+        "author": "mathieu_aithos",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49375837",
+        "title": "Deterministic, tenant-scoped resolution of company jargon to canonical entities",
+        "story_url": "https://github.com/bmeunier1974/lexiqr",
+        "author": "bmeunier1974",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375794",
+        "title": "Hunting a delayed deadlock that hid for two years in a tiered Bazel cache",
+        "story_url": "https://namespace.so/blog/hunting-a-two-year-old-deadlock",
+        "author": "guergabo",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375788",
+        "title": "There are two kinds of theorems",
+        "story_url": "https://blog.plover.com/2026/08/11/#two-kinds-of-theorems",
+        "author": "ColinWright",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375780",
+        "title": "How to fix Claude 5's token vomit",
+        "story_url": "https://zachahn.com/posts/1787191554",
+        "author": "speckx",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375775",
+        "title": "Ways Research Teams Fail",
+        "story_url": "https://antithesis.com/blog/2026/ways-research-teams-fail/",
+        "author": "wwilson",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375764",
+        "title": "Beautiful, Irrelevant Things: The Efficiency Era Ends the Way ZIRP Began",
+        "story_url": "https://jamesjboyer.substack.com/p/beautiful-irrelevant-things",
+        "author": "aesthetics1",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375763",
+        "title": "Salmonella Is Everywhere",
+        "story_url": "https://www.wired.com/story/salmonella-is-everywhere/",
+        "author": "Brajeshwar",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375760",
+        "title": "SanDisk Tapes Out Its First HBF Memory Die, Targets 2027 for Product Samples",
+        "story_url": "https://www.storagereview.com/news/sandisk-tapes-out-its-first-hbf-memory-die-targets-2027-for-inference-product-samples",
+        "author": "rbanffy",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375757",
+        "title": "Show HN: Sci-Trust – Compare trust among researchers based on their citations",
+        "story_url": "https://science.uptrusthq.com/",
+        "author": "folktheory",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375726",
+        "title": "Meta's Trial Adds a Trillion-Dollar Risk to Its Struggling Stock",
+        "story_url": "https://news.bloomberglaw.com/litigation/metas-trial-adds-a-trillion-dollar-risk-to-its-struggling-stock",
+        "author": "1vuio0pswjnm7",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375719",
+        "title": "Anti-AI fonts are useless and harmful",
+        "story_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+        "author": "speckx",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375678",
+        "title": "If You Weren't Worried About A.I., You Should Be After the Past Few Weeks",
+        "story_url": "https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html",
+        "author": "thunderbong",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375661",
+        "title": "Show HN: ISLP textbook rebuilt from PDF into ePub, using Claude Code",
+        "story_url": "https://github.com/govarthenan/islp-epub",
+        "author": "govarthenan",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375623",
+        "title": "Math Academy Success Stories",
+        "story_url": "https://www.justinmath.com/math-academy-success-stories/",
+        "author": "surprisetalk",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375568",
+        "title": "Open Source Is Not a Virtue: It's an Ownership Model",
+        "story_url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model/",
+        "author": "angpt",
+        "publication_time": "20 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375554",
+        "title": "R2 Autonomy+ Roadmap",
+        "story_url": "https://stories.rivian.com/r2-autonomy-roadmap-software",
+        "author": "whicks",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375513",
+        "title": "Show HN: LLM-enabled large data analysis",
+        "story_url": "https://app.verbagpt.com/",
+        "author": "symuz",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375512",
+        "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+        "story_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+        "author": "tiahura",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375479",
+        "title": "Hiding internal state in TypeScript objects",
+        "story_url": "https://www.carlos-menezes.com/posts/hiding-properties-typescript",
+        "author": "carlos-menezes",
+        "publication_time": "25 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375459",
+        "title": "JIT Compiling Code in 5μs",
+        "story_url": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "author": "malisper",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375439",
+        "title": "Meta's Internal Research",
+        "story_url": "https://metasinternalresearch.org/",
+        "author": "throw0101d",
+        "publication_time": "27 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375428",
+        "title": "US retail giant Target doubles $1 BILLION income last quarter via tariff refunds",
+        "story_url": "https://www.bbc.com/news/articles/c78gp4y8d3eo",
+        "author": "ck2",
+        "publication_time": "28 minutes ago",
+        "points": 2,
+        "comment_count": 4,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375417",
+        "title": "New Manic Android malware can exfiltrate data through nearby devices",
+        "story_url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+        "author": "Brajeshwar",
+        "publication_time": "29 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375403",
+        "title": "Teachers Pay Teachers hit by a wave of A.I. content with mistakes [video]",
+        "story_url": "https://www.youtube.com/watch?v=qBVzsolalJ8",
+        "author": "pavel_lishin",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375390",
+        "title": "Could AIs Become Conscious?",
+        "story_url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+        "author": "andsoitis",
+        "publication_time": "31 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375361",
+        "title": "State of SaaSpocalypse",
+        "story_url": "https://app.agentgrid.io/artifacts/BSSoRuFsywQAyzxDAsbmUg",
+        "author": "avishic",
+        "publication_time": "32 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375327",
+        "title": "One human. Agents. 3,913 merged PRs in 30 days",
+        "story_url": "https://github.com/kungfu-systems/site-libkungfu-dev/blob/main/docs/research/parallel-runtime-paths.md",
+        "author": "ungfu",
+        "publication_time": "34 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1o165k2gtf9adzx",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

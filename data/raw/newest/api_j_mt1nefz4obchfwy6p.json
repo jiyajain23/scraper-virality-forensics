@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T15:01:12.858Z",
+    "stories": [
+      {
+        "story_id": "49375608",
+        "title": "Show HN: AIDA by Autafy–A self-hosted personal AI agent(BYO API key-run local)",
+        "story_url": "https://autafy.ca/",
+        "author": "hem1011",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375568",
+        "title": "Open Source Is Not a Virtue: It's an Ownership Model",
+        "story_url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model/",
+        "author": "angpt",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375554",
+        "title": "R2 Autonomy+ Roadmap",
+        "story_url": "https://stories.rivian.com/r2-autonomy-roadmap-software",
+        "author": "whicks",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375539",
+        "title": "I built an extension that autofills workday job apps all locally on your device",
+        "story_url": "https://restdayextension.com/",
+        "author": "angelm-tech",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375513",
+        "title": "Show HN: LLM-enabled large data analysis",
+        "story_url": "https://app.verbagpt.com/",
+        "author": "symuz",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375512",
+        "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+        "story_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+        "author": "tiahura",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375479",
+        "title": "Hiding internal state in TypeScript objects",
+        "story_url": "https://www.carlos-menezes.com/posts/hiding-properties-typescript",
+        "author": "carlos-menezes",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375459",
+        "title": "JIT Compiling Code in 5μs",
+        "story_url": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "author": "malisper",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375439",
+        "title": "Meta's Internal Research",
+        "story_url": "https://metasinternalresearch.org/",
+        "author": "throw0101d",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375428",
+        "title": "US retail giant Target doubles $1 BILLION income last quarter via tariff refunds",
+        "story_url": "https://www.bbc.com/news/articles/c78gp4y8d3eo",
+        "author": "ck2",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 3,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375417",
+        "title": "New Manic Android malware can exfiltrate data through nearby devices",
+        "story_url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+        "author": "Brajeshwar",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375403",
+        "title": "Teachers Pay Teachers hit by a wave of A.I. content with mistakes [video]",
+        "story_url": "https://www.youtube.com/watch?v=qBVzsolalJ8",
+        "author": "pavel_lishin",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375390",
+        "title": "Could AIs Become Conscious?",
+        "story_url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+        "author": "andsoitis",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375361",
+        "title": "State of SaaSpocalypse",
+        "story_url": "https://app.agentgrid.io/artifacts/BSSoRuFsywQAyzxDAsbmUg",
+        "author": "avishic",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375327",
+        "title": "One human. Agents. 3,913 merged PRs in 30 days",
+        "story_url": "https://github.com/kungfu-systems/site-libkungfu-dev/blob/main/docs/research/parallel-runtime-paths.md",
+        "author": "ungfu",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375314",
+        "title": "Spec4j makes your REST APIs YAMLless",
+        "story_url": "https://github.com/marketplace/actions/spec4j",
+        "author": "enismustafaj",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375309",
+        "title": "Help to Improve Numax's Website?",
+        "story_url": "https://github.com/GianIac/numax/issues/111",
+        "author": "gianiac",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375277",
+        "title": "Instant (Instantdb.com) Sunsetting",
+        "story_url": "https://discord.com/channels/1031957483243188235/1148279464132890714/1540001948596445324",
+        "author": "ibejoeb",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375269",
+        "title": "Polchinski's Paradox",
+        "story_url": "https://www.futilitycloset.com/2026/08/12/polchinskis-paradox/",
+        "author": "surprisetalk",
+        "publication_time": "20 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375265",
+        "title": "We trained small language models specifically for voice-to-text transformation",
+        "story_url": "https://superwhisper.com/blog/s1",
+        "author": "bpjzy",
+        "publication_time": "20 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375253",
+        "title": "Code Factories Without Quality: The AI Development Blind Spot",
+        "story_url": "https://www.qawolf.com/blog/code-factories-without-quality",
+        "author": "BinRoo",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375244",
+        "title": "Show HN: Open-source Stripe Connect alternative",
+        "story_url": "https://zoneless.com/",
+        "author": "tinyprojects",
+        "publication_time": "21 minutes ago",
+        "points": 4,
+        "comment_count": 1,
+        "rank": 22,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375237",
+        "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+        "story_url": "https://pub.doub.ly/",
+        "author": "knaught",
+        "publication_time": "21 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375233",
+        "title": "I Finally Got Discouraged By DevTo",
+        "story_url": "https://thibaultduponchelle.github.io/I-finally-got-discouraged-by-devto",
+        "author": "reeeese",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375223",
+        "title": "Stealing Blame",
+        "story_url": "https://avivbenyosef.com/stealing-blame/",
+        "author": "avivby",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375202",
+        "title": "Show HN: Ullis – Local Ternary Moe-Kan Training and Inference Engine in Rust",
+        "story_url": "https://github.com/Vladislav-Kalinkin/ullis",
+        "author": "vlad_kalinkin",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49375199",
+        "title": "Just Fucking Use Neovim",
+        "story_url": "https://www.justfuckinguseneovim.com/",
+        "author": "hacb",
+        "publication_time": "23 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375197",
+        "title": "Silencing the Second Hand of a Second-Hand Bird Clock",
+        "story_url": "https://www.kyleniewiada.org/blog/2026/08/silencing-bird-clock-tick-tock/",
+        "author": "speckx",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375195",
+        "title": "Is Claude Code a bad harness?",
+        "story_url": "https://generray.substack.com/p/is-claude-code-a-bad-harness",
+        "author": "wsun19",
+        "publication_time": "23 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49375176",
+        "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
+        "story_url": "https://vetto.ai/companies/programbench-vetted.html",
+        "author": "rigelbm",
+        "publication_time": "25 minutes ago",
+        "points": 10,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1nefz4obchfwy6p",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

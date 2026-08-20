@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T13:48:59.655Z",
+    "stories": [
+      {
+        "story_id": "49374544",
+        "title": "Calculating Empires",
+        "story_url": "https://calculatingempires.net/",
+        "author": "atzmzt",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374539",
+        "title": "Mermaid as the Orchestration Layer for Claude Dynamic Workflows",
+        "story_url": "https://olegivye.com/#/article/llassembly-cli-mermaid",
+        "author": "olekrk",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374534",
+        "title": "Don't Check Out",
+        "story_url": "https://www.simeongriggs.dev/dont-check-out",
+        "author": "speckx",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374533",
+        "title": "They Shouldn't Know It's a \"User\" Interview",
+        "story_url": "https://pawelbrodzinski.substack.com/p/they-shouldnt-know-its-a-user-interview",
+        "author": "flail",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374524",
+        "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+        "story_url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+        "author": "alephnerd",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374520",
+        "title": "Making Coroutines Routine: Building a Scalable TPC-C Client in C++",
+        "story_url": "https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471",
+        "author": "eivanov89",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374518",
+        "title": "Capella Space – An Unaccountable Intelligence Actor with No Oversight",
+        "story_url": "https://beyondhorizonforesight.substack.com/p/capella-space-commercial-sar-currently",
+        "author": "beyondhorizonfs",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374503",
+        "title": "CI jobs artifacts should not be difficult",
+        "story_url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
+        "author": "melezhik",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374498",
+        "title": "Find what your analytics agent will get wrong in your dbt repo",
+        "story_url": "https://github.com/GetCassis/dbt-agent-readiness",
+        "author": "matthieu_bl",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374460",
+        "title": "The Middle Class is being erased in Europe [video]",
+        "story_url": "https://www.youtube.com/watch?v=T3SiTNoEbu8",
+        "author": "sajithdilshan",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374455",
+        "title": "Cowboy Clothes and Sunday Best",
+        "story_url": "https://schmud.de/posts/2026-08-10-cowboy-clothes.html",
+        "author": "surprisetalk",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374437",
+        "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+        "story_url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+        "author": "speckx",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374432",
+        "title": "Type Confusion Vulnerability in isolated-VM",
+        "story_url": "https://www.endorlabs.com/learn/ghsa-864f-rcv7-6rh4-critical-type-confusion-vulnerability-in-isolated-vm",
+        "author": "cristianstaicu",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374419",
+        "title": "Exploring Chat Forking",
+        "story_url": "https://getness.dev/announcements/chat-forking.html",
+        "author": "frenchie4111",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374412",
+        "title": "Is this AWS RI/SP simulation engine interesting / valuable?",
+        "story_url": "https://news.ycombinator.com/item?id=49374412",
+        "author": "Exstratus",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 15,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49374401",
+        "title": "DSH is on a wrong direction; Pie is my take",
+        "story_url": "https://github.com/wangii/pie",
+        "author": "wangii",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374398",
+        "title": "Show HN: Parmar – BPE tokenization as a pre-filter for LZMA (+9.6%, and faster)",
+        "story_url": "https://github.com/shallowbyte/parmar",
+        "author": "ronak_parmar",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374396",
+        "title": "What Is Good Mathematics?",
+        "story_url": "https://arxiv.org/pdf/math/0702396",
+        "author": "sonabinu",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374376",
+        "title": "MH370 mystery deepens with new evidence",
+        "story_url": "https://vt.co/news/world/mh370-aviation-mystery-new-evidence-wrong-place",
+        "author": "wglb",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374369",
+        "title": "Dashboard Touch – free open source Touch ID alternative for your Mac [video]",
+        "story_url": "https://www.youtube.com/watch?v=8zXN-JzjkgY",
+        "author": "tambourine_man",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374361",
+        "title": "Perth medical researchers working on artificial placentas for premature babies",
+        "story_url": "https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330",
+        "author": "speckx",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374344",
+        "title": "Domyn CEO Uljan Sharka: 'We're a few quarters away from $1B ARR'",
+        "story_url": "https://sifted.eu/articles/domyn-uljan-sharka-podcast",
+        "author": "simonebrunozzi",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374328",
+        "title": "Fscrypt Sees Cleanup with Linux 7.3 Open Door for Features Like Btrfs Encryption",
+        "story_url": "https://www.phoronix.com/news/Linux-7.3-FSCRYPT",
+        "author": "DemiGuru",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374326",
+        "title": "X.org Server 26.1 RC1 Prepares for First Feature Release in Five Years",
+        "story_url": "https://www.phoronix.com/news/X.Org-Server-26.1-RC1",
+        "author": "achyudh",
+        "publication_time": "19 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374304",
+        "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+        "story_url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+        "author": "mellosouls",
+        "publication_time": "22 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374299",
+        "title": "10x: The federal government's own venture studio",
+        "story_url": "https://10x.gsa.gov/",
+        "author": "nateb2022",
+        "publication_time": "23 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374287",
+        "title": "DiffusionGemma Technical Report",
+        "story_url": "https://arxiv.org/abs/2608.00146",
+        "author": "gmays",
+        "publication_time": "24 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374274",
+        "title": "Show HN: evepad – The missing IDE for building eve agents",
+        "story_url": "https://github.com/andrewckor/evepad",
+        "author": "ckor",
+        "publication_time": "25 minutes ago",
+        "points": 4,
+        "comment_count": 1,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374269",
+        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "story_url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "author": "abhisek",
+        "publication_time": "25 minutes ago",
+        "points": 26,
+        "comment_count": 2,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374246",
+        "title": "Giant whales move into Greenland waters as ice disappears",
+        "story_url": "https://www.bbc.com/news/articles/cq6dn9gj7eno",
+        "author": "speckx",
+        "publication_time": "27 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1ktk321pxh47pugi",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

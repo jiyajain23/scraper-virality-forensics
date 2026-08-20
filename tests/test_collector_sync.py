@@ -202,7 +202,9 @@ class TestFetchResult:
         mock_session.get.return_value = resp
 
         result = fetch_result(mock_session, "newest", "j_abc")
-        assert result == sample_records
+        assert result is not None
+        records, _ = result
+        assert records == sample_records
 
     def test_polls_until_ready(self, mock_session, sample_records):
         """Returns building twice, then ready."""
@@ -219,7 +221,9 @@ class TestFetchResult:
         with patch("src.collector_sync.time.sleep"):  # don't actually sleep
             result = fetch_result(mock_session, "newest", "j_abc")
 
-        assert result == sample_records
+        assert result is not None
+        records, _ = result
+        assert records == sample_records
         assert mock_session.get.call_count == 3
 
     def test_returns_none_on_non_200_error(self, mock_session):
@@ -240,7 +244,9 @@ class TestFetchResult:
         with patch("src.collector_sync.time.sleep"):
             result = fetch_result(mock_session, "newest", "j_abc")
 
-        assert result == sample_records
+        assert result is not None
+        records, _ = result
+        assert records == sample_records
 
     def test_times_out_when_always_building(self, mock_session):
         """After max_wait_seconds is exceeded, returns None."""
