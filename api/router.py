@@ -179,6 +179,8 @@ def trigger_collect(body: CollectRequest) -> CollectResponse:
             TRIGGER_URL,
             REQUEST_TIMEOUT,
             _build_session,
+        )
+
         token = os.environ.get("BRIGHTDATA_API_TOKEN", "").strip()
         if not token:
             raise HTTPException(
