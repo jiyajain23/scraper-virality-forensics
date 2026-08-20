@@ -1,0 +1,312 @@
+[
+  {
+    "scraped_at": "2026-08-20T07:19:25.355Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49371006",
+        "title": "Windows brings out the Rorschach test in everyone",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "points": 50,
+        "time": "1 hour ago",
+        "comments": 6,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49364559",
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "points": 800,
+        "time": "13 hours ago",
+        "comments": 408,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49369408",
+        "title": "Turns are Better than Radians (2022)",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "points": 155,
+        "time": "5 hours ago",
+        "comments": 66,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49365405",
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "points": 590,
+        "time": "12 hours ago",
+        "comments": 156,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49323795",
+        "title": "A faster way to calculate the day of the week",
+        "url": "https://www.benjoffe.com/fast-day-of-week",
+        "points": 110,
+        "time": "5 hours ago",
+        "comments": 15,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49364745",
+        "title": "Google has stopped pushing Git tags for some Android source code",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "points": 460,
+        "time": "13 hours ago",
+        "comments": 193,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49362001",
+        "title": "Manabu Kosaka's Handmade Paper Sculptures",
+        "url": "https://coca11272000.wixsite.com/manabukosaka",
+        "points": 111,
+        "time": "7 hours ago",
+        "comments": 12,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49360015",
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "points": 858,
+        "time": "19 hours ago",
+        "comments": 131,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49365841",
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "points": 190,
+        "time": "12 hours ago",
+        "comments": 46,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49365443",
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "points": 239,
+        "time": "12 hours ago",
+        "comments": 91,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49348189",
+        "title": "Sol loves to cheat",
+        "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+        "points": 142,
+        "time": "9 hours ago",
+        "comments": 87,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49362887",
+        "title": "Casio F-B100W-1A",
+        "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "points": 344,
+        "time": "15 hours ago",
+        "comments": 288,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49370440",
+        "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+        "points": 43,
+        "time": "2 hours ago",
+        "comments": 12,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49367256",
+        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+        "url": "https://os8088.com/spotlight/",
+        "points": 81,
+        "time": "10 hours ago",
+        "comments": 38,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49360545",
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
+        "points": 462,
+        "time": "18 hours ago",
+        "comments": 78,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49367350",
+        "title": "Feature Request: Support AGENTS.md",
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "points": 218,
+        "time": "9 hours ago",
+        "comments": 127,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49315372",
+        "title": "Rewriting in Rust",
+        "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
+        "points": 37,
+        "time": "5 hours ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49353339",
+        "title": "fx :Tiny, open, native coding agent.",
+        "url": "https://fx.sh/",
+        "points": 243,
+        "time": "20 hours ago",
+        "comments": 105,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49321934",
+        "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+        "url": "https://github.com/cesarblum/sectorforth",
+        "points": 18,
+        "time": "5 hours ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49317246",
+        "title": "What's missing to have reproducible builds on PyPI",
+        "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+        "points": 4,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49362728",
+        "title": "Mathematics in the age of AI",
+        "url": "https://arxiv.org/abs/2608.16753",
+        "points": 157,
+        "time": "16 hours ago",
+        "comments": 185,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49273010",
+        "title": "Simulacra and Simulation",
+        "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+        "points": 59,
+        "time": "7 hours ago",
+        "comments": 25,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49361279",
+        "title": "PostgreSQL for Everything",
+        "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+        "points": 349,
+        "time": "17 hours ago",
+        "comments": 214,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49366264",
+        "title": "Pixel 11 Pro Fold feels like the end of an era",
+        "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+        "points": 56,
+        "time": "11 hours ago",
+        "comments": 122,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49363710",
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "url": "https://github.com/onecli/onecli",
+        "points": 74,
+        "time": "14 hours ago",
+        "comments": 22,
+        "story_type": "Launch HN"
+      },
+      {
+        "rank": 26,
+        "story_id": "49314109",
+        "title": "The little-known winstart.bat batch file",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+        "points": 108,
+        "time": "12 hours ago",
+        "comments": 29,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49310128",
+        "title": "Xorshift Generators",
+        "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+        "points": 75,
+        "time": "8 hours ago",
+        "comments": 40,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49363668",
+        "title": "Extensible Software in the age of LLMs",
+        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+        "points": 144,
+        "time": "14 hours ago",
+        "comments": 57,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49359425",
+        "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+        "url": "https://theremin.bizibah.com/",
+        "points": 269,
+        "time": "21 hours ago",
+        "comments": 92,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49350031",
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+        "points": 148,
+        "time": "22 hours ago",
+        "comments": 219,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt16wlr711xie4q0p5",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

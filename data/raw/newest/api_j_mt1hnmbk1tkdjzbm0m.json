@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T12:20:23.383Z",
+    "stories": [
+      {
+        "story_id": "49373584",
+        "title": "NASA calls off Swift rescue mission",
+        "story_url": "https://apnews.com/article/swift-telescope-nasa-satellite-rescue-800bfbe5aaba5fec9aadd20bdcc138a5",
+        "author": "hn_submit",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373582",
+        "title": "A row window makes scrolling free and does nothing for the load",
+        "story_url": "https://sley-ui.dev/notes/row-window",
+        "author": "imfemambocus",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373580",
+        "title": "MCP gateway with a built-in skill library",
+        "story_url": "https://github.com/gridctl/gridctl",
+        "author": "mooreds",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373565",
+        "title": "Planly, a free, low-complexity, self-hosted alternative to Jira/Asana",
+        "story_url": "https://github.com/esbeneickhardt/Planly",
+        "author": "ebbemonster",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373542",
+        "title": "Show HN: Free OSS Software Factory Template",
+        "story_url": "https://github.com/vercel-labs/eve-software-factory-template/blob/main/.github/ARCHITECTURE.md",
+        "author": "flashbrew",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373540",
+        "title": "German court rules: Emails must be end-to-end encrypted",
+        "story_url": "https://tuta.com/blog/german-court-rules-emails-e2ee",
+        "author": "khaled_ismaeel",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373520",
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "story_url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "author": "rbanffy",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373519",
+        "title": "I soldered for the first time and fixed my daughters toy",
+        "story_url": "https://unixdad.com/soldered-first-time/",
+        "author": "lignux",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373501",
+        "title": "London brewery is begging customers to stop queuing in single file at the bar",
+        "story_url": "https://metro.co.uk/2026/08/19/london-brewery-begging-customers-stop-queuing-single-file-bar-29414495/",
+        "author": "pseudolus",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373498",
+        "title": "Show HN: Sharpen blurry photos locally in the browser",
+        "story_url": "https://convertix-fast-imager-co.blogspot.com/p/convertix-free-online-image-enhancer.html",
+        "author": "convertix123",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373479",
+        "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+        "story_url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+        "author": "sbulaev",
+        "publication_time": "12 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373475",
+        "title": "Hammerhead Worms",
+        "story_url": "https://en.wikipedia.org/wiki/Bipalium",
+        "author": "tosh",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373473",
+        "title": "Google's AI photoscanner can determine body fat through selfies",
+        "story_url": "https://arxiv.org/abs/2603.27017",
+        "author": "Phreaker00",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373456",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "story_url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "author": "simedw",
+        "publication_time": "14 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373453",
+        "title": "Open-source, Accessible, and Customizable 3D-printed Humanoid Robot",
+        "story_url": "https://lite.berkeley-humanoid.org/",
+        "author": "bilsbie",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373448",
+        "title": "Dark energy and quantum gravity may be deeply intertwined",
+        "story_url": "https://phys.org/news/2026-08-dark-energy-quantum-gravity-deeply.html",
+        "author": "samizdis",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373445",
+        "title": "Ask HN: What AI automations have you kept running in production?",
+        "story_url": "https://news.ycombinator.com/item?id=49373445",
+        "author": "Harish_0089",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49373443",
+        "title": "138M children are in child labor. What does this mean?",
+        "story_url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
+        "author": "surprisetalk",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373429",
+        "title": "Show HN: FillBook – A trade journal for Kalshi with fee-adjusted P&L",
+        "story_url": "https://fillbook.io/",
+        "author": "fillbookio",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373427",
+        "title": "U.S. preparing to force Netherlands to ban ASML from selling to China",
+        "story_url": "https://nltimes.nl/2026/08/20/us-preparing-force-netherlands-ban-asml-selling-china",
+        "author": "giuliomagnifico",
+        "publication_time": "18 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373416",
+        "title": "Echo of Einstein: An unexpected link between whale calls and special relativity",
+        "story_url": "https://phys.org/news/2026-08-echo-einstein-unexpected-link-whale.html",
+        "author": "pseudolus",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373409",
+        "title": "Retro multiplayer world is also an IRC client",
+        "story_url": "https://freeq.at/blog/this-retro-multiplayer-world-is-also-an-irc-client/",
+        "author": "chadfowler",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373407",
+        "title": "Associations of habitual coffee intake w/ testosterone & cardiometabolic markers",
+        "story_url": "https://link.springer.com/content/pdf/10.1007/s00394-026-04038-z.pdf",
+        "author": "bushwart",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373399",
+        "title": "British Groups Push Age Verification Bills in 21 US States",
+        "story_url": "https://reclaimthenet.org/report-british-groups-push-age-verification-bills-in-21-us-states",
+        "author": "ironyman",
+        "publication_time": "22 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373388",
+        "title": "Coin-Op and Console Game Promo Tapes",
+        "story_url": "https://brianpeek.com/coin-op-and-console-game-promo-tapes/",
+        "author": "cainxinth",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373363",
+        "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
+        "story_url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+        "author": "pseudolus",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373361",
+        "title": "FCC abolishes gigabit speed goal",
+        "story_url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+        "author": "jonbaer",
+        "publication_time": "26 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373359",
+        "title": "Deadvlei, Nambia – The Dark, the Dead, and the Desert",
+        "story_url": "https://www.maloriesadventures.com/blog/deadvlei-nambia-the-dark-the-dead-and-the-desert/",
+        "author": "thunderbong",
+        "publication_time": "27 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373345",
+        "title": "Why Haven't the Voyager Spacecraft Ever Been Hacked?",
+        "story_url": "https://lowendbox.com/blog/why-havent-the-voyager-spacecraft-ever-been-hacked/",
+        "author": "shaunpud",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373343",
+        "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+        "story_url": "https://billiondollartweets.com/",
+        "author": "apsinghdev",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "_api_collection_id": "j_mt1hnmbk1tkdjzbm0m",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

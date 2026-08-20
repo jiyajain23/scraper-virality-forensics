@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T12:02:48.190Z",
+    "stories": [
+      {
+        "story_id": "49373416",
+        "title": "Echo of Einstein: An unexpected link between whale calls and special relativity",
+        "story_url": "https://phys.org/news/2026-08-echo-einstein-unexpected-link-whale.html",
+        "author": "pseudolus",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373409",
+        "title": "Retro multiplayer world is also an IRC client",
+        "story_url": "https://freeq.at/blog/this-retro-multiplayer-world-is-also-an-irc-client/",
+        "author": "chadfowler",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373407",
+        "title": "Associations of habitual coffee intake w/ testosterone & cardiometabolic markers",
+        "story_url": "https://link.springer.com/content/pdf/10.1007/s00394-026-04038-z.pdf",
+        "author": "bushwart",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373399",
+        "title": "British Groups Push Age Verification Bills in 21 US States",
+        "story_url": "https://reclaimthenet.org/report-british-groups-push-age-verification-bills-in-21-us-states",
+        "author": "ironyman",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373388",
+        "title": "Coin-Op and Console Game Promo Tapes",
+        "story_url": "https://brianpeek.com/coin-op-and-console-game-promo-tapes/",
+        "author": "cainxinth",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373363",
+        "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
+        "story_url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+        "author": "pseudolus",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373361",
+        "title": "FCC abolishes gigabit speed goal",
+        "story_url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+        "author": "jonbaer",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373359",
+        "title": "Deadvlei, Nambia – The Dark, the Dead, and the Desert",
+        "story_url": "https://www.maloriesadventures.com/blog/deadvlei-nambia-the-dark-the-dead-and-the-desert/",
+        "author": "thunderbong",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373345",
+        "title": "Why Haven't the Voyager Spacecraft Ever Been Hacked?",
+        "story_url": "https://lowendbox.com/blog/why-havent-the-voyager-spacecraft-ever-been-hacked/",
+        "author": "shaunpud",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373343",
+        "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+        "story_url": "https://billiondollartweets.com/",
+        "author": "apsinghdev",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 10,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373308",
+        "title": "We Stopped Counting Tokens",
+        "story_url": "https://medium.com/super/we-stopped-counting-tokens-9278fbccadbc",
+        "author": "herbertl",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373288",
+        "title": "Hopf Spherical Compression and Quantization in C++23",
+        "story_url": "https://github.com/meridionalissoftware/hscq",
+        "author": "rfgplk",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373272",
+        "title": "Show HN: Sutra – iOS e-books and comic reader with Calibre, OPDS and WebDAV sync",
+        "story_url": "https://sutra-reader.com/index.html",
+        "author": "darkusnitus",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373269",
+        "title": "AI didn't erase the junior engineer's value, it increased it it",
+        "story_url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+        "author": "franciscomt",
+        "publication_time": "18 minutes ago",
+        "points": 8,
+        "comment_count": 2,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373225",
+        "title": "A better way to view diffs",
+        "story_url": "https://charwise.vercel.app/",
+        "author": "rpst",
+        "publication_time": "24 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373220",
+        "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+        "story_url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+        "author": "pavel_lishin",
+        "publication_time": "24 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373174",
+        "title": "Decennial Air Cruise of 1933",
+        "story_url": "https://en.wikipedia.org/wiki/Decennial_Air_Cruise",
+        "author": "simonebrunozzi",
+        "publication_time": "31 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373170",
+        "title": "Survey of 106 European design engineers on what would make them change jobs",
+        "story_url": "https://hymera.co/research-what-makes-a-design-engineer-leave-their-job",
+        "author": "ablazevics",
+        "publication_time": "31 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373160",
+        "title": "Eron on X: \"LLMs do one thing: predict the next word",
+        "story_url": "https://twitter.com/0xEronn/status/2089079333885198384",
+        "author": "bilsbie",
+        "publication_time": "32 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373158",
+        "title": "Show HN: Built my 15-year-old game idea",
+        "story_url": "https://news.ycombinator.com/item?id=49373158",
+        "author": "ashitlerferad",
+        "publication_time": "32 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373152",
+        "title": "VulnBench: Can LLMs find the same security bugs twice?",
+        "story_url": "https://vulnbench.com/",
+        "author": "lirantal",
+        "publication_time": "33 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373146",
+        "title": "What Zig felt like, coming from Rust",
+        "story_url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "author": "birdculture",
+        "publication_time": "34 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373143",
+        "title": "After Europe ditched Windows, China follows suit with its own home-grown Linux",
+        "story_url": "https://www.xda-developers.com/after-europe-ditched-windows-china-follows-suit-with-its-own-home-grown-linux-distros/",
+        "author": "ashitlerferad",
+        "publication_time": "35 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373129",
+        "title": "Nearly one in ten published Claude Code skills does not load",
+        "story_url": "https://toolproof.kynth.studio/census",
+        "author": "kyisaiah47",
+        "publication_time": "36 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373123",
+        "title": "Australia passes law to levy tech giants that fail to pay for local news",
+        "story_url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+        "author": "thm",
+        "publication_time": "37 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373120",
+        "title": "Reverse-engineering Find My People to stalk a friend, cause I can",
+        "story_url": "https://zerotistic.blog/posts/find-my-people-linux/",
+        "author": "lalitmaganti",
+        "publication_time": "37 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373108",
+        "title": "Fairphone (Gen. 6) Launched [video]",
+        "story_url": "https://www.youtube.com/watch?v=v5v0LjXY6Fc",
+        "author": "ashitlerferad",
+        "publication_time": "39 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373103",
+        "title": "Show HN: Try Sequo to manage your AI context",
+        "story_url": "https://sequo.app/",
+        "author": "shken",
+        "publication_time": "40 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373101",
+        "title": "Show HN: Your all-in-one text engine – zero dependencies",
+        "story_url": "https://dg.calia.cc/",
+        "author": "silly-tae",
+        "publication_time": "40 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373100",
+        "title": "LG's new OLED breakthrough can boost display lifespans",
+        "story_url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+        "author": "ksec",
+        "publication_time": "40 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1h0zff2gqybjq3ht",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

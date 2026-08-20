@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T07:55:18.073Z",
+    "stories": [
+      {
+        "story_id": "49371671",
+        "title": "New research shows how psychedelics reorganise the patterns in your brain",
+        "story_url": "https://theconversation.com/new-research-shows-how-psychedelics-reorganise-the-patterns-in-your-brain-290047",
+        "author": "XzetaU8",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371667",
+        "title": "Credit card purchases approved with wrong PIN. Bank says there's nothing wrong",
+        "story_url": "https://www.thestar.com/business/this-etobicoke-business-owner-typed-the-wrong-pin-three-times-video-shows-td-visa-still-okd-the-purchase/article_608cfb16-24fa-4b42-88a9-8bd8ae4a82e8.html",
+        "author": "computator",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371662",
+        "title": "China's wind and solar megabases face a coal test",
+        "story_url": "https://globalenergymonitor.org/research/chinas-wind-and-solar-megabases-face-coal-test",
+        "author": "leonidasrup",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371653",
+        "title": "There are 67 items to manually delete in Google My-Activity",
+        "story_url": "https://news.ycombinator.com/item?id=49371653",
+        "author": "whyagaindavid",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49371652",
+        "title": "China's humanoid robot boom is fueled by government-backed training centres",
+        "story_url": "https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998",
+        "author": "giuliomagnifico",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371642",
+        "title": "Stemdeck – Free, open-source, local stem separation",
+        "story_url": "https://github.com/stemdeckapp/stemdeck",
+        "author": "m_kos",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371634",
+        "title": "Qwen 3.8 27B is a great open model",
+        "story_url": "https://williamcallahan.com/blog/qwen-3-8-27b-is-a-great-open-model",
+        "author": "wcallahan",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371632",
+        "title": "Zombie Cards Back Online: Reviving Expired Credit Cards for Contactless Payments",
+        "story_url": "https://www.usenix.org/conference/usenixsecurity26/presentation/anwar",
+        "author": "nixass",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371623",
+        "title": "Markdown-den as an issue tracker for agentic workflows",
+        "story_url": "https://www.markdown-den.com/blog/issue-tracker-for-agentic-workflows",
+        "author": "dguridi",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371622",
+        "title": "Physical Implant Attack on the Boeing 737 [pdf]",
+        "story_url": "https://www.usenix.org/system/files/usenixsecurity26-crow.pdf",
+        "author": "rbanffy",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371620",
+        "title": "Seoul to cover all sidewalks with shade by 2028 to combat heat waves",
+        "story_url": "https://english.kyodonews.net/articles/-/82572",
+        "author": "_____k",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371610",
+        "title": "Show HN: Talecut – Turn a movie or TV episode into vertical micro-episodes",
+        "story_url": "https://talecut.com/",
+        "author": "oscarallombert",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49371599",
+        "title": "What contemporary artists read, watch and listen to",
+        "story_url": "https://contxt.art/in-contxt",
+        "author": "scriptedfantasy",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371598",
+        "title": "Why is there no programmatic access to the Start menu pin list? (2003)",
+        "story_url": "https://devblogs.microsoft.com/oldnewthing/20030903-00/?p=42673",
+        "author": "ano-ther",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371588",
+        "title": "Does EdgeAI and Robotics requires ad-hoc network",
+        "story_url": "https://www.youtube.com/watch?v=Pkrqur86iGs",
+        "author": "jasonhao518",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371587",
+        "title": "Florida police officer accused of using Flock AI cameras",
+        "story_url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/",
+        "author": "01-_-",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371579",
+        "title": "Gptel Emacs: Beyond Just a Chat Interface (YT)",
+        "story_url": "https://www.youtube.com/watch?v=xHEnWvKmSKM",
+        "author": "signa11",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371576",
+        "title": "Polly [.Net library] demands Open Source Maintenance Fee",
+        "story_url": "https://thepollyproject.org/2026/07/14/polly-osmf-announcement.html",
+        "author": "xnorswap",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371557",
+        "title": "U.S. preparing to foce Netherlands to ban ASML from selling to China",
+        "story_url": "https://nltimes.nl/2026/08/20/us-preparing-foce-netherlands-ban-asml-selling-china",
+        "author": "01-_-",
+        "publication_time": "19 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371542",
+        "title": "Python Code Quality with Agents",
+        "story_url": "https://github.com/wemake-services/wemake-python-styleguide",
+        "author": "sobolevn",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371527",
+        "title": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
+        "story_url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+        "author": "novaRom",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371514",
+        "title": "Samuel: A Silly Speech Model",
+        "story_url": "https://vvolhejn.com/blog/2026-08-17-samuel",
+        "author": "QuantumNomad_",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371496",
+        "title": "SQLite for Everything",
+        "story_url": "https://joecode.com/2026-08-19-sqlite3/",
+        "author": "mpweiher",
+        "publication_time": "29 minutes ago",
+        "points": 5,
+        "comment_count": 1,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371484",
+        "title": "Our security harness can hack to get root 9/10 times",
+        "story_url": "https://donely.ai/ai-employees/autonomous-security-agent",
+        "author": "Stanlyya",
+        "publication_time": "30 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371452",
+        "title": "The Expurgation of Maniac Mansion for the Nintendo Entertainment System",
+        "story_url": "https://www.crockford.com/maniac.html",
+        "author": "weinzierl",
+        "publication_time": "36 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371439",
+        "title": "VS Code in the Terminal",
+        "story_url": "https://github.com/zenbu-labs/terminal-code",
+        "author": "dsr12",
+        "publication_time": "39 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371433",
+        "title": "FaCTz: Fast Critical-Point and Topology-Aware GPU Compression for Vector Fields",
+        "story_url": "https://arxiv.org/abs/2608.10586",
+        "author": "g0xA52A2A",
+        "publication_time": "40 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371422",
+        "title": "Understanding the Limitations of Pubsub Systems",
+        "story_url": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
+        "author": "rapnie",
+        "publication_time": "42 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371419",
+        "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+        "story_url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
+        "author": "mcbain",
+        "publication_time": "42 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371411",
+        "title": "Old style audio visualiser for Raspberry Pi 3B",
+        "story_url": "https://hackaday.io/project/206461-geiss-inspired-audio-visualizer-for-rpi-3b",
+        "author": "daepp",
+        "publication_time": "44 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt186mr92jfxep0vtv",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T13:22:02.606Z",
+    "stories": [
+      {
+        "story_id": "49374235",
+        "title": "Relationship Engineering: the fifth phase of building with AI",
+        "story_url": "https://twitter.com/swombat/status/2090421410887880771",
+        "author": "obiefernandez",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374209",
+        "title": "Choking victims should perform Heimlich manoeuvre on themselves – scientists",
+        "story_url": "https://www.independent.co.uk/news/health/choking-heimlich-manoeuvre-perform-yourself-how-to-chair-thrusts-victims-themselves-first-aid-thorax-royal-brompton-a7681841.html",
+        "author": "thunderbong",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374202",
+        "title": "Draft spec for an offline emergency dispatch protocol in on-device LLMs url",
+        "story_url": "https://github.com/kapustin-i/offline-dispatch-protocol",
+        "author": "kapustin-i",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374193",
+        "title": "I recently sat down for coffee with one of my oldest friends in the industry",
+        "story_url": "https://notes.jordanscales.com/coffee",
+        "author": "speckx",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374189",
+        "title": "How dbt works, and why orchestrators shouldn't split it into tasks",
+        "story_url": "https://www.windmill.dev/blog/how-dbt-works-and-its-orchestrators",
+        "author": "rubenfiszel",
+        "publication_time": "5 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374180",
+        "title": "Data annotation is creating jobs",
+        "story_url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+        "author": "ripe",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374177",
+        "title": "Sokoban via Grok App Builder",
+        "story_url": "https://sokoban.grok.me/",
+        "author": "da-x",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374169",
+        "title": "Show HN: Find every AI model your code calls and warn before it's retired",
+        "story_url": "https://llmstatus.ai/",
+        "author": "taylorgt",
+        "publication_time": "7 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374162",
+        "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+        "story_url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+        "author": "datakan",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374158",
+        "title": "ARM Sells Its Own Silicon",
+        "story_url": "https://www.forbes.com/sites/johnwerner/2026/08/19/arm-sells-its-own-silicon/",
+        "author": "fork-bomber",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374154",
+        "title": "Show HN: FindHost – hosting provider database with no affiliate links",
+        "story_url": "https://www.findhost.app/",
+        "author": "esher",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374151",
+        "title": "Show HN: Open-source tool turning company knowledge into Duolingo-like courses",
+        "story_url": "https://www.scibly.com/de/",
+        "author": "Niclas63",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374127",
+        "title": "Show HN: Markdown Buddy – Native macOS Markdown Editor with Quick Look and Xcode",
+        "story_url": "https://markdownbuddy.inawa.app/",
+        "author": "JanParis",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374124",
+        "title": "Show HN: Testmagic.link – Zero-setup magic link testing for coding agents",
+        "story_url": "https://testmagic.link/",
+        "author": "lobovkin",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374113",
+        "title": "Pipes – Powered by PolyCSS",
+        "story_url": "https://css.graphics/pipes/",
+        "author": "speckx",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374106",
+        "title": "There's No Reason to Buy a New Phone Anymore",
+        "story_url": "https://www.theatlantic.com/technology/2026/08/secondhand-tech-boom/688309/",
+        "author": "fortran77",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 2,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374088",
+        "title": "Private Chinese rocket aces landing on 2nd-ever flight [video]",
+        "story_url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
+        "author": "bookofjoe",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374084",
+        "title": "China launches GPMI universal cable [video]",
+        "story_url": "https://www.youtube.com/shorts/mOh5IklMMMw",
+        "author": "thelastgallon",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374067",
+        "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+        "story_url": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+        "author": "thm",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374065",
+        "title": "Prove Your Point Correctly",
+        "story_url": "https://play.google.com/store/apps/details?id=ai.argumentapp.argument&hl=en_US",
+        "author": "angryteacher",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374062",
+        "title": "Do Chatbot LLMs Talk Too Much?",
+        "story_url": "https://arxiv.org/abs/2601.00624",
+        "author": "bretkoppel",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374056",
+        "title": "I Refrain from Infosec Punditry",
+        "story_url": "https://blog.coredump.cx/p/why-i-refrain-from-infosec-punditry",
+        "author": "surprisetalk",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374045",
+        "title": "Show HN: Sitmap – a World in Conflict inspired map maker for Cold War scenarios",
+        "story_url": "https://tomaytotomato.github.io/sitmap/",
+        "author": "tomaytotomato",
+        "publication_time": "20 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374036",
+        "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+        "story_url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+        "author": "sohkamyung",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374031",
+        "title": "Netherlands lists Israel as a threat to its national security for the first time",
+        "story_url": "https://www.trtworld.com/article/911b7ff6c075",
+        "author": "robtherobber",
+        "publication_time": "22 minutes ago",
+        "points": 15,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374016",
+        "title": "Slack is launching collaborative vibe-coding channels",
+        "story_url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+        "author": "thm",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374012",
+        "title": "More than 150 Polymarket wallets may have traded on military secrets",
+        "story_url": "https://www.reuters.com/business/finance/more-than-150-polymarket-wallets-may-have-traded-military-secrets-research-finds-2026-08-20/",
+        "author": "thm",
+        "publication_time": "23 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374002",
+        "title": "Impact of EU packaging rules from a small business perspective (Reddit thread)",
+        "story_url": "https://www.reddit.com/r/europe/comments/1vrz88a/comment/p4i3hoc/",
+        "author": "dgellow",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374000",
+        "title": "Use the built-in GELU, don't roll your own",
+        "story_url": "https://www.gilesthomas.com/2026/08/built-in-gelu",
+        "author": "ibobev",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373991",
+        "title": "Solving the Flat Cube",
+        "story_url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+        "author": "ibobev",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1juvz7sv82sgwok",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

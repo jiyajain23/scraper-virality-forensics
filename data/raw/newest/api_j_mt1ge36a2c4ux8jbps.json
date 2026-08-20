@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T11:44:58.339Z",
+    "stories": [
+      {
+        "story_id": "49373288",
+        "title": "Hopf Spherical Compression and Quantization in C++23",
+        "story_url": "https://github.com/meridionalissoftware/hscq",
+        "author": "rfgplk",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373272",
+        "title": "Show HN: Sutra – iOS e-books and comic reader with Calibre, OPDS and WebDAV sync",
+        "story_url": "https://sutra-reader.com/index.html",
+        "author": "darkusnitus",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373269",
+        "title": "AI didn't erase the junior engineer's value, it increased it it",
+        "story_url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+        "author": "franciscomt",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373225",
+        "title": "A better way to view diffs",
+        "story_url": "https://charwise.vercel.app/",
+        "author": "rpst",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373220",
+        "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+        "story_url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+        "author": "pavel_lishin",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373174",
+        "title": "Decennial Air Cruise of 1933",
+        "story_url": "https://en.wikipedia.org/wiki/Decennial_Air_Cruise",
+        "author": "simonebrunozzi",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373170",
+        "title": "Survey of 106 European design engineers on what would make them change jobs",
+        "story_url": "https://hymera.co/research-what-makes-a-design-engineer-leave-their-job",
+        "author": "ablazevics",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373160",
+        "title": "Eron on X: \"LLMs do one thing: predict the next word",
+        "story_url": "https://twitter.com/0xEronn/status/2089079333885198384",
+        "author": "bilsbie",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373158",
+        "title": "Show HN: Built my 15-year-old game idea",
+        "story_url": "https://news.ycombinator.com/item?id=49373158",
+        "author": "ashitlerferad",
+        "publication_time": "16 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373152",
+        "title": "VulnBench: Can LLMs find the same security bugs twice?",
+        "story_url": "https://vulnbench.com/",
+        "author": "lirantal",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373146",
+        "title": "What Zig felt like, coming from Rust",
+        "story_url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "author": "birdculture",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373143",
+        "title": "After Europe ditched Windows, China follows suit with its own home-grown Linux",
+        "story_url": "https://www.xda-developers.com/after-europe-ditched-windows-china-follows-suit-with-its-own-home-grown-linux-distros/",
+        "author": "ashitlerferad",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373129",
+        "title": "Nearly one in ten published Claude Code skills does not load",
+        "story_url": "https://toolproof.kynth.studio/census",
+        "author": "kyisaiah47",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373123",
+        "title": "Australia passes law to levy tech giants that fail to pay for local news",
+        "story_url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+        "author": "thm",
+        "publication_time": "20 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373120",
+        "title": "Reverse-engineering Find My People to stalk a friend, cause I can",
+        "story_url": "https://zerotistic.blog/posts/find-my-people-linux/",
+        "author": "lalitmaganti",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373108",
+        "title": "Fairphone (Gen. 6) Launched [video]",
+        "story_url": "https://www.youtube.com/watch?v=v5v0LjXY6Fc",
+        "author": "ashitlerferad",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373103",
+        "title": "Show HN: Try Sequo to manage your AI context",
+        "story_url": "https://sequo.app/",
+        "author": "shken",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373101",
+        "title": "Show HN: Your all-in-one text engine – zero dependencies",
+        "story_url": "https://dg.calia.cc/",
+        "author": "silly-tae",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373100",
+        "title": "LG's new OLED breakthrough can boost display lifespans",
+        "story_url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+        "author": "ksec",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373097",
+        "title": "Show HN: Ez – a macOS command runner that flags when a command gets slower",
+        "story_url": "https://github.com/urtti/ez",
+        "author": "frankbyte",
+        "publication_time": "24 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373094",
+        "title": "The first AI agents hire human to ship ugc videos for you",
+        "story_url": "https://klaylab.com/",
+        "author": "zya_wei",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373070",
+        "title": "Control Panel for Twitter: browser extension gives you control and adds features",
+        "story_url": "https://github.com/insin/control-panel-for-twitter",
+        "author": "akyuu",
+        "publication_time": "28 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373059",
+        "title": "Use your favorite coding agent with any model",
+        "story_url": "https://getaivo.dev/",
+        "author": "spirit23",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373051",
+        "title": "Agent Voice, communicate with your coding agent all from Voice, on the fly",
+        "story_url": "https://github.com/dixonSolutions/AgentVoice",
+        "author": "rat_rad",
+        "publication_time": "31 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373050",
+        "title": "50% of all \"employment growth\" in California and New York is home care fraud",
+        "story_url": "https://twitter.com/Kazanjy/status/2090087364186239278",
+        "author": "MrBuddyCasino",
+        "publication_time": "31 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373044",
+        "title": "Show HN: Sheeplaunch – Product Launch Platform",
+        "story_url": "https://sheeplaunch.com/",
+        "author": "not_wowinter14",
+        "publication_time": "31 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 26,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373041",
+        "title": "DDD matters more when AI writes your code",
+        "story_url": "https://threedots.tech/post/ddd-and-ai-coding/",
+        "author": "roblaszczak",
+        "publication_time": "32 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373009",
+        "title": "Show HN: Mock endpoints with Polo",
+        "story_url": "https://www.http-response.com/",
+        "author": "primalscreamer",
+        "publication_time": "38 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49372994",
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "story_url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "author": "leanderjanssen",
+        "publication_time": "40 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372984",
+        "title": "Support networks aim to help kids through the polycrisis",
+        "story_url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+        "author": "joozio",
+        "publication_time": "42 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1ge36a2c4ux8jbps",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T10:42:13.829Z",
+    "stories": [
+      {
+        "story_id": "49372808",
+        "title": "Has Stock Market Participation Changed How Interest Rates Affect the Economy?",
+        "story_url": "https://libertystreeteconomics.newyorkfed.org/2026/08/has-broader-stock-market-participation-changed-how-interest-rates-affect-the-economy/",
+        "author": "root-parent",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372802",
+        "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
+        "story_url": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
+        "author": "OutOfHere",
+        "publication_time": "1 minute ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372794",
+        "title": "An approach to vulnerability observability of Go services leveraging Prometheus",
+        "story_url": "https://github.com/el10savio/vulnemetry/tree/main",
+        "author": "ugabuga",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372792",
+        "title": "If this is true, the hyperscalers are toast",
+        "story_url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+        "author": "root-parent",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372781",
+        "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+        "story_url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
+        "author": "HelloUsername",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372777",
+        "title": "India's Battle for Free Internet",
+        "story_url": "https://web.archive.org/web/20260820103426/https://www.linkedin.com/pulse/indias-battle-free-internet-dr-rs-sharma-grimc",
+        "author": "5d41402abc4b",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372770",
+        "title": "Don't paste the AI, please (angry way)",
+        "story_url": "https://dontpastetheai.com/angry/",
+        "author": "krehwell",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372768",
+        "title": "The Nana Benz of Togo",
+        "story_url": "https://www.togoarchives.com/the-nana-benz-of-togo/",
+        "author": "prmph",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372764",
+        "title": "Living near dry cleaners linked to higher Parkinson's odds in older adults",
+        "story_url": "https://parkinsonsnewstoday.com/news/living-near-dry-cleaners-may-raise-parkinsons-odds-older-adults/",
+        "author": "downbad_",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372759",
+        "title": "Some prostate cancers can be diagnosed without invasive biopsy,new study reveals",
+        "story_url": "https://www.the-independent.com/life-style/health-and-families/health-news/nhs-prostate-cancer-uclh-treatment-b3035100.html",
+        "author": "teleforce",
+        "publication_time": "7 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372752",
+        "title": "US Government debt hits $40T as borrowing rises at historic rate",
+        "story_url": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74",
+        "author": "tcp_handshaker",
+        "publication_time": "8 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372733",
+        "title": "Susan Kare: Designing Icons and Graphics for the Original Mac",
+        "story_url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+        "author": "ksec",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372693",
+        "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+        "story_url": "http://taubench.com/leaderboard/",
+        "author": "danielglh",
+        "publication_time": "16 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372682",
+        "title": "Znuny: OTRS OSS",
+        "story_url": "https://www.znuny.org/en",
+        "author": "sts153",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372681",
+        "title": "Show HN: Ideal Weight, BMI and Body Fat Calculator Tool",
+        "story_url": "https://www.globaltoolsbox.online/2026/08/ideal-weight-calculator-bmi-body-fat.html",
+        "author": "solangiwaqas",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49372675",
+        "title": "Structural Predictions for the AI Era",
+        "story_url": "https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof",
+        "author": "afr99",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372663",
+        "title": "Show HN: Fail CI when your stack runs end-of-life software",
+        "story_url": "https://github.com/endoflife-ai/eol-check",
+        "author": "ScottUbiquitous",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49372661",
+        "title": "Risk Engineering",
+        "story_url": "https://risk-engineering.org/",
+        "author": "throwaw12",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372644",
+        "title": "Whoop replacement noop 10.5 released",
+        "story_url": "https://github.com/ryanbr/noop",
+        "author": "mp3geek",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372639",
+        "title": "Why AGI Is Impossible",
+        "story_url": "https://substack.com/@vinialva/note/c-312693792",
+        "author": "vinialva",
+        "publication_time": "25 minutes ago",
+        "points": 6,
+        "comment_count": 1,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372637",
+        "title": "The stories of the international soldiers who serve in Ukraine",
+        "story_url": "https://www.youtube.com/@ILDUkraine",
+        "author": "Erikun",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372626",
+        "title": "Watch Directory",
+        "story_url": "https://fewer.directory/",
+        "author": "scholaronroad",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372624",
+        "title": "Comments that go into code vs. those that go into the pull request description",
+        "story_url": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+        "author": "csmantle",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372615",
+        "title": "Show HN: Kanna – Go generators for DI, queries, internationalization and more",
+        "story_url": "https://github.com/go-kanna/kanna",
+        "author": "mickamy",
+        "publication_time": "27 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49372602",
+        "title": "NextJS Mailtrap SaaS Starter",
+        "story_url": "https://github.com/mailtrap/nextjs-saas-starter",
+        "author": "aliobm",
+        "publication_time": "29 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372596",
+        "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
+        "story_url": "https://cyberupdates365.com/splunk-mcp-server-rce-patch/",
+        "author": "udayhero",
+        "publication_time": "30 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372583",
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "story_url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "author": "emctech",
+        "publication_time": "32 minutes ago",
+        "points": 13,
+        "comment_count": 4,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372576",
+        "title": "Fancy Filtering Examples",
+        "story_url": "https://trac.ffmpeg.org/wiki/FancyFilteringExamples",
+        "author": "1317",
+        "publication_time": "33 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372575",
+        "title": "Mastodon 5.0: Laying the Foundation",
+        "story_url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+        "author": "birdculture",
+        "publication_time": "33 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372566",
+        "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+        "story_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+        "author": "_____k",
+        "publication_time": "34 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1e5bnv2jmqcv9com",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

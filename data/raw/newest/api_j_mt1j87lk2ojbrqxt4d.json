@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T13:04:24.039Z",
+    "stories": [
+      {
+        "story_id": "49374088",
+        "title": "Private Chinese rocket aces landing on 2nd-ever flight [video]",
+        "story_url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
+        "author": "bookofjoe",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374084",
+        "title": "China launches GPMI universal cable [video]",
+        "story_url": "https://www.youtube.com/shorts/mOh5IklMMMw",
+        "author": "thelastgallon",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374067",
+        "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+        "story_url": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+        "author": "thm",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374065",
+        "title": "Prove Your Point Correctly",
+        "story_url": "https://play.google.com/store/apps/details?id=ai.argumentapp.argument&hl=en_US",
+        "author": "angryteacher",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374062",
+        "title": "Do Chatbot LLMs Talk Too Much?",
+        "story_url": "https://arxiv.org/abs/2601.00624",
+        "author": "bretkoppel",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374056",
+        "title": "I Refrain from Infosec Punditry",
+        "story_url": "https://blog.coredump.cx/p/why-i-refrain-from-infosec-punditry",
+        "author": "surprisetalk",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374045",
+        "title": "Show HN: Sitmap – a World in Conflict inspired map maker for Cold War scenarios",
+        "story_url": "https://tomaytotomato.github.io/sitmap/",
+        "author": "tomaytotomato",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 2,
+        "rank": 7,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49374036",
+        "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+        "story_url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+        "author": "sohkamyung",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374031",
+        "title": "Netherlands lists Israel as a threat to its national security for the first time",
+        "story_url": "https://www.trtworld.com/article/911b7ff6c075",
+        "author": "robtherobber",
+        "publication_time": "5 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374016",
+        "title": "Slack is launching collaborative vibe-coding channels",
+        "story_url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+        "author": "thm",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374012",
+        "title": "More than 150 Polymarket wallets may have traded on military secrets",
+        "story_url": "https://www.reuters.com/business/finance/more-than-150-polymarket-wallets-may-have-traded-military-secrets-research-finds-2026-08-20/",
+        "author": "thm",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374002",
+        "title": "Impact of EU packaging rules from a small business perspective (Reddit thread)",
+        "story_url": "https://www.reddit.com/r/europe/comments/1vrz88a/comment/p4i3hoc/",
+        "author": "dgellow",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49374000",
+        "title": "Use the built-in GELU, don't roll your own",
+        "story_url": "https://www.gilesthomas.com/2026/08/built-in-gelu",
+        "author": "ibobev",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373991",
+        "title": "Solving the Flat Cube",
+        "story_url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+        "author": "ibobev",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373989",
+        "title": "Taylor Farms became a top salad supplier before US diarrhea outbreak",
+        "story_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/green-giant-how-taylor-farms-became-top-salad-supplier-before-us-diarrhea-2026-08-20/",
+        "author": "cramer4next",
+        "publication_time": "9 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373984",
+        "title": "Parsing IP addresses in C# at crazy speeds",
+        "story_url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
+        "author": "ibobev",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373950",
+        "title": "Nancy Cartwright: Is It All a Big Lie?",
+        "story_url": "https://www.zeit.de/feuilleton/2026-08/nancy-cartwright-wissenschaft-philosophie-gesetze-verlaesslichkeit-english",
+        "author": "Tomte",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373937",
+        "title": "Show HN: OlumJS – Components are .html files, attributes are code or strings",
+        "story_url": "https://www.olumjs.top/",
+        "author": "eissapk",
+        "publication_time": "13 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373936",
+        "title": "Show HN: ArchSpec – Static architecture linter for Ruby",
+        "story_url": "https://archspecrb.dev/",
+        "author": "earcar",
+        "publication_time": "13 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373932",
+        "title": "Xorg-Server 26.0.99.901",
+        "story_url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+        "author": "st_goliath",
+        "publication_time": "13 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373930",
+        "title": "Idea to reduce AI token use at large orgs",
+        "story_url": "https://news.ycombinator.com/item?id=49373930",
+        "author": "mgav",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49373926",
+        "title": "Building Without Predicting",
+        "story_url": "https://sive.rs/fit",
+        "author": "simonebrunozzi",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373895",
+        "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
+        "story_url": "https://sentrint.com/",
+        "author": "Gourabdg",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373891",
+        "title": "We replaced our ledger with two functions",
+        "story_url": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
+        "author": "leishman",
+        "publication_time": "17 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373884",
+        "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+        "story_url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+        "author": "peterhajas",
+        "publication_time": "18 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373876",
+        "title": "Isochronic tones: what they're good for",
+        "story_url": "https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4",
+        "author": "smanuel",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373873",
+        "title": "GOP issues stark warning to AI companies",
+        "story_url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+        "author": "anon373839",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373865",
+        "title": "Protocol-Aware Deterministic Simulation Testing",
+        "story_url": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
+        "author": "jorangreef",
+        "publication_time": "20 minutes ago",
+        "points": 8,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373862",
+        "title": "Show HN: Open Terminal – global chat built with WebSockets",
+        "story_url": "https://openterminal-sigma.vercel.app/",
+        "author": "hito20",
+        "publication_time": "20 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373861",
+        "title": "Static electricity is a mystery, and scientists are all charged up",
+        "story_url": "https://www.sciencenews.org/article/static-electricity-is-a-mystery",
+        "author": "sohkamyung",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1j87lk2ojbrqxt4d",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

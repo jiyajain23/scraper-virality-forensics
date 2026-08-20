@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T11:09:42.608Z",
+    "stories": [
+      {
+        "story_id": "49373009",
+        "title": "Show HN: Mock endpoints with Polo",
+        "story_url": "https://www.http-response.com/",
+        "author": "primalscreamer",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49372994",
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "story_url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "author": "leanderjanssen",
+        "publication_time": "6 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372984",
+        "title": "Support networks aim to help kids through the polycrisis",
+        "story_url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+        "author": "joozio",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372982",
+        "title": "A GTA VI leaker seemingly has a playable build",
+        "story_url": "https://www.theverge.com/games/982623/gta-vi-leaker-playable-build",
+        "author": "leumon",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372966",
+        "title": "Apple's Camera-Equipped AirPods See Them in Action",
+        "story_url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+        "author": "jacquesm",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372942",
+        "title": "The United States is about to wake up to the threat from China's space program",
+        "story_url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+        "author": "ironyman",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372925",
+        "title": "Issues in the Repo",
+        "story_url": "https://nesbitt.io/2026/08/20/issues-in-the-repo.html",
+        "author": "jamietanna",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372908",
+        "title": "Show HN: Protobuf.com, a visual, interactive guide to Protocol Buffers",
+        "story_url": "https://protobuf.com/",
+        "author": "sudorandom",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49372905",
+        "title": "Satellite proliferation imperils astronomical observations, study finds",
+        "story_url": "https://www.reuters.com/business/media-telecom/satellite-proliferation-imperils-astronomical-observations-study-finds-2026-08-20/",
+        "author": "comebhack",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372904",
+        "title": "Computers Compared",
+        "story_url": "https://fly.io/computers-compared/",
+        "author": "jacobwg",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372901",
+        "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
+        "story_url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
+        "author": "dotmanish",
+        "publication_time": "16 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372895",
+        "title": "ShieldFont",
+        "story_url": "https://shieldfont.org/encoder/",
+        "author": "bookofjoe",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372874",
+        "title": "How to Outsmart AI When It's Tracking Your Workday",
+        "story_url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
+        "author": "cebert",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 2,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372853",
+        "title": "Supply Chain Attack on Arrayref",
+        "story_url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+        "author": "praseodym",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372847",
+        "title": "How Many Fundamental Constants Are There? (2011) John Baez",
+        "story_url": "https://math.ucr.edu/home/baez/constants.html",
+        "author": "lioeters",
+        "publication_time": "23 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372841",
+        "title": "Rust arrayref 0.3.10 crate installs malware",
+        "story_url": "https://github.com/rustsec/advisory-db/issues/3161",
+        "author": "jedisct1",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372824",
+        "title": "The Facebook Files",
+        "story_url": "https://www.wsj.com/articles/the-facebook-files-11631713039",
+        "author": "root-parent",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372808",
+        "title": "Has Stock Market Participation Changed How Interest Rates Affect the Economy?",
+        "story_url": "https://libertystreeteconomics.newyorkfed.org/2026/08/has-broader-stock-market-participation-changed-how-interest-rates-affect-the-economy/",
+        "author": "root-parent",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372802",
+        "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
+        "story_url": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
+        "author": "OutOfHere",
+        "publication_time": "30 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372794",
+        "title": "An approach to vulnerability observability of Go services leveraging Prometheus",
+        "story_url": "https://github.com/el10savio/vulnemetry/tree/main",
+        "author": "ugabuga",
+        "publication_time": "31 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372792",
+        "title": "If this is true, the hyperscalers are toast",
+        "story_url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+        "author": "root-parent",
+        "publication_time": "31 minutes ago",
+        "points": 5,
+        "comment_count": 3,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372781",
+        "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+        "story_url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
+        "author": "HelloUsername",
+        "publication_time": "33 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372777",
+        "title": "India's Battle for Free Internet",
+        "story_url": "https://web.archive.org/web/20260820103426/https://www.linkedin.com/pulse/indias-battle-free-internet-dr-rs-sharma-grimc",
+        "author": "5d41402abc4b",
+        "publication_time": "34 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372770",
+        "title": "Don't paste the AI, please (angry way)",
+        "story_url": "https://dontpastetheai.com/angry/",
+        "author": "krehwell",
+        "publication_time": "34 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372768",
+        "title": "The \"Nana Benz\" of Togo",
+        "story_url": "https://www.togoarchives.com/the-nana-benz-of-togo/",
+        "author": "prmph",
+        "publication_time": "34 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372764",
+        "title": "Living near dry cleaners linked to higher Parkinson's odds in older adults",
+        "story_url": "https://parkinsonsnewstoday.com/news/living-near-dry-cleaners-may-raise-parkinsons-odds-older-adults/",
+        "author": "downbad_",
+        "publication_time": "35 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372759",
+        "title": "Some prostate cancers can be diagnosed without invasive biopsy,new study reveals",
+        "story_url": "https://www.the-independent.com/life-style/health-and-families/health-news/nhs-prostate-cancer-uclh-treatment-b3035100.html",
+        "author": "teleforce",
+        "publication_time": "35 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372752",
+        "title": "US Government debt hits $40T as borrowing rises at historic rate",
+        "story_url": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74",
+        "author": "tcp_handshaker",
+        "publication_time": "37 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372733",
+        "title": "Susan Kare: Designing Icons and Graphics for the Original Mac",
+        "story_url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+        "author": "ksec",
+        "publication_time": "39 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49372693",
+        "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+        "story_url": "http://taubench.com/leaderboard/",
+        "author": "danielglh",
+        "publication_time": "45 minutes ago",
+        "points": 7,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt1f4q531haaoqegn",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

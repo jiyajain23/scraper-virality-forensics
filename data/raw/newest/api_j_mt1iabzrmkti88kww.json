@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T12:38:03.411Z",
+    "stories": [
+      {
+        "story_id": "49373785",
+        "title": "Stripe declares singularity is here",
+        "story_url": "https://www.axios.com/2026/08/19/stripe-payments-openrouter-singularity",
+        "author": "ltononro",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373782",
+        "title": "Getting a Foothold in Reinforcement Learning for LLMs",
+        "story_url": "https://amitpoonia.github.io/posts/intro-rl.md.html",
+        "author": "amitpoonia19xyz",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373777",
+        "title": "How Much Does an Enterprise CMS Migration Cost in 2026?",
+        "story_url": "https://focusreactive.com/blog/enterprise-website-migration/",
+        "author": "katyadrozd",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373756",
+        "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
+        "story_url": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0",
+        "author": "uux_pacioli",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373746",
+        "title": "Not Your Model, Not Your Mind",
+        "story_url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
+        "author": "Guustaaf",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373730",
+        "title": "Show HN: Why You Lost – a Dota 2 post-match autopsy",
+        "story_url": "https://wyl.serenedb.com/why-you-lost",
+        "author": "gnusi",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373709",
+        "title": "Algorithm Interview: a conversation between two parrots",
+        "story_url": "https://news.ycombinator.com/item?id=49373709",
+        "author": "dersoverflow",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49373701",
+        "title": "Emulator for the Flight Data Subsystem (FDS) Used on Voyager 1 and Voyager 2",
+        "story_url": "https://github.com/Zaneham/voyager-fds-emulator",
+        "author": "Bluestein",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373690",
+        "title": "Terminal-code: VS Code inside the terminal",
+        "story_url": "https://twitter.com/robknight__/status/2090106928668041363",
+        "author": "begoon",
+        "publication_time": "9 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373683",
+        "title": "Postgres pioneer credits Oracle with helping his database take over the world",
+        "story_url": "https://www.theregister.com/databases/2026/08/19/postgres-pioneer-credits-oracle-with-helping-his-database-take-over-the-world/5289087",
+        "author": "tosh",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373664",
+        "title": "PWAs: Personal Web Apps",
+        "story_url": "https://ma.ttias.be/pwas-personal-web-apps/",
+        "author": "barredo",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373654",
+        "title": "Show HN: Simple Screenshot Copy – screenshots straight to the clipboard",
+        "story_url": "https://chromewebstore.google.com/detail/simple-screenshot-copy/ohogcihmpepnngapffflfeplfdhcjioe",
+        "author": "ringlochid",
+        "publication_time": "14 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373651",
+        "title": "The Agent Loop Has Always Been There",
+        "story_url": "https://memseek.ai/blog/the-loop-has-always-been-there/",
+        "author": "jdcaballerov",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373648",
+        "title": "Delegation isn't a skill you're missing. It's a feeling you can't sit with",
+        "story_url": "https://unleashyouradhd.com/blog/delegation-is-regulation/",
+        "author": "mooreds",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373635",
+        "title": "The Voyeur's Motel (2016)",
+        "story_url": "https://www.newyorker.com/magazine/2016/04/11/gay-talese-the-voyeurs-motel",
+        "author": "kilroy123",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373634",
+        "title": "A global gateway to the rangelands data repository",
+        "story_url": "https://staging.rangelandsdata.org/en",
+        "author": "mooreds",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373631",
+        "title": "Death to Minimalism (2019)",
+        "story_url": "https://www.currentaffairs.org/news/2019/02/death-to-minimalism",
+        "author": "robtherobber",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373619",
+        "title": "Gen-1.5 In-Context Learning",
+        "story_url": "https://generalistai.com/blog/gen-1.5",
+        "author": "razodactyl",
+        "publication_time": "17 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373616",
+        "title": "Browser De-Slop",
+        "story_url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+        "author": "cullumsmith",
+        "publication_time": "17 minutes ago",
+        "points": 6,
+        "comment_count": 1,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373615",
+        "title": "Ship's Log: Current state of the Gosub engine",
+        "story_url": "https://gosub.io/blog/2026-08-20-ships-log/",
+        "author": "jaytaph",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373584",
+        "title": "NASA calls off Swift rescue mission",
+        "story_url": "https://apnews.com/article/swift-telescope-nasa-satellite-rescue-800bfbe5aaba5fec9aadd20bdcc138a5",
+        "author": "hn_submit",
+        "publication_time": "20 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373582",
+        "title": "A row window makes scrolling free and does nothing for the load",
+        "story_url": "https://sley-ui.dev/notes/row-window",
+        "author": "imfemambocus",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373580",
+        "title": "MCP gateway with a built-in skill library",
+        "story_url": "https://github.com/gridctl/gridctl",
+        "author": "mooreds",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373565",
+        "title": "Planly, a free, low-complexity, self-hosted alternative to Jira/Asana",
+        "story_url": "https://github.com/esbeneickhardt/Planly",
+        "author": "ebbemonster",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373542",
+        "title": "Show HN: Free OSS Software Factory Template",
+        "story_url": "https://github.com/vercel-labs/eve-software-factory-template/blob/main/.github/ARCHITECTURE.md",
+        "author": "flashbrew",
+        "publication_time": "24 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373540",
+        "title": "German court rules: Emails must be end-to-end encrypted",
+        "story_url": "https://tuta.com/blog/german-court-rules-emails-e2ee",
+        "author": "khaled_ismaeel",
+        "publication_time": "24 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373520",
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "story_url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "author": "rbanffy",
+        "publication_time": "26 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373519",
+        "title": "I soldered for the first time and fixed my daughters toy",
+        "story_url": "https://unixdad.com/soldered-first-time/",
+        "author": "lignux",
+        "publication_time": "26 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373501",
+        "title": "London brewery is begging customers to stop queuing in single file at the bar",
+        "story_url": "https://metro.co.uk/2026/08/19/london-brewery-begging-customers-stop-queuing-single-file-bar-29414495/",
+        "author": "pseudolus",
+        "publication_time": "27 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373498",
+        "title": "Show HN: Sharpen blurry photos locally in the browser",
+        "story_url": "https://convertix-fast-imager-co.blogspot.com/p/convertix-free-online-image-enhancer.html",
+        "author": "convertix123",
+        "publication_time": "28 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "_api_collection_id": "j_mt1iabzrmkti88kww",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

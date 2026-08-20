@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T12:55:35.132Z",
+    "stories": [
+      {
+        "story_id": "49373950",
+        "title": "Nancy Cartwright: Is It All a Big Lie?",
+        "story_url": "https://www.zeit.de/feuilleton/2026-08/nancy-cartwright-wissenschaft-philosophie-gesetze-verlaesslichkeit-english",
+        "author": "Tomte",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373937",
+        "title": "Show HN: OlumJS – Components are .html files, attributes are code or strings",
+        "story_url": "https://www.olumjs.top/",
+        "author": "eissapk",
+        "publication_time": "3 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373936",
+        "title": "Show HN: ArchSpec – Static architecture linter for Ruby",
+        "story_url": "https://archspecrb.dev/",
+        "author": "earcar",
+        "publication_time": "3 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373932",
+        "title": "Xorg-Server 26.0.99.901",
+        "story_url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+        "author": "st_goliath",
+        "publication_time": "3 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373930",
+        "title": "Idea to reduce AI token use at large orgs",
+        "story_url": "https://news.ycombinator.com/item?id=49373930",
+        "author": "mgav",
+        "publication_time": "3 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49373926",
+        "title": "Building Without Predicting",
+        "story_url": "https://sive.rs/fit",
+        "author": "simonebrunozzi",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373895",
+        "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
+        "story_url": "https://sentrint.com/",
+        "author": "Gourabdg",
+        "publication_time": "7 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 7,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373891",
+        "title": "We replaced our ledger with two functions",
+        "story_url": "https://river.com/content/we-replaced-our-ledger-with-two-functions",
+        "author": "leishman",
+        "publication_time": "7 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373884",
+        "title": "Zellij 0.45.0: nested sessions, Kitty graphics, a fresh UI",
+        "story_url": "https://zellij.dev/news/nested-sessions-kitty-graphics-new-ui/",
+        "author": "peterhajas",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373876",
+        "title": "Isochronic tones: what they're good for",
+        "story_url": "https://medium.com/@6thMind/isochronic-tones-what-theyre-actually-good-for-and-the-advantage-nobody-mentions-16ccd04510e4",
+        "author": "smanuel",
+        "publication_time": "8 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373873",
+        "title": "GOP issues stark warning to AI companies",
+        "story_url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+        "author": "anon373839",
+        "publication_time": "9 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373865",
+        "title": "Protocol-Aware Deterministic Simulation Testing",
+        "story_url": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
+        "author": "jorangreef",
+        "publication_time": "9 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373862",
+        "title": "Show HN: Open Terminal – global chat built with WebSockets",
+        "story_url": "https://openterminal-sigma.vercel.app/",
+        "author": "hito20",
+        "publication_time": "10 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373861",
+        "title": "Static electricity is a mystery, and scientists are all charged up",
+        "story_url": "https://www.sciencenews.org/article/static-electricity-is-a-mystery",
+        "author": "sohkamyung",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373851",
+        "title": "LinkedIn cracks down on automated content with AI detection button",
+        "story_url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+        "author": "qikouki",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373850",
+        "title": "Show HN: Languageme – Learning new languages with Claude Code by dripping",
+        "story_url": "https://github.com/magiclex/languageme",
+        "author": "LexSiga",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373849",
+        "title": "WireGuard-Native NAT Traversal",
+        "story_url": "https://www.firezone.dev/blog/nothing-on-the-wire-but-wireguard",
+        "author": "jamilbk",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373833",
+        "title": "Good Enough",
+        "story_url": "https://bookofjoe2.blogspot.com/2026/08/good-enough.html",
+        "author": "bookofjoe",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373822",
+        "title": "Conway's Game of Life, in real life",
+        "story_url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+        "author": "surprisetalk",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373815",
+        "title": "Raylib Examples in Jolt",
+        "story_url": "https://raylib-jlt.b12n.app/",
+        "author": "yogthos",
+        "publication_time": "14 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373813",
+        "title": "Amazon drone delivery is expanding to nearly 500 cities and towns this year",
+        "story_url": "https://www.aboutamazon.com/news/transportation/amazon-prime-air-drone-delivery-expansion",
+        "author": "PhaedrusV",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373812",
+        "title": "Scientists Have Built Miniature Brains That Experience the Passage of Time",
+        "story_url": "https://www.sciencealert.com/unprecedented-scientists-have-built-miniature-brains-that-experience-the-passage-of-time",
+        "author": "geox",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373810",
+        "title": "The Semantic Web didn't fail because ontologies were wrong",
+        "story_url": "https://www.thisandthat.chat/blog/semantic-web-failed-on-upkeep/",
+        "author": "jreynar",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373785",
+        "title": "Stripe declares singularity is here",
+        "story_url": "https://www.axios.com/2026/08/19/stripe-payments-openrouter-singularity",
+        "author": "ltononro",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373782",
+        "title": "Getting a Foothold in Reinforcement Learning for LLMs",
+        "story_url": "https://amitpoonia.github.io/posts/intro-rl.md.html",
+        "author": "amitpoonia19xyz",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373777",
+        "title": "How Much Does an Enterprise CMS Migration Cost in 2026?",
+        "story_url": "https://focusreactive.com/blog/enterprise-website-migration/",
+        "author": "katyadrozd",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373756",
+        "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
+        "story_url": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0",
+        "author": "uux_pacioli",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373746",
+        "title": "Not Your Model, Not Your Mind",
+        "story_url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
+        "author": "Guustaaf",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49373730",
+        "title": "Show HN: Why You Lost – a Dota 2 post-match autopsy",
+        "story_url": "https://wyl.serenedb.com/why-you-lost",
+        "author": "gnusi",
+        "publication_time": "21 minutes ago",
+        "points": 12,
+        "comment_count": 2,
+        "rank": 29,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49373709",
+        "title": "Algorithm Interview: a conversation between two parrots",
+        "story_url": "https://news.ycombinator.com/item?id=49373709",
+        "author": "dersoverflow",
+        "publication_time": "23 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "ask"
+      }
+    ],
+    "_api_collection_id": "j_mt1iwusr16cdfd6cii",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

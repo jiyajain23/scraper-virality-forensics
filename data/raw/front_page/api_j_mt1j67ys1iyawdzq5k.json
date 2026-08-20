@@ -1,0 +1,310 @@
+[
+  {
+    "scraped_at": "2026-08-20T13:02:48.886Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49371857",
+        "title": "Don't Paste the AI, please",
+        "url": "https://dontpastetheai.com/",
+        "points": 639,
+        "time": "4 hours ago",
+        "comments": 309,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49372583",
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "points": 208,
+        "time": "2 hours ago",
+        "comments": 64,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49373456",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "points": 47,
+        "time": "57 minutes ago",
+        "comments": 8,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 4,
+        "story_id": "49371006",
+        "title": "Windows brings out the Rorschach test in everyone (2003)",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "points": 255,
+        "time": "6 hours ago",
+        "comments": 97,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49364559",
+        "title": "OpenRouter is joining Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+        "points": 898,
+        "time": "19 hours ago",
+        "comments": 459,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49369408",
+        "title": "Turns are Better than Radians (2022)",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "points": 255,
+        "time": "11 hours ago",
+        "comments": 135,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49364745",
+        "title": "Google has stopped pushing Git tags for some Android source code",
+        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+        "points": 687,
+        "time": "19 hours ago",
+        "comments": 265,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49373423",
+        "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+        "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+        "time": "1 hour ago",
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49365405",
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "points": 698,
+        "time": "18 hours ago",
+        "comments": 213,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49323795",
+        "title": "A faster way to calculate the day of the week",
+        "url": "https://www.benjoffe.com/fast-day-of-week",
+        "points": 196,
+        "time": "11 hours ago",
+        "comments": 47,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49372994",
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "points": 10,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49360015",
+        "title": "A joke domain purchase turned in geopolitical warfare",
+        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "points": 953,
+        "time": "1 day ago",
+        "comments": 154,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49362001",
+        "title": "Manabu Kosaka's Handmade Paper Sculptures",
+        "url": "https://coca11272000.wixsite.com/manabukosaka",
+        "points": 155,
+        "time": "13 hours ago",
+        "comments": 19,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49365443",
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "points": 296,
+        "time": "18 hours ago",
+        "comments": 103,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49372661",
+        "title": "Risk Engineering",
+        "url": "https://risk-engineering.org/",
+        "points": 9,
+        "time": "2 hours ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49365841",
+        "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+        "points": 238,
+        "time": "17 hours ago",
+        "comments": 56,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49362887",
+        "title": "Casio F-B100W-1A",
+        "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "points": 419,
+        "time": "21 hours ago",
+        "comments": 347,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49348189",
+        "title": "Sol loves to cheat",
+        "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+        "points": 195,
+        "time": "15 hours ago",
+        "comments": 153,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49373616",
+        "title": "Browser De-Slop",
+        "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+        "points": 12,
+        "time": "42 minutes ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49360545",
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
+        "points": 495,
+        "time": "1 day ago",
+        "comments": 80,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49353339",
+        "title": "fx :Tiny, open, native coding agent.",
+        "url": "https://fx.sh/",
+        "points": 295,
+        "time": "1 day ago",
+        "comments": 126,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49312446",
+        "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+        "url": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
+        "points": 6,
+        "time": "2 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49361279",
+        "title": "PostgreSQL for Everything",
+        "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+        "points": 399,
+        "time": "23 hours ago",
+        "comments": 237,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49325037",
+        "title": "The Chauffeur Problem",
+        "url": "https://engines.egr.uh.edu/episode/1495",
+        "points": 33,
+        "time": "6 hours ago",
+        "comments": 18,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49373123",
+        "title": "Australia passes law to levy tech giants that fail to pay for local news",
+        "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+        "points": 18,
+        "time": "1 hour ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49367256",
+        "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+        "url": "https://os8088.com/spotlight/",
+        "points": 106,
+        "time": "15 hours ago",
+        "comments": 46,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49367350",
+        "title": "Feature Request: Support AGENTS.md",
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "points": 313,
+        "time": "15 hours ago",
+        "comments": 191,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49362728",
+        "title": "Mathematics in the age of AI",
+        "url": "https://arxiv.org/abs/2608.16753",
+        "points": 189,
+        "time": "21 hours ago",
+        "comments": 224,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49366264",
+        "title": "Pixel 11 Pro Fold feels like the end of an era",
+        "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+        "points": 80,
+        "time": "17 hours ago",
+        "comments": 213,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49321934",
+        "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+        "url": "https://github.com/cesarblum/sectorforth",
+        "points": 42,
+        "time": "11 hours ago",
+        "comments": 11,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt1j67ys1iyawdzq5k",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

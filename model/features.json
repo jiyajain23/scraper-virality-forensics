@@ -1,0 +1,14 @@
+[
+  "early_points",
+  "early_comments",
+  "early_rank",
+  "points_velocity",
+  "comments_velocity",
+  "rank_change",
+  "observation_count_early",
+  "title_length",
+  "title_word_count",
+  "title_has_question_mark",
+  "title_has_number",
+  "engagement_ratio"
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-20T07:19:08.924Z",
+    "stories": [
+      {
+        "story_id": "49371439",
+        "title": "VS Code in the Terminal",
+        "story_url": "https://github.com/zenbu-labs/terminal-code",
+        "author": "dsr12",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371433",
+        "title": "FaCTz: Fast Critical-Point and Topology-Aware GPU Compression for Vector Fields",
+        "story_url": "https://arxiv.org/abs/2608.10586",
+        "author": "g0xA52A2A",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371422",
+        "title": "Understanding the Limitations of Pubsub Systems",
+        "story_url": "https://dl.acm.org/doi/pdf/10.1145/3713082.3730397",
+        "author": "rapnie",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371419",
+        "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+        "story_url": "https://www.datadoghq.com/blog/engineering/gitretriever/",
+        "author": "mcbain",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371411",
+        "title": "Old style audio visualiser for Raspberry Pi 3B",
+        "story_url": "https://hackaday.io/project/206461-geiss-inspired-audio-visualizer-for-rpi-3b",
+        "author": "daepp",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371396",
+        "title": "Startups in Hawaii?",
+        "story_url": "https://www.wsj.com/business/entrepreneurship/hawaii-tourism-tech-jobs-9630f68b",
+        "author": "luckymonkybaby",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371372",
+        "title": "PHP Executes Bytecode – Deepdive",
+        "story_url": "https://phpunit.expert/articles/how-php-executes-bytecode.html",
+        "author": "pow-tac",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371358",
+        "title": "The role of the astronaut is in flux",
+        "story_url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+        "author": "joozio",
+        "publication_time": "16 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371342",
+        "title": "Good writing is obvious, not original",
+        "story_url": "https://www.seangoedecke.com/good-writing-is-obvious-not-original/",
+        "author": "gfysfm",
+        "publication_time": "18 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371318",
+        "title": "IBM and the University of Chicago Demonstrate Quantum Advantage",
+        "story_url": "https://newsroom.ibm.com/2026-07-30-ibm-and-the-university-of-chicago-demonstrate-quantum-advantage,-establishing-trusted-quantum-computation-on-logical-circuits",
+        "author": "riversflow",
+        "publication_time": "22 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371260",
+        "title": "Story of Roomy",
+        "story_url": "https://story.roomy.space/",
+        "author": "jdsane",
+        "publication_time": "30 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371250",
+        "title": "What if SELECT, FROM, WHERE were functions?",
+        "story_url": "https://remy.wang/blog/prela.html",
+        "author": "remywang",
+        "publication_time": "30 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371211",
+        "title": "Show HN: Do-over, undo for AI agent shell commands",
+        "story_url": "https://github.com/CaydenChik/doover",
+        "author": "Cayden27",
+        "publication_time": "35 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49371195",
+        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+        "story_url": "https://www.wired.com/story/flock-safety-os-investigate/",
+        "author": "divbzero",
+        "publication_time": "38 minutes ago",
+        "points": 7,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371169",
+        "title": "AI is changing how we code. Is this positive?",
+        "story_url": "https://news.ycombinator.com/item?id=49371169",
+        "author": "simondukr",
+        "publication_time": "41 minutes ago",
+        "points": 2,
+        "comment_count": 2,
+        "rank": 15,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49371167",
+        "title": "Contract for difference",
+        "story_url": "https://en.wikipedia.org/wiki/Contract_for_difference",
+        "author": "petethomas",
+        "publication_time": "41 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371163",
+        "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+        "story_url": "https://news.ycombinator.com/item?id=49371163",
+        "author": "roschdal",
+        "publication_time": "41 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 17,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49371161",
+        "title": "Keycloak unauthenticated account takeover via reset-credentials flow bypass",
+        "story_url": "https://github.com/keycloak/keycloak/issues/51833",
+        "author": "4mnt",
+        "publication_time": "41 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371156",
+        "title": "AI Is Changing How We Hac",
+        "story_url": "https://news.ycombinator.com/item?id=49371156",
+        "author": "simondukr",
+        "publication_time": "41 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49371134",
+        "title": "Agarwood",
+        "story_url": "https://en.wikipedia.org/wiki/Agarwood",
+        "author": "teleforce",
+        "publication_time": "44 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371092",
+        "title": "PgDog is 2x faster than RDS Proxy",
+        "story_url": "https://pgdog.dev/blog/pgdog-vs-rds-proxy",
+        "author": "levkk",
+        "publication_time": "49 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371062",
+        "title": "Vibe Coder – A Parody of Downfall",
+        "story_url": "https://twitter.com/amitranjan/status/2090011590150287837",
+        "author": "vismit2000",
+        "publication_time": "53 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371056",
+        "title": "Ways to Smuggle SQLite into Nix",
+        "story_url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+        "author": "ingve",
+        "publication_time": "54 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371053",
+        "title": "NASA's Attempt to Save the Swift Telescope Has Failed",
+        "story_url": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
+        "author": "greenburger",
+        "publication_time": "55 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371043",
+        "title": "Jason Arday's Final Self-Delusion",
+        "story_url": "https://www.theatlantic.com/ideas/2026/08/jason-arday-death-lies-delusion/688311/",
+        "author": "pabo",
+        "publication_time": "56 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371035",
+        "title": "Why the Future Doesn't Need Us (2000)",
+        "story_url": "https://www.wired.com/2000/04/joy-2/",
+        "author": "naves",
+        "publication_time": "58 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371034",
+        "title": "LLM Reasoning Traces Are Not Audit Records",
+        "story_url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs/",
+        "author": "wakahiu",
+        "publication_time": "58 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49371006",
+        "title": "Windows brings out the Rorschach test in everyone",
+        "story_url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "author": "luu",
+        "publication_time": "1 hour ago",
+        "points": 53,
+        "comment_count": 7,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49370979",
+        "title": "Rising number of people seeking ADHD diagnosis without treatment, say experts",
+        "story_url": "https://www.theguardian.com/society/2026/aug/18/great-adhd-myth-rising-diagnosis-without-treatment",
+        "author": "theanonymousone",
+        "publication_time": "1 hour ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49370927",
+        "title": "The data center fight is heating up",
+        "story_url": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
+        "author": "1vuio0pswjnm7",
+        "publication_time": "1 hour ago",
+        "points": 6,
+        "comment_count": 1,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt16vxzu1eoc9ehiu2",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
