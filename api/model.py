@@ -52,6 +52,15 @@ class ViralityModel:
             raise FileNotFoundError(f"Feature list not found: {FEATURES_PATH}.")
 
         self.pipeline = joblib.load(MODEL_PATH)
+        # Compatibility patch for unpickling estimators across sklearn versions
+        if hasattr(self.pipeline, "named_steps"):
+            for step in self.pipeline.named_steps.values():
+                if not hasattr(step, "_fill_dtype"):
+                    if hasattr(step, "_fit_dtype"):
+                        step._fill_dtype = step._fit_dtype
+                    elif hasattr(step, "statistics_"):
+                        step._fill_dtype = getattr(step.statistics_, "dtype", np.float64)
+
         with open(FEATURES_PATH) as f:
             self.feature_cols: list[str] = json.load(f)
 

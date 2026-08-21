@@ -1,0 +1,312 @@
+[
+  {
+    "scraped_at": "2026-08-21T14:48:29.505Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49388154",
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "points": 160,
+        "time": "50 minutes ago",
+        "comments": 63,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49385994",
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.pk/blog/physical-destruction.html",
+        "points": 386,
+        "time": "4 hours ago",
+        "comments": 277,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49386163",
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "url": "https://api-docs.deepseek.com/guides/vision/",
+        "points": 281,
+        "time": "4 hours ago",
+        "comments": 86,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49387735",
+        "title": "What Happens When the Cost of Intelligence Drops 100x",
+        "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+        "points": 27,
+        "time": "1 hour ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49388446",
+        "title": "What We Lost When Search Stopped Making Us Think",
+        "url": "https://blog.8ball.space/what-we-lost-when-search/",
+        "points": 11,
+        "time": "31 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49387497",
+        "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+        "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+        "points": 213,
+        "time": "1 hour ago",
+        "comments": 86,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49387856",
+        "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+        "url": "https://arxiv.org/abs/2608.18214",
+        "points": 24,
+        "time": "1 hour ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49386659",
+        "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+        "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+        "points": 85,
+        "time": "3 hours ago",
+        "comments": 32,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49388095",
+        "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+        "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+        "points": 10,
+        "time": "54 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49387525",
+        "title": "We are living in a version of the future out of J.G. Ballard or William Gibson",
+        "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+        "points": 17,
+        "time": "1 hour ago",
+        "comments": 4,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49385860",
+        "title": "Small, native web tricks worth remembering",
+        "url": "https://htmlcat.net/",
+        "points": 153,
+        "time": "5 hours ago",
+        "comments": 36,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49387570",
+        "title": "I accidentally logged phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "points": 23,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49384896",
+        "title": "The Lost Treasure of Sid Meier's Pirates",
+        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+        "points": 194,
+        "time": "7 hours ago",
+        "comments": 111,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49386383",
+        "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+        "url": "https://github.com/yaroslav/kino",
+        "points": 42,
+        "time": "3 hours ago",
+        "comments": 8,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49388288",
+        "title": "Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest",
+        "url": "https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/",
+        "points": 9,
+        "time": "40 minutes ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49387433",
+        "title": "Yes/No/Cancel causes Aspirin sales to soar",
+        "url": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
+        "points": 14,
+        "time": "1 hour ago",
+        "comments": 5,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49387349",
+        "title": "DuckDB V2 PEG-based SQL parser",
+        "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+        "points": 13,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49321549",
+        "title": "John Berger: From Life by Tom Overton review – a vibrant biography",
+        "url": "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic",
+        "points": 5,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49331084",
+        "title": "Flat Chair by Sara Paculdo",
+        "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+        "points": 86,
+        "time": "6 hours ago",
+        "comments": 26,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49386877",
+        "title": "The road to ACID transactions in Cassandra 6",
+        "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
+        "points": 11,
+        "time": "2 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49388064",
+        "title": "Rama 0.4: System proxy and PAC support",
+        "url": "https://plabayo.tech/blog/rama-0-4",
+        "points": 6,
+        "time": "56 minutes ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49387687",
+        "title": "Convite",
+        "url": "https://www.guidavid.com/writing/convite",
+        "points": 8,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49384716",
+        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+        "url": "https://encore.dev/blog/firecracker-apple-silicon",
+        "points": 125,
+        "time": "7 hours ago",
+        "comments": 69,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49387755",
+        "title": "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
+        "url": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
+        "points": 36,
+        "time": "1 hour ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49378957",
+        "title": "The August 17 outage",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "points": 606,
+        "time": "19 hours ago",
+        "comments": 696,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49386699",
+        "title": "I'm Becoming AI-Blind",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "points": 58,
+        "time": "2 hours ago",
+        "comments": 50,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49387221",
+        "title": "Nothing Doing",
+        "url": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
+        "points": 6,
+        "time": "2 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49383582",
+        "title": "Micron announces $10B research hub in Boise",
+        "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+        "points": 91,
+        "time": "10 hours ago",
+        "comments": 36,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49385068",
+        "title": "Better Batteries",
+        "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "points": 34,
+        "time": "6 hours ago",
+        "comments": 18,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49319733",
+        "title": "The Mystery of Dark Oxygen",
+        "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+        "points": 39,
+        "time": "4 hours ago",
+        "comments": 11,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt32dt2n2f2hp5h9ta",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

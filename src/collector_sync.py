@@ -46,6 +46,9 @@ from pathlib import Path
 from typing import Any, Optional
 
 import requests
+from dotenv import load_dotenv
+load_dotenv()
+
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 

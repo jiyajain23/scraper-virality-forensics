@@ -15,11 +15,23 @@ env/
 
 # Sensitive credentials — NEVER commit these
 .env
+.env.*
 *.env
+*.env.*
+!.env.example
+frontend/.env
+frontend/.env.*
 
-# Bright Data collector state — contains collection IDs but no tokens.
-# You MAY commit this if you want state to persist across machines;
-# leave it gitignored if you want a fresh state per clone.
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.lovable/
+bun.lock
+bunfig.toml
+
+# Bright Data collector state
 data/.collector_state.json
 data/.collector_state.tmp
 

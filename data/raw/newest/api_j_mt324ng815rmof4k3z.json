@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-21T14:41:16.628Z",
+    "stories": [
+      {
+        "story_id": "49388870",
+        "title": "How HN: Naeos – an open-source engineering framework for AI coding agentsS",
+        "story_url": "https://github.com/NAEOS-foundation/naeos",
+        "author": "bayu911",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388867",
+        "title": "China joins Europe in scrapping Windows for Linux",
+        "story_url": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
+        "author": "CrankyBear",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388851",
+        "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+        "story_url": "https://text.npr.org/nx-s1-5939851",
+        "author": "DeepLogin",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388846",
+        "title": "DDR5 scalper bots outnumber shoppers 10 to 1, scraping hits every 6.5 seconds",
+        "story_url": "https://www.tomshardware.com/pc-components/ddr5/scalper-bots-now-outnumber-human-shoppers-10-to-1-on-one-retailers-ddr5-pages",
+        "author": "speckx",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388837",
+        "title": "Apple paid $17B in taxes to Ireland after court ruling on back levies",
+        "story_url": "https://www.ft.com/content/65fb0ad1-e4d5-43be-9dcf-f7aba1bea3a6",
+        "author": "geoffbp",
+        "publication_time": "2 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388835",
+        "title": "Ask HN: OpenCode no longer including DeepSeek?",
+        "story_url": "https://news.ycombinator.com/item?id=49388835",
+        "author": "dv35z",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49388830",
+        "title": "Cosine similarity is dead. Long live cosine similarity",
+        "story_url": "https://www.lighthousenewsletter.com/p/cosine-similarity-is-dead-long-live",
+        "author": "j0selit0",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388817",
+        "title": "Seeking Work (AI developer, Germany)",
+        "story_url": "https://walter-a-jablonowski.github.io/cv-en/",
+        "author": "walterjab",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388796",
+        "title": "Updates on WireGUI an open source WireGuard Server",
+        "story_url": "https://github.com/bartei/wiregui",
+        "author": "bartei81",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388785",
+        "title": "The Evolution of Beat 'Em Ups: From Arcade Cabinets to Digital Storefronts",
+        "story_url": "https://www.brothers-in-gaming.com/post/the-evolution-of-beat-em-ups-from-arcade-cabinets-to-digital-storefronts",
+        "author": "vinnyita",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388762",
+        "title": "Advanced AI Sycophancy",
+        "story_url": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+        "author": "gmays",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388759",
+        "title": "Familiar Stranger",
+        "story_url": "https://en.wikipedia.org/wiki/Familiar_stranger",
+        "author": "aragonite",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388753",
+        "title": "Show HN: A coding-agent workbench built around Matt Pocock's coding workflow",
+        "story_url": "https://github.com/ticketry-hq/ticketry-downloads/releases/download/0.2.0/Ticketry_0.2.0_aarch64.dmg",
+        "author": "chandramoulyKK",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388752",
+        "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+        "story_url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+        "author": "aakil",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388741",
+        "title": "The Dimensionality of Spacetime (1997)",
+        "story_url": "https://arxiv.org/pdf/gr-qc/9702052",
+        "author": "NeOchenHorosho",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388740",
+        "title": "Show HN: CLI to Churn Out CLIs",
+        "story_url": "https://github.com/chinmayrelkar/bawarchi",
+        "author": "Chnmy",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388724",
+        "title": "Transformation Failure, POM Before AI – Food for Agile Thought 558",
+        "story_url": "https://age-of-product.com/food-agile-thought-558-transformation-failure/",
+        "author": "swolpers",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388718",
+        "title": "Your Margin Is the AI Labs' Roadmap",
+        "story_url": "https://maxprilutskiy.com/p/your-margin-is-the-ai-labs-roadmap",
+        "author": "maxpr",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388709",
+        "title": "Show HN: Organizational Cognition: Why the Next AI Moat Won't Be Intelligence",
+        "story_url": "https://chinmayrelkar.github.io/writing/organizational-cognition.html",
+        "author": "Chnmy",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388700",
+        "title": "How Much Surveillance Are We Comfortable With?",
+        "story_url": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+        "author": "tysone",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388695",
+        "title": "A year of databases: how I fell in love with programming again",
+        "story_url": "https://dennypenta.github.io/mynameis/blog/year-databases-11",
+        "author": "dennypenta",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388694",
+        "title": "Zig's Io.Threaded Is Neat",
+        "story_url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "author": "chilipepperhott",
+        "publication_time": "11 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388689",
+        "title": "I Have Bad News If You Live Near Strancally Castle (Zuckerberg Bought It)",
+        "story_url": "https://gizmodo.com/i-have-bad-news-if-you-live-near-strancally-castle-zuckerberg-bought-it-2000801374",
+        "author": "ochrist",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388682",
+        "title": "WPD won't replace stolen Flock cameras, citing public trust",
+        "story_url": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
+        "author": "erikschoster",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388659",
+        "title": "Use prime numbers to schedule repeating tasks",
+        "story_url": "https://howonlee.github.io/2026/08/20/Use-20Prime-20Numbers-20to-20Schedule-20Repeating-20Tasks.html",
+        "author": "curuinor",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388641",
+        "title": "Cool Italian retro computing (in English)",
+        "story_url": "https://www.retromagazine.net/category/retromagazine-world/numeri-in-inglese/",
+        "author": "christkv",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388634",
+        "title": "Are We Thinking Correctly About AI Intelligence?",
+        "story_url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+        "author": "Brajeshwar",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388624",
+        "title": "Show HN: Code Zone – A fast, lightweight IDE under 100MB built in Python",
+        "story_url": "https://github.com/damixlord2-0/code-zone",
+        "author": "DamixLord",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388622",
+        "title": "Waymo Bringing Chinese EVs to American Streets",
+        "story_url": "https://gizmodo.com/waymo-is-bringing-chinese-evs-to-american-streets-2000801234",
+        "author": "bookofjoe",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388608",
+        "title": "Show HN: Parselbox – an embeddable Python sandbox for AI agents",
+        "story_url": "https://github.com/thesanjeetc/parselbox",
+        "author": "sanjeetc",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "show"
+      }
+    ],
+    "_api_collection_id": "j_mt324ng815rmof4k3z",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

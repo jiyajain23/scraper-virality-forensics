@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-21T14:31:18.542Z",
+    "stories": [
+      {
+        "story_id": "49388724",
+        "title": "Transformation Failure, POM Before AI – Food for Agile Thought 558",
+        "story_url": "https://age-of-product.com/food-agile-thought-558-transformation-failure/",
+        "author": "swolpers",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388718",
+        "title": "Your Margin Is the AI Labs' Roadmap",
+        "story_url": "https://maxprilutskiy.com/p/your-margin-is-the-ai-labs-roadmap",
+        "author": "maxpr",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388709",
+        "title": "Show HN: Organizational Cognition: Why the Next AI Moat Won't Be Intelligence",
+        "story_url": "https://chinmayrelkar.github.io/writing/organizational-cognition.html",
+        "author": "Chnmy",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388700",
+        "title": "How Much Surveillance Are We Comfortable With?",
+        "story_url": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+        "author": "tysone",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388695",
+        "title": "A year of databases: how I fell in love with programming again",
+        "story_url": "https://dennypenta.github.io/mynameis/blog/year-databases-11",
+        "author": "dennypenta",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388694",
+        "title": "Zig's Io.Threaded Is Neat",
+        "story_url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "author": "chilipepperhott",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388689",
+        "title": "I Have Bad News If You Live Near Strancally Castle (Zuckerberg Bought It)",
+        "story_url": "https://gizmodo.com/i-have-bad-news-if-you-live-near-strancally-castle-zuckerberg-bought-it-2000801374",
+        "author": "ochrist",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388682",
+        "title": "WPD won't replace stolen Flock cameras, citing public trust",
+        "story_url": "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html",
+        "author": "erikschoster",
+        "publication_time": "2 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388659",
+        "title": "Use prime numbers to schedule repeating tasks",
+        "story_url": "https://howonlee.github.io/2026/08/20/Use-20Prime-20Numbers-20to-20Schedule-20Repeating-20Tasks.html",
+        "author": "curuinor",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388641",
+        "title": "Cool Italian retro computing (in English)",
+        "story_url": "https://www.retromagazine.net/category/retromagazine-world/numeri-in-inglese/",
+        "author": "christkv",
+        "publication_time": "4 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388634",
+        "title": "Are We Thinking Correctly About AI Intelligence?",
+        "story_url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+        "author": "Brajeshwar",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388624",
+        "title": "Show HN: Code Zone – A fast, lightweight IDE under 100MB built in Python",
+        "story_url": "https://github.com/damixlord2-0/code-zone",
+        "author": "DamixLord",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388622",
+        "title": "Waymo Bringing Chinese EVs to American Streets",
+        "story_url": "https://gizmodo.com/waymo-is-bringing-chinese-evs-to-american-streets-2000801234",
+        "author": "bookofjoe",
+        "publication_time": "5 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388608",
+        "title": "Show HN: Parselbox – an embeddable Python sandbox for AI agents",
+        "story_url": "https://github.com/thesanjeetc/parselbox",
+        "author": "sanjeetc",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388602",
+        "title": "Acme Weather: From the Creators of Dark Sky",
+        "story_url": "https://acmeweather.com/app",
+        "author": "chabad360",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388595",
+        "title": "What if consciousness isn't hard to compute, but hard to evolve?",
+        "story_url": "https://saeidaliei.github.io/posts/consciousness-computability-decidability-evolvability/",
+        "author": "saliei",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388580",
+        "title": "An offline, free, private AI text detector with no signup or paywall",
+        "story_url": "https://capytoolkit.com/tools/text/offline-private-ai-text-detector/",
+        "author": "ChillyCapy",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388570",
+        "title": "Tap to Pay Is Coming to Walmart and Sam's Club",
+        "story_url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
+        "author": "ChrisArchitect",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388559",
+        "title": "Ask HN: How would you reach e-commerce developers to validate an project?",
+        "story_url": "https://github.com/openlinker-project/openlinker",
+        "author": "PeterSwierzy",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49388515",
+        "title": "Walmart to Begin Accepting Apple Pay in U.S. Stores",
+        "story_url": "https://www.macrumors.com/2026/08/21/walmart-to-begin-accepting-apple-pay-in-us/",
+        "author": "stalfosknight",
+        "publication_time": "10 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388503",
+        "title": "Show HN: Chipmunk – Desktop Log Viewer Written in Rust and Egui",
+        "story_url": "https://github.com/esrlabs/chipmunk",
+        "author": "ammar_az",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388458",
+        "title": "Show HN:Over 50 AI-assisted books on science fiction and original philosophy",
+        "story_url": "https://www.axiologic.net/books.html",
+        "author": "outfinity",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388446",
+        "title": "What We Lost When Search Stopped Making Us Think",
+        "story_url": "https://blog.8ball.space/what-we-lost-when-search/",
+        "author": "speckx",
+        "publication_time": "13 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388445",
+        "title": "Show HN: Oh My Subagents – Reusable, persistent runtime for subagents",
+        "story_url": "https://github.com/ringlochid/oh-my-subagents",
+        "author": "ringlochid",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388440",
+        "title": "Darth Vader Wants Flock in San Diego",
+        "story_url": "https://www.404media.co/darth-vader-spoke-in-support-of-flock-at-san-diego-city-council-meeting/",
+        "author": "wolfi1",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388417",
+        "title": "NASA abandons orbit-boost attempt to rescue Swift space telescope",
+        "story_url": "https://newatlas.com/space-systems/nasa-abandons-orbit-boost-attempt-rescue-swift-space-telescope/",
+        "author": "geox",
+        "publication_time": "15 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388411",
+        "title": "Riding the hype of outbid but for agentic payment x402",
+        "story_url": "https://basebid.lol/",
+        "author": "kevin11111",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388369",
+        "title": "America Is About to Get More Expensive",
+        "story_url": "https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html",
+        "author": "thelastgallon",
+        "publication_time": "17 minutes ago",
+        "points": 4,
+        "comment_count": 1,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388335",
+        "title": "Nvidia's Switchyard router reshuffles AI models mid-task to cut task costs",
+        "story_url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+        "author": "gmays",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388306",
+        "title": "An integrated approach to time and food (1990)",
+        "story_url": "https://girard.perso.math.cnrs.fr/mustard/article.html",
+        "author": "marvinborner",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt31rqj91evs8g4tv2",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

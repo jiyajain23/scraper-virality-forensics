@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-21T15:02:49.938Z",
+    "stories": [
+      {
+        "story_id": "49389191",
+        "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH",
+        "story_url": "https://www.ethanheilman.com/x/33/index.html",
+        "author": "birdculture",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389178",
+        "title": "AGI Will Set Off an Industrial Explosion",
+        "story_url": "https://newsletter.ai-frontiers.org/p/agi-will-set-off-an-industrial-explosion",
+        "author": "gmays",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389156",
+        "title": "A Plain File Todo System That Works for Me",
+        "story_url": "https://nkit.dev/blogs/plain_file_todo_system_that_works_for_me",
+        "author": "nkit",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389113",
+        "title": "Television to the Rescue Camille Acker on the Craft Potential of TV",
+        "story_url": "https://lithub.com/television-to-the-rescue-camille-acker-on-the-craft-potential-of-tv/",
+        "author": "ynac",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389062",
+        "title": "A Sloppy Interface Is a Security Liability",
+        "story_url": "https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/",
+        "author": "Brajeshwar",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389057",
+        "title": "U.S. Water Utility Cyberattacks: CISA Warns of Exposed PLCs in 2026",
+        "story_url": "https://cyberupdates365.com/u-s-water-utility-cyberattacks/",
+        "author": "udayhero",
+        "publication_time": "9 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389043",
+        "title": "Ruminations on Notifications",
+        "story_url": "https://dbushell.com/2026/08/20/ruminations-on-notifications/",
+        "author": "tobr",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389042",
+        "title": "Simply manage and search through your messy photos and screenshots on windows",
+        "story_url": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
+        "author": "ringlochid",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389017",
+        "title": "Longer meal intervals linked to faster disease accumulation in older adults",
+        "story_url": "https://news.ki.se/longer-meal-intervals-linked-to-faster-disease-accumulation-in-older-adults",
+        "author": "speckx",
+        "publication_time": "12 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49389001",
+        "title": "WhatsApp allows to see common lineage and first-upload timestamp of chat Media",
+        "story_url": "https://github.com/alejandrocora/WhatsAppMediaEnumeration",
+        "author": "alejandrocora",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388997",
+        "title": "Krissis 4.0 for better decision making",
+        "story_url": "https://news.ycombinator.com/item?id=49388997",
+        "author": "Kribtg",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49388996",
+        "title": "California's Refining Industry: A Recent History",
+        "story_url": "https://siepr.stanford.edu/publications/essay/californias-refining-industry-recent-history",
+        "author": "toomuchtodo",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388987",
+        "title": "Is the Smithsonian Trying to Destroy America?",
+        "story_url": "https://www.newyorker.com/culture/the-lede/is-the-smithsonian-really-trying-to-destroy-america",
+        "author": "rbanffy",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388981",
+        "title": "How Juniors learn the trade when an agent writes the code",
+        "story_url": "https://www.moystard.com/blog/ai-native-juniors/",
+        "author": "moystard",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388963",
+        "title": "I came to write THAT paper with Leslie Lamport",
+        "story_url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+        "author": "baruchel",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388959",
+        "title": "US Navy carrier honouring Black war hero to be renamed after Trump",
+        "story_url": "https://www.theguardian.com/us-news/2026/aug/21/navy-carrier-black-war-hero-trump-report",
+        "author": "Alien1Being",
+        "publication_time": "16 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388956",
+        "title": "America's First Legal Psilocybin Program Treated 346 People",
+        "story_url": "https://www.sciencealert.com/americas-first-legal-psilocybin-program-treated-346-people-heres-what-happened",
+        "author": "downbad_",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388946",
+        "title": "Chimpanzees Make the Same 'Laugh Faces' When They Emit Laughter and When Silent",
+        "story_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127337",
+        "author": "thunderbong",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388937",
+        "title": "The List That Forgets",
+        "story_url": "https://chazstevens.substack.com/p/the-list-that-forgets",
+        "author": "severine",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388930",
+        "title": "Pay-to-rank leaderboard exclusively for memecoins",
+        "story_url": "https://www.topmemecoin.cash/",
+        "author": "btsurgeo",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388918",
+        "title": "Show HN: Muteval – mutation testing for your LLM evals",
+        "story_url": "https://github.com/AshwinUgale/muteval",
+        "author": "Ashwin1121",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388913",
+        "title": "Moravec's Paradox",
+        "story_url": "https://en.wikipedia.org/wiki/Moravec%27s_paradox",
+        "author": "kensai",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388905",
+        "title": "Lego color wheels (and why build a grid instead)",
+        "story_url": "https://www.youtube.com/watch?v=7BXFFT0aPpE",
+        "author": "fanf2",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388896",
+        "title": "A two-month calendar on my Desktop",
+        "story_url": "https://leancrew.com/all-this/2026/08/a-two-month-calendar-on-my-desktop/",
+        "author": "surprisetalk",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388888",
+        "title": "Show HN: My thirds steam game (and it failed)",
+        "story_url": "https://store.steampowered.com/app/4943550/NOMSTERS/",
+        "author": "ibackstrom",
+        "publication_time": "21 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49388882",
+        "title": "Getting the Steam Deck LCD working on a Raspberry Pi",
+        "story_url": "https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/",
+        "author": "Brajeshwar",
+        "publication_time": "22 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388870",
+        "title": "How HN: Naeos – an open-source engineering framework for AI coding agentsS",
+        "story_url": "https://github.com/NAEOS-foundation/naeos",
+        "author": "bayu911",
+        "publication_time": "22 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388867",
+        "title": "China joins Europe in scrapping Windows for Linux",
+        "story_url": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
+        "author": "CrankyBear",
+        "publication_time": "22 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388851",
+        "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+        "story_url": "https://text.npr.org/nx-s1-5939851",
+        "author": "DeepLogin",
+        "publication_time": "23 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49388846",
+        "title": "DDR5 scalper bots outnumber shoppers 10 to 1, scraping hits every 6.5 seconds",
+        "story_url": "https://www.tomshardware.com/pc-components/ddr5/scalper-bots-now-outnumber-human-shoppers-10-to-1-on-one-retailers-ddr5-pages",
+        "author": "speckx",
+        "publication_time": "24 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt32wdr72retb1k0zr",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
