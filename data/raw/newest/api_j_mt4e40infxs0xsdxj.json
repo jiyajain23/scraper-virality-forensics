@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-22T13:04:37.477Z",
+    "stories": [
+      {
+        "story_id": "49399334",
+        "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+        "story_url": "https://knoku.com/",
+        "author": "knoku",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49399330",
+        "title": "I made a sweater from scratch (it made me insane) [video]",
+        "story_url": "https://www.youtube.com/watch?v=L7QMgbMlaek",
+        "author": "ot",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399305",
+        "title": "The 1991 Unnormalized Linear Transformer (ULTRA)",
+        "story_url": "https://people.idsia.ch/~juergen/1991-unnormalized-linear-transformer.html",
+        "author": "tosh",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399302",
+        "title": "Low-emission zones drive Vietnam's green vehicle transition",
+        "story_url": "https://eastasiaforum.org/2026/08/22/low-emission-zones-drive-vietnams-green-vehicle-transition/",
+        "author": "Meo_mean",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399282",
+        "title": "Show HN: I built a free ADHD test app on which millenials outperform genz on",
+        "story_url": "https://rawdog-one.vercel.app/",
+        "author": "dixitbavu",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49399276",
+        "title": "Code Doesn't Speak for Itself",
+        "story_url": "https://koenvangilst.nl/lab/code-doesnt-speak-for-itself",
+        "author": "vnglst",
+        "publication_time": "7 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399275",
+        "title": "FTC Targets Personalized Pricing, Stops Short of Ban",
+        "story_url": "https://www.consumerreports.org/money/prices-price-comparison/personalized-pricing-surveillance-ftc-policy-a9891636455/",
+        "author": "DeepLogin",
+        "publication_time": "7 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399254",
+        "title": "\"I randomly picked 5 universities and looked up sociology department faculty.\"",
+        "story_url": "https://www.drvinayprasad.com/p/10-thoughts-about-jason-arday-cambridge",
+        "author": "jmeister",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399242",
+        "title": "Why Social Media's Ad Dominance Is a Billion-Dollar Measurement Illusion",
+        "story_url": "https://www.adexchanger.com/content-studio/why-social-medias-ad-dominance-is-a-billion-dollar-measurement-illusion/",
+        "author": "dotcoma",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399224",
+        "title": "Espressif Releases Linux BSP for ESP32-S31 RISC-V Boards",
+        "story_url": "https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/",
+        "author": "jandeboevrie",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399218",
+        "title": "ADHD diagnoses and prescriptions have increased globally across all age groups",
+        "story_url": "https://theconversation.com/adhd-diagnoses-and-prescriptions-have-increased-globally-across-all-age-groups-our-review-shows-287724",
+        "author": "downbad_",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399205",
+        "title": "Apple cutting jobs from Siri, Vision Pro teams",
+        "story_url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+        "author": "DGAP",
+        "publication_time": "16 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399204",
+        "title": "Show HN: VinvAI runs and observes your services to find bugs and perf issues",
+        "story_url": "https://vinv.ai/",
+        "author": "itsAnshul",
+        "publication_time": "16 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49399190",
+        "title": "Show HN: hlquery, An open-source C++20 search engine",
+        "story_url": "https://github.com/hlquery/hlquery",
+        "author": "cfferry",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49399188",
+        "title": "Does herdr worth it? Harnesses like pi ship most of these features",
+        "story_url": "https://news.ycombinator.com/item?id=49399188",
+        "author": "abeauvois",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49399160",
+        "title": "How do ecommerce businesses handle reconciliation?",
+        "story_url": "https://news.ycombinator.com/item?id=49399160",
+        "author": "risly",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49399143",
+        "title": "Cells are fast and crowded places",
+        "story_url": "https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html",
+        "author": "ziofill",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399114",
+        "title": "No Thank You",
+        "story_url": "https://jsrn.net/personal/2026/08/21/no-thank-you.html",
+        "author": "adunk",
+        "publication_time": "29 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399101",
+        "title": "Eight-year study links more childhood screen time to better cognitive processing",
+        "story_url": "https://spacedaily.com/b-researchers-in-finland-tracked-childrens-screen-time-for-eight-years-expecting-to-document-the-damage-the-children-who-spent-more-hours-on-screens-showed-better-cognitive-processing-as-teenagers/",
+        "author": "floitsch",
+        "publication_time": "31 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399091",
+        "title": "The Cool Things of Gleam",
+        "story_url": "https://a.baez.link/3mtdbbp2dmc27",
+        "author": "birdculture",
+        "publication_time": "32 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399090",
+        "title": "Cleaning and Shaping the Airbnb Listings",
+        "story_url": "https://stochastic.blog/cleaning-and-shaping-the-airbnb-listings/",
+        "author": "Anon84",
+        "publication_time": "32 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399069",
+        "title": "Mark Zuckerberg Buys an Irish Castle",
+        "story_url": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+        "author": "bookofjoe",
+        "publication_time": "35 minutes ago",
+        "points": 4,
+        "comment_count": 3,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399053",
+        "title": "High-Throughput Lean 4 Autoformalization Model for Local Inference",
+        "story_url": "https://meshapplied.com/posts/lean4-autoformalization",
+        "author": "matteohorvath",
+        "publication_time": "37 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399051",
+        "title": "How to Fingerprint AI Models When Prompts Lie",
+        "story_url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
+        "author": "m00dy",
+        "publication_time": "37 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399040",
+        "title": "Why trauma changes how our memory engages with our conscious experience",
+        "story_url": "https://www.scientificamerican.com/article/why-trauma-changes-how-our-memory-engages-with-our-conscious-experience/",
+        "author": "beardyw",
+        "publication_time": "39 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399007",
+        "title": "Rich User Experience, UX and Desktopization of War",
+        "story_url": "https://contemporary-home-computing.org/RUE/",
+        "author": "matheusmoreira",
+        "publication_time": "44 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398987",
+        "title": "The faces behind the feeds: Gen Z's private lives and public posts – in pictures",
+        "story_url": "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures",
+        "author": "mellosouls",
+        "publication_time": "47 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398983",
+        "title": "A map of individual trees in NYC at the genus level",
+        "story_url": "https://nyctreegenusmap.com/",
+        "author": "geox",
+        "publication_time": "47 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398969",
+        "title": "A Step by Step Backpropagation Example",
+        "story_url": "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/",
+        "author": "Bluestein",
+        "publication_time": "49 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398966",
+        "title": "Claude Code Adds Concise Output Style Option",
+        "story_url": "https://digg.com/tech/fktxxvtg",
+        "author": "hmokiguess",
+        "publication_time": "49 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt4e40infxs0xsdxj",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

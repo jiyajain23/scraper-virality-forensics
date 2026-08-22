@@ -101,26 +101,66 @@ def best_posting_time():
     to identify the best hour (UTC) and day of week to post.
     """
     from src.live_feed import best_posting_time as _best_time
-    result = _best_time()
-    if not result:
+    raw = _best_time()
+    if not raw:
         raise HTTPException(status_code=503, detail="Processed data not available. Run src.ingest first.")
 
-    rec = result.get("recommendation", {})
+    # Build aliases WITHOUT mutating the lru_cache dict
+    original_rec = raw.get("recommendation", {})
     rec_obj = {
-        "day": rec.get("best_day"),
-        "day_of_week": rec.get("best_day"),
-        "hour": rec.get("best_hour_utc"),
-        "hour_utc": rec.get("best_hour_utc"),
-        "note": rec.get("note"),
+        "day":        original_rec.get("best_day"),
+        "day_of_week": original_rec.get("best_day"),
+        "hour":       original_rec.get("best_hour_utc"),
+        "hour_utc":   original_rec.get("best_hour_utc"),
+        "avg_points": None,  # filled below if available
+        "note":       original_rec.get("note"),
     }
-    result["best_window"] = rec_obj
-    result["recommended_window"] = rec_obj
-    result["recommendation"] = rec_obj
-    result["slots"] = result.get("hourly", [])
-    result["by_hour"] = result.get("hourly", [])
-    result["by_day"] = result.get("daily", [])
 
-    return result
+    # Enrich rec_obj.avg_points from hourly data
+    hourly = raw.get("hourly", [])
+    if rec_obj["hour_utc"] is not None:
+        for h in hourly:
+            if h.get("hour_utc") == rec_obj["hour_utc"]:
+                rec_obj["avg_points"] = h.get("avg_points")
+                break
+
+    # Normalise hourly slots: each item → {day_label, hour_utc, hour, avg_points, story_count}
+    # (Frontend PostingWindow reads slot.day and slot.hour)
+    hourly_slots = [
+        {
+            "hour_utc":    h.get("hour_utc"),
+            "hour":        h.get("hour_utc"),
+            "day":         f"{h.get('hour_utc', 0):02d}:00 UTC",
+            "avg_points":  h.get("avg_points"),
+            "story_count": h.get("story_count"),
+        }
+        for h in hourly
+    ]
+
+    # Normalise daily slots: each item → {day, day_of_week, avg_points, story_count}
+    daily_slots = [
+        {
+            "day":         d.get("day"),
+            "day_of_week": d.get("day"),
+            "avg_points":  d.get("avg_points"),
+            "story_count": d.get("story_count"),
+        }
+        for d in raw.get("daily", [])
+    ]
+
+    return {
+        "hourly":             hourly,
+        "daily":              raw.get("daily", []),
+        "data_note":          raw.get("data_note", ""),
+        # Frontend-compatible aliases
+        "best_window":        rec_obj,
+        "recommended_window": rec_obj,
+        "recommendation":     rec_obj,
+        # slots for the timeline grid (show daily by default, fall back to hourly)
+        "slots":   daily_slots if daily_slots else hourly_slots,
+        "by_day":  daily_slots,
+        "by_hour": hourly_slots,
+    }
 
 
 @router.get(

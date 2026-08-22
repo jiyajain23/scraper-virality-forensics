@@ -187,4 +187,9 @@ def health():
         "model": "final_logistic_regression_15min.joblib",
         "version": "v1",
         "auth_enabled": bool(os.environ.get("VIRALITY_API_KEY")),
+        "collectors": {
+            "newest":     "c_msxgknap1ptjrrcetr",
+            "front_page": "c_msxfwz2h1v0fxwlu83",
+        },
+        "bright_data_trigger_url": "https://api.brightdata.com/dca/trigger",
     }

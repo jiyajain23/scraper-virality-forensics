@@ -1,0 +1,312 @@
+[
+  {
+    "scraped_at": "2026-08-22T14:42:13.403Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49399524",
+        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+        "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+        "points": 61,
+        "time": "1 hour ago",
+        "comments": 11,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49398152",
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "points": 130,
+        "time": "4 hours ago",
+        "comments": 45,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49399591",
+        "title": "The New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "points": 18,
+        "time": "1 hour ago",
+        "comments": 9,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49398158",
+        "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "points": 59,
+        "time": "4 hours ago",
+        "comments": 28,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49398904",
+        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+        "points": 98,
+        "time": "2 hours ago",
+        "comments": 29,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49398710",
+        "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+        "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+        "points": 14,
+        "time": "3 hours ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49399898",
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "points": 3,
+        "time": "32 minutes ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49393052",
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "url": "https://rust-glancer.github.io/blog/hello-world/",
+        "points": 328,
+        "time": "14 hours ago",
+        "comments": 67,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49389430",
+        "title": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "points": 775,
+        "time": "23 hours ago",
+        "comments": 304,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49390427",
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "points": 604,
+        "time": "22 hours ago",
+        "comments": 193,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49391168",
+        "title": "Show HN: Rotation via Double Reflection",
+        "url": "https://static.laszlokorte.de/rotor-reflect/",
+        "points": 3,
+        "time": "1 hour ago",
+        "comments": 0,
+        "story_type": "Show HN"
+      },
+      {
+        "rank": 12,
+        "story_id": "49398304",
+        "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+        "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+        "points": 534,
+        "time": "4 hours ago",
+        "comments": 460,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49386895",
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "points": 901,
+        "time": "1 day ago",
+        "comments": 1088,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49387570",
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "points": 601,
+        "time": "1 day ago",
+        "comments": 78,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49395628",
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "points": 536,
+        "time": "13 hours ago",
+        "comments": 383,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49384210",
+        "title": "Stop Making TUIs",
+        "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "points": 251,
+        "time": "22 hours ago",
+        "comments": 329,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49388154",
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "points": 1185,
+        "time": "1 day ago",
+        "comments": 371,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49388694",
+        "title": "Zig’s Io.Threaded is neat",
+        "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "points": 110,
+        "time": "13 hours ago",
+        "comments": 64,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49391553",
+        "title": "OTel isn’t going well",
+        "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "points": 166,
+        "time": "16 hours ago",
+        "comments": 67,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49394496",
+        "title": "Three important steps in my maturation process",
+        "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+        "points": 183,
+        "time": "16 hours ago",
+        "comments": 82,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49392200",
+        "title": "Scientists release biggest 2D map of the universe",
+        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "points": 225,
+        "time": "20 hours ago",
+        "comments": 61,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49392099",
+        "title": "How Thailand Resisted Colonization",
+        "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+        "points": 68,
+        "time": "9 hours ago",
+        "comments": 20,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49357530",
+        "title": "AI boosted homework scores, then exam scores dropped: study",
+        "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+        "points": 341,
+        "time": "22 hours ago",
+        "comments": 342,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49391661",
+        "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+        "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+        "points": 55,
+        "time": "10 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49399941",
+        "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "points": 5,
+        "time": "28 minutes ago",
+        "comments": 1,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49388752",
+        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+        "points": 316,
+        "time": "1 day ago",
+        "comments": 199,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49386699",
+        "title": "I'm becoming AI-blind",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "points": 426,
+        "time": "1 day ago",
+        "comments": 434,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49376769",
+        "title": "Everyone says assembly is untyped—everyone is wrong",
+        "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "points": 115,
+        "time": "17 hours ago",
+        "comments": 52,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49327408",
+        "title": "People of ACM – Russ Cox",
+        "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+        "points": 149,
+        "time": "20 hours ago",
+        "comments": 17,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49391348",
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "url": "https://interconnected.org/home/2026/08/21/galactic",
+        "points": 21,
+        "time": "7 hours ago",
+        "comments": 3,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt4hlpf92c6d6i0q8i",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]
