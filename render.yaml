@@ -1,0 +1,38 @@
+services:
+  # ---------------------------------------------
+  # Backend — FastAPI + Uvicorn
+  # ---------------------------------------------
+  - type: web
+    name: virality-forensics-api
+    runtime: python
+    plan: free                       # upgrade to starter for always-on
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11"
+      - key: BRIGHTDATA_API_TOKEN
+        sync: false                  # set this manually in Render dashboard
+      - key: VIRALITY_API_KEY
+        sync: false                  # optional — leave blank to disable auth
+
+  # ---------------------------------------------
+  # Frontend — Vite + React (Static Site)
+  # ---------------------------------------------
+  - type: web
+    name: virality-forensics-frontend
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    rootDir: frontend
+    envVars:
+      - key: VITE_API_URL
+        # After the backend deploys, paste its URL here, e.g.:
+        # https://virality-forensics-api.onrender.com
+        value: https://virality-forensics-api.onrender.com
+      - key: VITE_API_KEY
+        sync: false                  # only needed if VIRALITY_API_KEY is set on backend
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html    # required for client-side routing (TanStack Router)
