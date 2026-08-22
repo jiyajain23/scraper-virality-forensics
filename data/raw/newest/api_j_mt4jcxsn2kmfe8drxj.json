@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-22T15:31:21.039Z",
+    "stories": [
+      {
+        "story_id": "49400742",
+        "title": "Grasp: Simple protocol for code collaboration that uses interoperable servers",
+        "story_url": "https://gitgrasp.com/",
+        "author": "Bluestein",
+        "publication_time": "3 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400729",
+        "title": "Song (server of Nostr-powered Git) is a simple personal Git server",
+        "story_url": "https://gitworkshop.dev/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6/song",
+        "author": "Bluestein",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400709",
+        "title": "Does Python still need to be async-first?",
+        "story_url": "https://blog.grandimam.com/posts/does-python-still-need-to-be-async-first/",
+        "author": "grandimam",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400691",
+        "title": "Self-host your own software factory",
+        "story_url": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+        "author": "flashbrew",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400676",
+        "title": "Model Genome: Fingerprinting Whether an LLM Was Trained from Scratch or Derived",
+        "story_url": "https://huggingface.co/blog/mayafree/model-dna",
+        "author": "gmays",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400671",
+        "title": "Show HN: ClearVoice TTS, SOTA voice cloning model running offline, in an iOS app",
+        "story_url": "https://apps.apple.com/ie/app/clearvoice-text-to-speech/id6798899505",
+        "author": "roryclear",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400662",
+        "title": "Multi-Agent Harness for Visual Design",
+        "story_url": "https://github.com/EightPotions/Myli",
+        "author": "yelboudouri",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400658",
+        "title": "The Rise of the Sovereign Individual",
+        "story_url": "https://dergigi.com/2019/08/22/the-rise-of-the-sovereign-individual/",
+        "author": "Bluestein",
+        "publication_time": "11 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400643",
+        "title": "New physics: LBL/Davis showing fusion persists at ultra low energies",
+        "story_url": "https://physicsworld.com/a/nuclear-fusion-persists-at-ultralow-energies-inside-metal-foils/",
+        "author": "redwood",
+        "publication_time": "13 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400639",
+        "title": "ssh sshfighter.com",
+        "story_url": "https://sshfighter.com/?hn",
+        "author": "thomasfromcdnjs",
+        "publication_time": "14 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400636",
+        "title": "Show HN: Free Vision TUI Library for Go",
+        "story_url": "https://github.com/oldwired/fv-go",
+        "author": "omnibrain",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400634",
+        "title": "Terence Tao: Understanding 6 essential mathematical concepts",
+        "story_url": "https://bigthink.com/series/full-interview/6-essential-mathematical-concepts/",
+        "author": "ferryth",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400626",
+        "title": "Omikron Game Data Explorer",
+        "story_url": "https://github.com/razodactyl/mod-omikron-tools",
+        "author": "razodactyl",
+        "publication_time": "14 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400604",
+        "title": "A correct Android answer can still fail the interview",
+        "story_url": "https://salari.dev/writing/a-correct-android-answer-can-still-fail/",
+        "author": "salari_dev",
+        "publication_time": "16 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400587",
+        "title": "The Remarkable Lives of 5-Year-Old Brain Organoids",
+        "story_url": "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120",
+        "author": "Brajeshwar",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400581",
+        "title": "Success = (number of attempts) × (probability of success each time)",
+        "story_url": "https://www.thetrueengineer.com/p/success-number-of-attempts-probability",
+        "author": "adletbalzhanov",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400566",
+        "title": "Show HN: VRAM calculator that counts the text encoder, not just the weights",
+        "story_url": "https://nerdylive123.github.io/vram-calculator/clean/",
+        "author": "Aadi1277",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400551",
+        "title": "Show HN: Turn photos into the 'silly crayon drawing' style trending in Korea",
+        "story_url": "https://somodus.com/store/agent/6a86eba3c9ad1102ef19eae7-silly-cute-turn-animals-people-and-objects-into-adorable-han",
+        "author": "eric2025",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400526",
+        "title": "Deterministic simulation testing for Python asyncio",
+        "story_url": "https://github.com/klimavojtech2002/seedloop",
+        "author": "klimavojtech200",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400484",
+        "title": "An Explanation",
+        "story_url": "https://ticci.craft.me/explanation",
+        "author": "tosh",
+        "publication_time": "27 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400472",
+        "title": "An Afternoon in Tokyo with the Man Who Designs Casio G-Shock Watches (2017)",
+        "story_url": "https://www.ablogtowatch.com/tokyo-man-designs-casio-g-shock-watches-ryusuke-moriai/",
+        "author": "bookofjoe",
+        "publication_time": "28 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400467",
+        "title": "DARPA Lift challenge – lift 200 lbs with 55 lb drone",
+        "story_url": "https://www.youtube.com/watch?v=zjSditBf-pU",
+        "author": "lifeisstillgood",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400459",
+        "title": "Show HN: Find and Organize Photos with Private, Local AI",
+        "story_url": "https://ringlochid.me/imagesage/index.html",
+        "author": "ringlochid",
+        "publication_time": "30 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400455",
+        "title": "DeepSeek API: weekend usage now billed at off-peak rates all day",
+        "story_url": "https://news.ycombinator.com/item?id=49400455",
+        "author": "saprolino",
+        "publication_time": "31 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49400434",
+        "title": "Guildrun Tier List – Best Builds (Demo 0.5.5)",
+        "story_url": "https://guildrunhub.online/tier-list/",
+        "author": "bitvvip",
+        "publication_time": "34 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400420",
+        "title": "TT-AMX, a zero-copy Tensor-Train inference engine for Apple Silicon",
+        "story_url": "https://github.com/ansarzeinulla/tensor-train-amx",
+        "author": "ansikz",
+        "publication_time": "35 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400408",
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "story_url": "https://quantumi.sh/public/labs.html",
+        "author": "jemoka",
+        "publication_time": "36 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400406",
+        "title": "Show HN: Figranium – Build browser tasks visually, execute via API (Dockerized)",
+        "story_url": "https://github.com/figranium/figranium",
+        "author": "asernasr",
+        "publication_time": "36 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400356",
+        "title": "Logging Back into Facebook",
+        "story_url": "https://default.blog/p/logging-back-into-facebook",
+        "author": "jger15",
+        "publication_time": "40 minutes ago",
+        "points": 5,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400307",
+        "title": "Claude Watermarks AI-Generated Text",
+        "story_url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+        "author": "vismit2000",
+        "publication_time": "45 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt4jcxsn2kmfe8drxj",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

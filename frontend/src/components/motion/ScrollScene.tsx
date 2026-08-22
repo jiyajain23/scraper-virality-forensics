@@ -34,7 +34,7 @@ export function ScrollLift({
   const progress = useSmoothProgress(ref, ["start 0.95", "end 0.35"]);
   const y = useTransform(progress, [0, 1], [distance, 0]);
   const opacity = useTransform(progress, [0, 0.55, 1], [0, 0.85, 1]);
-  const blurValue = useTransform(progress, [0, 0.7], [8, 0]);
+  const blurValue = useTransform(progress, [0, 0.15], [8, 0]);
   const filter = useTransform(blurValue, (v) => `blur(${v}px)`);
 
   return (

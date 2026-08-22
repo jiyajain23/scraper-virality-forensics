@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-22T14:51:46.830Z",
+    "stories": [
+      {
+        "story_id": "49400356",
+        "title": "Logging Back into Facebook",
+        "story_url": "https://default.blog/p/logging-back-into-facebook",
+        "author": "jger15",
+        "publication_time": "1 minute ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400307",
+        "title": "Claude Watermarks AI-Generated Text",
+        "story_url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+        "author": "vismit2000",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400294",
+        "title": "Coding was never the hard part",
+        "story_url": "https://ulveon.net/p/2026-08-13-coding-was-never-the-hard-part/",
+        "author": "signa11",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400264",
+        "title": "Harvard's A.I. Clones Will Hear Your Startup Pitch Now",
+        "story_url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+        "author": "mitchbob",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400261",
+        "title": "A short essay on the times we're living in",
+        "story_url": "https://michelangelogubinelli.com/essays-and-dissertations/when-the-room-is-in-motion/",
+        "author": "minimagate",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400220",
+        "title": "Thunder + fiber-optic cabling used for seismic imaging",
+        "story_url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+        "author": "Brajeshwar",
+        "publication_time": "14 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400211",
+        "title": "AI agents merged two dangers once kept separate: reach and judgment",
+        "story_url": "https://syntheticauth.ai/posts/agent-nation-03-the-threshold",
+        "author": "zerolayers",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400205",
+        "title": "Ask HN: Why do devs still respect YC/HN?",
+        "story_url": "https://news.ycombinator.com/item?id=49400205",
+        "author": "LowTechHN",
+        "publication_time": "15 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49400182",
+        "title": "Project Ara (Google's attempt at a modular smartphone)",
+        "story_url": "https://en.wikipedia.org/wiki/Project_Ara",
+        "author": "merek",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400178",
+        "title": "Hot Take: Harness, Loop Engineering, Graph Engineering Are Bullshit",
+        "story_url": "https://akitaonrails.com/en/2026/08/18/hot-take-harness-loop-engineering-graph-engineering-are-bullshit/",
+        "author": "evacilei",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400163",
+        "title": "Will the Open Internet Survive the War on Bots?",
+        "story_url": "https://cdt.org/insights/will-the-open-internet-survive-the-war-on-bots-mapping-the-debate-over-ai-preferences/",
+        "author": "jruohonen",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400137",
+        "title": "Show HN: Get Your IP Address",
+        "story_url": "https://ip.ysebie.be/",
+        "author": "whizzx",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49400121",
+        "title": "OpenLogi: Native, local-first alternative to Logitech Options+, written in Rust",
+        "story_url": "https://github.com/AprilNEA/OpenLogi",
+        "author": "taubek",
+        "publication_time": "22 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400110",
+        "title": "Janus, a native Linux GTK3 text editor",
+        "story_url": "https://github.com/gholmann16/Janus",
+        "author": "gholmann16",
+        "publication_time": "23 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400077",
+        "title": "Delivery drivers will get minimum wage in Australia's 'world-first' deal",
+        "story_url": "https://www.theguardian.com/business/2026/aug/16/delivery-drivers-will-get-a-minimum-wage-in-australias-world-first-deal-but-is-it-fair-and-will-your-uber-eats-cost-more",
+        "author": "tcp_handshaker",
+        "publication_time": "26 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400072",
+        "title": "Using a shock collar to stop myself doomscrolling",
+        "story_url": "https://011.sh/posts/pavlov/",
+        "author": "mooncakes_ooohh",
+        "publication_time": "27 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400008",
+        "title": "The Hidden History of the Western Esoteric Tradition",
+        "story_url": "https://www.marymacgregor-reid.com/writing/occult-the-hidden-history-of-the-western-esoteric-tradition",
+        "author": "jruohonen",
+        "publication_time": "31 minutes ago",
+        "points": 3,
+        "comment_count": 3,
+        "rank": 17,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49400000",
+        "title": "The Next China Shock Is Here",
+        "story_url": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
+        "author": "thelastgallon",
+        "publication_time": "32 minutes ago",
+        "points": 4,
+        "comment_count": 1,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399976",
+        "title": "Meta's Big Reckoning Is Here",
+        "story_url": "https://www.wired.com/story/metas-big-reckoning-is-here/",
+        "author": "rblion",
+        "publication_time": "34 minutes ago",
+        "points": 2,
+        "comment_count": 1,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399974",
+        "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+        "story_url": "https://arxiv.org/abs/2608.13573",
+        "author": "1a1a11a",
+        "publication_time": "35 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399964",
+        "title": "Hootsuite Leaked AWS Keys",
+        "story_url": "https://lunarcyber.com/domain-exposure/hootsuite.com",
+        "author": "freemh",
+        "publication_time": "35 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399954",
+        "title": "80% of developers find AI coding more addictive than helpful",
+        "story_url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+        "author": "theanonymousone",
+        "publication_time": "36 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399947",
+        "title": "Two things I've learned from game development as a web developer",
+        "story_url": "https://codeutopia.net/blog/2026/08/22/two-things-ive-learned-from-game-development/",
+        "author": "theanonymousone",
+        "publication_time": "37 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399942",
+        "title": "Show HN: Knowl – CLAUDE.md hit 1000 lines, so I built memory that prunes itself",
+        "story_url": "https://github.com/dat999zx/knowl",
+        "author": "dat999zx",
+        "publication_time": "38 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 24,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49399941",
+        "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+        "story_url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "author": "theanonymousone",
+        "publication_time": "38 minutes ago",
+        "points": 7,
+        "comment_count": 3,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399928",
+        "title": "Show HN: 3D Engine for Rust Programs",
+        "story_url": "https://github.com/David-OConnor/graphics",
+        "author": "the__alchemist",
+        "publication_time": "39 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49399915",
+        "title": "Always-On Agent Computers for Supabase",
+        "story_url": "https://sanbox.cloud/blog/always-on-sanbox-computers-for-supabase/",
+        "author": "oryx1729",
+        "publication_time": "41 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399898",
+        "title": "A Friendly Introduction to Racket",
+        "story_url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "author": "signa11",
+        "publication_time": "43 minutes ago",
+        "points": 8,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399887",
+        "title": "StateM: Stateful control for long-horizon agents",
+        "story_url": "https://github.com/henryqin1997/statem",
+        "author": "johntrob14",
+        "publication_time": "44 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49399868",
+        "title": "Freud in the Age of Therapy-Speak",
+        "story_url": "https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/freud-in-the-age-of-therapy-speak",
+        "author": "DiscourseFan",
+        "publication_time": "46 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt4hy0mn1ko7smrt57",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
