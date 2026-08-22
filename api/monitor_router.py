@@ -199,14 +199,32 @@ def monitor_story(
     result = model.predict_one(features)
     p = result["p_viral"]
 
+    prev_p = previous_snap.get("p_viral") if previous_snap else None
+    prob_delta = round(p - prev_p, 4) if prev_p is not None else 0.0
+
     # Build snapshot to cache
+    now_iso = datetime.now(timezone.utc).isoformat()
     snap = {
         "story_age_minutes": age_min,
+        "age_minutes":       age_min,
         "points":            story.get("points", 0),
         "comment_count":     story.get("comment_count", 0),
+        "num_comments":      story.get("comment_count", 0),
+        "comments":          story.get("comment_count", 0),
         "estimated_rank":    story.get("estimated_rank"),
+        "rank":              story.get("estimated_rank"),
+        "approx_rank":       story.get("estimated_rank"),
         "p_viral":           p,
-        "fetched_at":        datetime.now(timezone.utc).isoformat(),
+        "viral_probability": p,
+        "probability":       p,
+        "points_velocity":   features.get("points_velocity"),
+        "comments_velocity": features.get("comments_velocity"),
+        "rank_change":       features.get("rank_change"),
+        "engagement_ratio":  features.get("engagement_ratio"),
+        "observed_at":       now_iso,
+        "timestamp":         now_iso,
+        "time":              now_iso,
+        "fetched_at":        now_iso,
     }
     _save_snapshot(story_id, snap)
 
@@ -217,17 +235,42 @@ def monitor_story(
         "story_id":              story_id,
         "title":                 story.get("title", ""),
         "url":                   story.get("url", ""),
+        # Points & comments aliases
+        "points":                story.get("points", 0),
         "current_points":        story.get("points", 0),
+        "comments":              story.get("comment_count", 0),
+        "num_comments":          story.get("comment_count", 0),
         "current_comments":      story.get("comment_count", 0),
+        # Rank aliases
+        "rank":                  story.get("estimated_rank"),
+        "approx_rank":           story.get("estimated_rank"),
         "estimated_rank":        story.get("estimated_rank"),
+        # Age
+        "age_minutes":           age_min,
         "story_age_minutes":     age_min,
+        # Probabilities
         "p_viral":               p,
+        "viral_probability":     p,
+        "probability":           p,
+        "previous_probability":  prev_p,
+        "probability_delta":     prob_delta,
+        "delta":                 prob_delta,
         "prediction_default":    result["prediction_default"],
         "prediction_f1_optimal": result["prediction_f1_optimal"],
+        # Trajectory
+        "trajectory":            trend.replace(" ↑", "").replace(" ↓", "").replace(" →", ""),
         "trend":                 trend,
         "message":               message,
+        # Velocities & features
+        "points_velocity":       features.get("points_velocity"),
+        "comments_velocity":     features.get("comments_velocity"),
+        "rank_change":           features.get("rank_change"),
+        "engagement_ratio":      features.get("engagement_ratio"),
+        "features":              features,
         "features_used":         {k: v for k, v in features.items() if v is not None},
         "snapshots_recorded":    len(_load_snapshots(story_id)),
+        "observed_at":           now_iso,
+        "timestamp":             now_iso,
         "model_note": (
             "p_viral = P(top-20% engagement, Label B). "
             "Threshold 0.778 = F1-optimal. Threshold 0.50 = default. "
@@ -253,13 +296,15 @@ def monitor_history(story_id: str):
                    "Call GET /api/v1/monitor/{story_id} first.",
         )
     return {
-        "story_id":   story_id,
-        "snapshots":  len(history),
-        "first_seen": history[0].get("fetched_at"),
-        "last_seen":  history[-1].get("fetched_at"),
+        "story_id":        story_id,
+        "snapshots":       len(history),
+        "count":           len(history),
+        "first_seen":      history[0].get("fetched_at"),
+        "last_seen":       history[-1].get("fetched_at"),
         "current_p_viral": history[-1].get("p_viral"),
-        "trend":      _trend_label(history),
-        "history":    history,
+        "trend":           _trend_label(history),
+        "history":         history,
+        "entries":         history,
     }
 
 

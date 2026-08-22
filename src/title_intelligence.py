@@ -339,7 +339,13 @@ def score_title(title: str) -> dict:
                 if sims[idx] >= 0.08:
                     s_item = dict(stories_ref[idx])
                     s_item["similarity_score"] = round(float(sims[idx]), 2)
+                    s_item["similarity"] = round(float(sims[idx]), 2)
+                    s_item["score"] = round(float(sims[idx]), 2)
                     s_item["match_percentage"] = f"{int(sims[idx] * 100)}%"
+                    s_item["points"] = s_item.get("peak_points")
+                    s_item["url"] = s_item.get("story_url")
+                    s_item["comments"] = s_item.get("comment_count", 0)
+                    s_item["num_comments"] = s_item.get("comment_count", 0)
                     similar_successful.append(s_item)
                 if len(similar_successful) >= 3:
                     break
@@ -353,7 +359,13 @@ def score_title(title: str) -> dict:
             if title_phrases & s_phrases:
                 s_copy = dict(s)
                 s_copy["similarity_score"] = 0.15
+                s_copy["similarity"] = 0.15
+                s_copy["score"] = 0.15
                 s_copy["match_percentage"] = "15%"
+                s_copy["points"] = s_copy.get("peak_points")
+                s_copy["url"] = s_copy.get("story_url")
+                s_copy["comments"] = s_copy.get("comment_count", 0)
+                s_copy["num_comments"] = s_copy.get("comment_count", 0)
                 similar_successful.append(s_copy)
             if len(similar_successful) >= 3:
                 break
@@ -367,8 +379,12 @@ def score_title(title: str) -> dict:
         timing = best_posting_time()
         rec = timing.get("recommendation", {})
         best_time = {
+            "day":           rec.get("best_day"),
             "best_day":      rec.get("best_day"),
+            "hour":          rec.get("best_hour_utc"),
+            "hour_utc":      rec.get("best_hour_utc"),
             "best_hour_utc": rec.get("best_hour_utc"),
+            "avg_points":    rec.get("avg_points"),
             "note":          rec.get("note", ""),
             "data_note":     timing.get("data_note", ""),
         }
@@ -378,11 +394,20 @@ def score_title(title: str) -> dict:
     return {
         "title":                      title,
         "pattern_score":              pattern_score,
+        "score":                      pattern_score,
+        "structural_score":           pattern_score,
+        "title_length":               feats["length_chars"],
+        "title_word_count":           feats["word_count"],
         "raw_features":               feats,
         "matched_keyphrases":         matched_phrases,
+        "matched_phrases":            matched_phrases,
+        "matched_topics":             matched_phrases,
         "flags":                      flags,
+        "structural_flags":           flags,
         "similar_successful_titles":  similar_successful,
+        "similar_stories":            similar_successful,
         "best_posting_time":          best_time,
+        "recommended_posting_time":   best_time,
         "corpus_info": {
             "total_stories":      corpus["corpus_size"],
             "high_engagement_n":  corpus["high_engagement_n"],

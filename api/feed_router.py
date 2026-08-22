@@ -40,11 +40,25 @@ def trending_keywords(
     and story count.  Uses already-collected raw snapshot files — no new API call.
     """
     from src.live_feed import trending_keywords as _trending
-    results = _trending(max_age_hours=hours, top_n=top_n)
+    raw_results = _trending(max_age_hours=hours, top_n=top_n)
+
+    # Format items with frontend aliases
+    topics = []
+    for t in raw_results:
+        item = dict(t)
+        item["topic"] = t["keyword"]
+        item["phrase"] = t["keyword"]
+        item["score"] = t["total_points"]
+        item["count"] = t["story_count"]
+        item["points"] = t["total_points"]
+        topics.append(item)
+
     return {
         "window_hours": hours,
-        "count": len(results),
-        "trending": results,
+        "hours": hours,
+        "count": len(topics),
+        "topics": topics,
+        "trending": topics,
         "note": "Based on locally collected /newest snapshots. Refresh by running collector_sync.",
     }
 
@@ -62,10 +76,17 @@ def domain_leaderboard(
     Only domains with ≥2 stories in the corpus are included.
     """
     from src.live_feed import domain_leaderboard as _domains
-    results = _domains(top_n=top_n)
+    raw_results = _domains(top_n=top_n)
+    domains = []
+    for d in raw_results:
+        item = dict(d)
+        item["avg_points"] = d.get("avg_peak_points")
+        item["count"] = d.get("story_count")
+        domains.append(item)
+
     return {
-        "count": len(results),
-        "domains": results,
+        "count": len(domains),
+        "domains": domains,
         "note": "Average peak points per domain across the full collected corpus.",
     }
 
@@ -83,6 +104,22 @@ def best_posting_time():
     result = _best_time()
     if not result:
         raise HTTPException(status_code=503, detail="Processed data not available. Run src.ingest first.")
+
+    rec = result.get("recommendation", {})
+    rec_obj = {
+        "day": rec.get("best_day"),
+        "day_of_week": rec.get("best_day"),
+        "hour": rec.get("best_hour_utc"),
+        "hour_utc": rec.get("best_hour_utc"),
+        "note": rec.get("note"),
+    }
+    result["best_window"] = rec_obj
+    result["recommended_window"] = rec_obj
+    result["recommendation"] = rec_obj
+    result["slots"] = result.get("hourly", [])
+    result["by_hour"] = result.get("hourly", [])
+    result["by_day"] = result.get("daily", [])
+
     return result
 
 
@@ -105,10 +142,21 @@ def similar_stories(
         raise HTTPException(status_code=422, detail="topic must be a non-empty string")
 
     from src.live_feed import similar_stories as _similar
-    results = _similar(topic=topic, max_age_hours=hours, top_n=top_n)
+    raw_results = _similar(topic=topic, max_age_hours=hours, top_n=top_n)
+
+    stories = []
+    for s in raw_results:
+        item = dict(s)
+        item["url"] = s.get("story_url")
+        item["comments"] = s.get("comment_count", 0)
+        item["num_comments"] = s.get("comment_count", 0)
+        stories.append(item)
+
     return {
         "topic":        topic,
         "window_hours": hours,
-        "count":        len(results),
-        "stories":      results,
+        "hours":        hours,
+        "count":        len(stories),
+        "stories":      stories,
+        "results":      stories,
     }

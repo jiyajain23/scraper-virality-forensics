@@ -1,0 +1,312 @@
+[
+  {
+    "scraped_at": "2026-08-22T11:38:16.150Z",
+    "stories": [
+      {
+        "rank": 1,
+        "story_id": "49398304",
+        "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+        "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+        "points": 157,
+        "time": "1 hour ago",
+        "comments": 71,
+        "story_type": "external"
+      },
+      {
+        "rank": 2,
+        "story_id": "49398158",
+        "title": "Z80–The 1970s Microprocessor Still Alive",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "points": 18,
+        "time": "1 hour ago",
+        "comments": 8,
+        "story_type": "external"
+      },
+      {
+        "rank": 3,
+        "story_id": "49398152",
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "points": 24,
+        "time": "1 hour ago",
+        "comments": 3,
+        "story_type": "external"
+      },
+      {
+        "rank": 4,
+        "story_id": "49393052",
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "url": "https://rust-glancer.github.io/blog/hello-world/",
+        "points": 275,
+        "time": "11 hours ago",
+        "comments": 55,
+        "story_type": "external"
+      },
+      {
+        "rank": 5,
+        "story_id": "49389430",
+        "title": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "points": 736,
+        "time": "20 hours ago",
+        "comments": 280,
+        "story_type": "external"
+      },
+      {
+        "rank": 6,
+        "story_id": "49390427",
+        "title": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "points": 572,
+        "time": "19 hours ago",
+        "comments": 190,
+        "story_type": "external"
+      },
+      {
+        "rank": 7,
+        "story_id": "49386895",
+        "title": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "points": 829,
+        "time": "21 hours ago",
+        "comments": 960,
+        "story_type": "external"
+      },
+      {
+        "rank": 8,
+        "story_id": "49395628",
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "points": 452,
+        "time": "10 hours ago",
+        "comments": 321,
+        "story_type": "external"
+      },
+      {
+        "rank": 9,
+        "story_id": "49387570",
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "points": 568,
+        "time": "22 hours ago",
+        "comments": 69,
+        "story_type": "external"
+      },
+      {
+        "rank": 10,
+        "story_id": "49388154",
+        "title": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "points": 1150,
+        "time": "21 hours ago",
+        "comments": 370,
+        "story_type": "external"
+      },
+      {
+        "rank": 11,
+        "story_id": "49388694",
+        "title": "Zig’s io.threaded is neat",
+        "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+        "points": 85,
+        "time": "10 hours ago",
+        "comments": 46,
+        "story_type": "external"
+      },
+      {
+        "rank": 12,
+        "story_id": "49394496",
+        "title": "Three important steps in my maturation process",
+        "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+        "points": 153,
+        "time": "13 hours ago",
+        "comments": 74,
+        "story_type": "external"
+      },
+      {
+        "rank": 13,
+        "story_id": "49391553",
+        "title": "OTel isn’t going well",
+        "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "points": 139,
+        "time": "13 hours ago",
+        "comments": 55,
+        "story_type": "external"
+      },
+      {
+        "rank": 14,
+        "story_id": "49384210",
+        "title": "Stop Making TUIs",
+        "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "points": 174,
+        "time": "19 hours ago",
+        "comments": 236,
+        "story_type": "external"
+      },
+      {
+        "rank": 15,
+        "story_id": "49392200",
+        "title": "Scientists release biggest 2D map of the universe",
+        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "points": 215,
+        "time": "17 hours ago",
+        "comments": 57,
+        "story_type": "external"
+      },
+      {
+        "rank": 16,
+        "story_id": "49391661",
+        "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+        "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+        "points": 41,
+        "time": "7 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 17,
+        "story_id": "49391348",
+        "title": "Galactic Compass 2: now with new augmented reality mode",
+        "url": "https://interconnected.org/home/2026/08/21/galactic",
+        "points": 14,
+        "time": "4 hours ago",
+        "comments": 2,
+        "story_type": "external"
+      },
+      {
+        "rank": 18,
+        "story_id": "49357530",
+        "title": "AI boosted homework scores, then exam scores dropped: study",
+        "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+        "points": 319,
+        "time": "19 hours ago",
+        "comments": 325,
+        "story_type": "external"
+      },
+      {
+        "rank": 19,
+        "story_id": "49388752",
+        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+        "points": 289,
+        "time": "21 hours ago",
+        "comments": 188,
+        "story_type": "external"
+      },
+      {
+        "rank": 20,
+        "story_id": "49327408",
+        "title": "People of ACM – Russ Cox",
+        "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+        "points": 140,
+        "time": "17 hours ago",
+        "comments": 14,
+        "story_type": "external"
+      },
+      {
+        "rank": 21,
+        "story_id": "49386699",
+        "title": "I'm becoming AI-blind",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "points": 387,
+        "time": "23 hours ago",
+        "comments": 385,
+        "story_type": "external"
+      },
+      {
+        "rank": 22,
+        "story_id": "49380303",
+        "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+        "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+        "points": 94,
+        "time": "18 hours ago",
+        "comments": 43,
+        "story_type": "external"
+      },
+      {
+        "rank": 23,
+        "story_id": "49387525",
+        "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+        "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+        "points": 247,
+        "time": "22 hours ago",
+        "comments": 165,
+        "story_type": "external"
+      },
+      {
+        "rank": 24,
+        "story_id": "49329506",
+        "title": "ESP32 Firmware Development with Docker Sandboxes",
+        "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+        "points": 28,
+        "time": "6 hours ago",
+        "comments": 7,
+        "story_type": "external"
+      },
+      {
+        "rank": 25,
+        "story_id": "49376769",
+        "title": "Everyone says assembly is untyped—everyone is wrong",
+        "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+        "points": 88,
+        "time": "13 hours ago",
+        "comments": 36,
+        "story_type": "external"
+      },
+      {
+        "rank": 26,
+        "story_id": "49389952",
+        "title": "How we made a text-to-speech model respond in sub-50 ms",
+        "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+        "points": 153,
+        "time": "18 hours ago",
+        "comments": 37,
+        "story_type": "external"
+      },
+      {
+        "rank": 27,
+        "story_id": "49364721",
+        "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+        "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+        "points": 55,
+        "time": "10 hours ago",
+        "comments": 0,
+        "story_type": "external"
+      },
+      {
+        "rank": 28,
+        "story_id": "49346444",
+        "title": "The coolest anti-surveillance tools at Defcon [video]",
+        "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+        "points": 206,
+        "time": "22 hours ago",
+        "comments": 34,
+        "story_type": "external"
+      },
+      {
+        "rank": 29,
+        "story_id": "49376197",
+        "title": "Autolith: A programming agent with a live runtime",
+        "url": "https://www.lambda-symbolics.com/autolith",
+        "points": 70,
+        "time": "8 hours ago",
+        "comments": 23,
+        "story_type": "external"
+      },
+      {
+        "rank": 30,
+        "story_id": "49395171",
+        "title": "HN: The Good Parts (2016)",
+        "url": "https://danluu.com/hn-comments/",
+        "points": 55,
+        "time": "11 hours ago",
+        "comments": 10,
+        "story_type": "external"
+      }
+    ],
+    "_api_collection_id": "j_mt4b14m3e39m465tt",
+    "_collector_name": "front_page",
+    "input": {
+      "url": "https://news.ycombinator.com/"
+    }
+  }
+]

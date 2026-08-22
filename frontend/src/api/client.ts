@@ -3,7 +3,10 @@
  * Base URL comes from VITE_API_URL — never hardcode a host in components.
  */
 
-export const API_URL = (import.meta.env["VITE_API_URL"] ?? "").replace(/\/$/, "");
+export const API_URL = (
+  import.meta.env["VITE_API_URL"] ||
+  (import.meta.env.DEV ? "http://localhost:8000" : "")
+).replace(/\/$/, "");
 
 /** Optional dev-mode key. Do not ship a real server secret in a public build. */
 const API_KEY = import.meta.env["VITE_API_KEY"] ?? "";

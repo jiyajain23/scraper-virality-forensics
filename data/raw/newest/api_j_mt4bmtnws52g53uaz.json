@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-22T11:55:15.984Z",
+    "stories": [
+      {
+        "story_id": "49398797",
+        "title": "A coding agent on a 1987 Commodore Amiga 500 with a 7MHz CPU and 1 MB of RAM",
+        "story_url": "https://twitter.com/DXhusni/status/2090839488058859726",
+        "author": "sdoiewo",
+        "publication_time": "5 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398763",
+        "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
+        "story_url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
+        "author": "doener",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398757",
+        "title": "21-Year-Old Reveals Himself as Author of Widely Reported Fake Election Polls",
+        "story_url": "https://www.mediaite.com/media/news/21-year-old-reveals-himself-as-author-of-widely-reported-fake-election-polls/",
+        "author": "greenchair",
+        "publication_time": "9 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398752",
+        "title": "How Claude's Text Watermarking Works [video]",
+        "story_url": "https://www.youtube.com/watch?v=tLv7qRWFMlw",
+        "author": "Anon84",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398747",
+        "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
+        "story_url": "https://trymangoai.com/",
+        "author": "nexad_william",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398732",
+        "title": "Compile-time improvements in LLVM 23",
+        "story_url": "https://aengelke.net/llvm23-ct.html",
+        "author": "fanf2",
+        "publication_time": "12 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398710",
+        "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+        "story_url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+        "author": "zaksa",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398707",
+        "title": "Dashboard Touch, a build-your-own version of Touch ID",
+        "story_url": "https://www.anildash.com/2026/08/20/introducing-dashboard-touch/",
+        "author": "throw0101a",
+        "publication_time": "15 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398683",
+        "title": "PRóspera, the libertarian utopia off the coast of Honduras",
+        "story_url": "https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960",
+        "author": "phs318u",
+        "publication_time": "17 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398669",
+        "title": "Show HN: Git-reattribute – interactively rewrite Git commit attribution",
+        "story_url": "https://github.com/drk1rd/git-reattribute",
+        "author": "drk1rd",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 10,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398658",
+        "title": "Show HN: 2 Weeks 1-on-1 Web Design Mentorship Program (Registration Open)",
+        "story_url": "https://web-studio-mentorship.vercel.app/",
+        "author": "AbenezerDaniel",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398651",
+        "title": "Meteoric – Drones that clear clouds over solar farms",
+        "story_url": "https://meteoric.earth/",
+        "author": "porridgeraisin",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398645",
+        "title": "The Evolution of the Agent Harness",
+        "story_url": "https://www.latent.space/p/attention-interface",
+        "author": "glhaynes",
+        "publication_time": "23 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398627",
+        "title": "The Internet is for More than Making Money [video]",
+        "story_url": "https://www.youtube.com/watch?v=sGu1Gv8cLQo",
+        "author": "sph",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398609",
+        "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+        "story_url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+        "author": "biglyburrito",
+        "publication_time": "27 minutes ago",
+        "points": 3,
+        "comment_count": 2,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398608",
+        "title": "Strange People but Very Smart",
+        "story_url": "https://voiceinthemachine.com/2026/08/20/strange-people-but-very-smart/",
+        "author": "Anon84",
+        "publication_time": "27 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398601",
+        "title": "Show HN: SkillWorks – every Claude Code skill, scored on whether it loads",
+        "story_url": "https://skillworks.kynth.studio/",
+        "author": "kyisaiah47",
+        "publication_time": "28 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398595",
+        "title": "Show HN: Plainsay – 12 MB Mac dictation with local Whisper and Parakeet",
+        "story_url": "https://github.com/conrader/plainsay",
+        "author": "conrader",
+        "publication_time": "30 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398594",
+        "title": "Software eats software development (2014)",
+        "story_url": "https://cdixon.org/2014/04/13/software-eats-software-development/",
+        "author": "cletusigwe",
+        "publication_time": "30 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 19,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398592",
+        "title": "German Train Network – Map Timelapse",
+        "story_url": "https://chillchamp1.github.io/github.io/#de",
+        "author": "muzzy19",
+        "publication_time": "30 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398579",
+        "title": "Netherlands Fines Uber a Record Amount",
+        "story_url": "https://www.telegraaf.nl/financieel/ap-beboet-uber-met-recordbedrag/160337859.html",
+        "author": "doener",
+        "publication_time": "33 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398578",
+        "title": "Open sourcing MonsterWriter, piece by piece",
+        "story_url": "https://www.monsterwriter.com/open-source.html",
+        "author": "WolfOliver",
+        "publication_time": "33 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398566",
+        "title": "Show HN: I ran Benjamin Graham's original checklist on all 503 S&P 500 companies",
+        "story_url": "https://grahamwise.com/",
+        "author": "nipunaeka89",
+        "publication_time": "35 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398541",
+        "title": "Gamifornication: One-Shotted RHCP Californication Game",
+        "story_url": "https://realloc.fi/gamifornication/",
+        "author": "velmu",
+        "publication_time": "39 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398530",
+        "title": "SignalWatch – AI crypto scanner and smart alerts in your pocket",
+        "story_url": "https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US",
+        "author": "alligatorpeach",
+        "publication_time": "41 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398525",
+        "title": "Donald Trump's bullying of Canada is endless",
+        "story_url": "https://www.economist.com/the-americas/2026/08/09/donald-trumps-bullying-of-canada-is-endless",
+        "author": "Gander5739",
+        "publication_time": "42 minutes ago",
+        "points": 5,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398523",
+        "title": "Why Are Electric Cars Easier to Build Than Gas Cars? [video]",
+        "story_url": "https://www.youtube.com/shorts/TR_ligs7f4s",
+        "author": "thelastgallon",
+        "publication_time": "42 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398518",
+        "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras",
+        "story_url": "https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units",
+        "author": "bushwart",
+        "publication_time": "42 minutes ago",
+        "points": 4,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398511",
+        "title": "Show HN: We killed templates and rebuilt presentations from scratch",
+        "story_url": "https://www.slaide.de/",
+        "author": "ogiermannluk",
+        "publication_time": "43 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 29,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398509",
+        "title": "AI;DR There May Be Nobody There",
+        "story_url": "https://yusufaytas.com/there-may-be-nobody-there",
+        "author": "mostlymike",
+        "publication_time": "44 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt4bmtnws52g53uaz",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]

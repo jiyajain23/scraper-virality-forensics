@@ -1,0 +1,342 @@
+[
+  {
+    "scraped_at": "2026-08-22T11:32:41.623Z",
+    "stories": [
+      {
+        "story_id": "49398645",
+        "title": "The Evolution of the Agent Harness",
+        "story_url": "https://www.latent.space/p/attention-interface",
+        "author": "glhaynes",
+        "publication_time": "0 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 1,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398627",
+        "title": "The Internet is for More than Making Money [video]",
+        "story_url": "https://www.youtube.com/watch?v=sGu1Gv8cLQo",
+        "author": "sph",
+        "publication_time": "2 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 2,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398609",
+        "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+        "story_url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+        "author": "biglyburrito",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 3,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398608",
+        "title": "Strange People but Very Smart",
+        "story_url": "https://voiceinthemachine.com/2026/08/20/strange-people-but-very-smart/",
+        "author": "Anon84",
+        "publication_time": "4 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 4,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398601",
+        "title": "Show HN: SkillWorks – every Claude Code skill, scored on whether it loads",
+        "story_url": "https://skillworks.kynth.studio/",
+        "author": "kyisaiah47",
+        "publication_time": "6 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 5,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398595",
+        "title": "Show HN: Plainsay – 12 MB Mac dictation with local Whisper and Parakeet",
+        "story_url": "https://github.com/conrader/plainsay",
+        "author": "conrader",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 6,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398594",
+        "title": "Software eats software development (2014)",
+        "story_url": "https://cdixon.org/2014/04/13/software-eats-software-development/",
+        "author": "cletusigwe",
+        "publication_time": "7 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 7,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398592",
+        "title": "German Train Network – Map Timelapse",
+        "story_url": "https://chillchamp1.github.io/github.io/#de",
+        "author": "muzzy19",
+        "publication_time": "8 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 8,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398579",
+        "title": "Netherlands Fines Uber a Record Amount",
+        "story_url": "https://www.telegraaf.nl/financieel/ap-beboet-uber-met-recordbedrag/160337859.html",
+        "author": "doener",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 9,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398578",
+        "title": "Open sourcing MonsterWriter, piece by piece",
+        "story_url": "https://www.monsterwriter.com/open-source.html",
+        "author": "WolfOliver",
+        "publication_time": "10 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 10,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398566",
+        "title": "Show HN: I ran Benjamin Graham's original checklist on all 503 S&P 500 companies",
+        "story_url": "https://grahamwise.com/",
+        "author": "nipunaeka89",
+        "publication_time": "13 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 11,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398541",
+        "title": "Gamifornication – One-shot Californication",
+        "story_url": "https://realloc.fi/gamifornication/",
+        "author": "velmu",
+        "publication_time": "17 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 12,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398530",
+        "title": "SignalWatch – AI crypto scanner and smart alerts in your pocket",
+        "story_url": "https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US",
+        "author": "alligatorpeach",
+        "publication_time": "18 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 13,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398525",
+        "title": "Donald Trump's bullying of Canada is endless",
+        "story_url": "https://www.economist.com/the-americas/2026/08/09/donald-trumps-bullying-of-canada-is-endless",
+        "author": "Gander5739",
+        "publication_time": "19 minutes ago",
+        "points": 2,
+        "comment_count": 0,
+        "rank": 14,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398523",
+        "title": "Why Are Electric Cars Easier to Build Than Gas Cars? [video]",
+        "story_url": "https://www.youtube.com/shorts/TR_ligs7f4s",
+        "author": "thelastgallon",
+        "publication_time": "19 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 15,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398518",
+        "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras",
+        "story_url": "https://www.tomshardware.com/tech-industry/cyber-security/slovakia-discovers-russian-backdoors-in-279-new-traffic-cameras-national-security-service-deactivates-offending-units",
+        "author": "bushwart",
+        "publication_time": "20 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 16,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398511",
+        "title": "Show HN: We killed templates and rebuilt presentations from scratch",
+        "story_url": "https://www.slaide.de/",
+        "author": "ogiermannluk",
+        "publication_time": "21 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 17,
+        "story_type": "show"
+      },
+      {
+        "story_id": "49398509",
+        "title": "AI;DR There May Be Nobody There",
+        "story_url": "https://yusufaytas.com/there-may-be-nobody-there",
+        "author": "mostlymike",
+        "publication_time": "21 minutes ago",
+        "points": 3,
+        "comment_count": 0,
+        "rank": 18,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398505",
+        "title": "Im 18 and building my startup and this is what I feel",
+        "story_url": "https://news.ycombinator.com/item?id=49398505",
+        "author": "ritupatil2008",
+        "publication_time": "22 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 19,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49398493",
+        "title": "Five things make agent-built UI look generic. Each takes 30 seconds to check",
+        "story_url": "https://tailthemes.com/blog/ai-design-slop-quality-gate",
+        "author": "adriandemian",
+        "publication_time": "24 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 20,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398490",
+        "title": "What's the best open source Wispr alternative?",
+        "story_url": "https://news.ycombinator.com/item?id=49398490",
+        "author": "-house",
+        "publication_time": "25 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 21,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49398462",
+        "title": "We Taught a $3 Chip to Run CSS",
+        "story_url": "https://geastack.com/blog-we-taught-a-chip-to-run-css",
+        "author": "arbayi",
+        "publication_time": "29 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 22,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398457",
+        "title": "Company's plans to deploy space mirrors could jeopardize the night sky for",
+        "story_url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+        "author": "joozio",
+        "publication_time": "30 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 23,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398447",
+        "title": "Fusion powerly good coverage of basics and problems",
+        "story_url": "https://www.youtube.com/watch?v=bPUAKW1Dyek",
+        "author": "lifeisstillgood",
+        "publication_time": "31 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 24,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398441",
+        "title": "AI Is Rewriting Mathematics",
+        "story_url": "https://nofilk.substack.com/p/ai-is-rewriting-mathematics",
+        "author": "fragmede",
+        "publication_time": "32 minutes ago",
+        "points": 1,
+        "comment_count": 1,
+        "rank": 25,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398434",
+        "title": "gRPC-Web Should Have Fixed gRPC",
+        "story_url": "https://kmcd.dev/posts/grpc-web-should-have-fixed-grpc/",
+        "author": "1317",
+        "publication_time": "34 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 26,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398399",
+        "title": "Security assessment found open model near frontiers",
+        "story_url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+        "author": "vic_b",
+        "publication_time": "42 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 27,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398393",
+        "title": "Tlbic v13.0: Evidence, Incentives, and Sunk Costs",
+        "story_url": "https://drive.google.com/file/d/1tYmhklEoq6n_2bJnI-TEwkSbtbLocrz4/view?usp=drive_link",
+        "author": "michikawa59",
+        "publication_time": "44 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 28,
+        "story_type": "story"
+      },
+      {
+        "story_id": "49398366",
+        "title": "Continue coding agent is dead. Alternatives?",
+        "story_url": "https://news.ycombinator.com/item?id=49398366",
+        "author": "roscas",
+        "publication_time": "51 minutes ago",
+        "points": 3,
+        "comment_count": 1,
+        "rank": 29,
+        "story_type": "ask"
+      },
+      {
+        "story_id": "49398361",
+        "title": "Microsoft built a dedicated app that forces Bing everywhere on Windows 11",
+        "story_url": "https://www.windowslatest.com/2026/08/22/microsoft-built-a-dedicated-app-that-forces-bing-everywhere-on-windows-11-including-chrome-firefox-and-brave/",
+        "author": "monoclerb",
+        "publication_time": "52 minutes ago",
+        "points": 1,
+        "comment_count": 0,
+        "rank": 30,
+        "story_type": "story"
+      }
+    ],
+    "_api_collection_id": "j_mt4atvet2692kqe3f5",
+    "_collector_name": "newest",
+    "input": {
+      "url": "https://news.ycombinator.com/newest"
+    }
+  }
+]
