@@ -9,6 +9,8 @@ import { Nav } from "@/components/site/Nav";
 import { Footer } from "@/components/site/Footer";
 import { FloatingCta } from "@/components/site/FloatingCta";
 import { SmoothScroll } from "@/components/motion/SmoothScroll";
+import { Toaster } from "@/components/ui/sonner";
+import { useWakeBackend } from "@/hooks/useWakeBackend";
 
 function NotFoundComponent() {
   return (
@@ -73,6 +75,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
+  useWakeBackend();
 
   return (
     <QueryClientProvider client={queryClient}>
@@ -84,6 +87,7 @@ function RootComponent() {
       </main>
       <Footer />
       <FloatingCta />
+      <Toaster position="bottom-right" richColors />
     </QueryClientProvider>
   );
 }
